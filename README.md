@@ -9,3 +9,7 @@ Create a migration with dotnet ef:
 
 Update DB after creating new migration:
 `dotnet ef database update -s API -p Infrastructure`
+
+Start application:
+`cd API`
+`dotnet watch`
