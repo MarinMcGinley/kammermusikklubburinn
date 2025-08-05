@@ -9,25 +9,20 @@ namespace API.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-public class ConcertSeasonsController : ControllerBase
+public class ConcertSeasonsController(IConcertSeasonRepository repo) : ControllerBase
 {
-    private readonly ConcertContext context;
 
-    public ConcertSeasonsController(ConcertContext context)
-    {
-        this.context = context;
-    }
 
     [HttpGet]
     public async Task<ActionResult<IEnumerable<ConcertSeason>>> GetConcertSeasons()
     {
-        return await context.ConcertSeasons.ToListAsync();
+        return Ok(await repo.GetConcertSeasonsAsync());
     }
 
     [HttpGet("{id:int}")]
     public async Task<ActionResult<ConcertSeason>> GetConcertSeason(int id)
     {
-        var product = await context.ConcertSeasons.FindAsync(id);
+        var product = await repo.GetConcertSeasonByIdAsync(id);
 
         if (product == null) return NotFound();
 
@@ -37,11 +32,14 @@ public class ConcertSeasonsController : ControllerBase
     [HttpPost]
     public async Task<ActionResult<ConcertSeason>> CreateConcertSeason(ConcertSeason concertSeason)
     {
-        context.ConcertSeasons.Add(concertSeason);
+        repo.AddConcertSeason(concertSeason);
 
-        await context.SaveChangesAsync();
+        if (await repo.SaveChangesAsync())
+        {
+            return CreatedAtAction("GetConcertSeason", new { id = concertSeason.Id }, concertSeason);
+        }
 
-        return concertSeason;
+        return BadRequest("Problem creating concert season");
     }
 
     [HttpPut("{id:int}")]
@@ -49,29 +47,35 @@ public class ConcertSeasonsController : ControllerBase
     {
         if (concertSeason.Id != id || !ConcertSeasonExists(id)) return BadRequest("Cannot update this concert season");
 
-        context.Entry(concertSeason).State = EntityState.Modified;
+        repo.UpdateConcertSeason(concertSeason);
 
-        await context.SaveChangesAsync();
+        if (await repo.SaveChangesAsync())
+        {
+            return NoContent();
+        }
 
-        return NoContent();
+        return BadRequest("Problem updating the concert season");
     }
 
     [HttpDelete("{id:int}")]
     public async Task<ActionResult> DeleteConcertSeason(int id)
     {
-        var concertSeason = await context.ConcertSeasons.FindAsync(id);
+        var concertSeason = await repo.GetConcertSeasonByIdAsync(id);
 
         if (concertSeason == null) return NotFound();
 
-        context.ConcertSeasons.Remove(concertSeason);
+        repo.DeleteConcertSeason(concertSeason);
 
-        await context.SaveChangesAsync();
+        if (await repo.SaveChangesAsync())
+        {
+            return NoContent();
+        }
 
-        return NoContent();
+        return BadRequest("Problem deleting the concert season");
     }
 
     private bool ConcertSeasonExists(int id)
     {
-        return context.ConcertSeasons.Any(x => x.Id == id);
+        return repo.ConcertSeasonExists(id);
     }
 }
