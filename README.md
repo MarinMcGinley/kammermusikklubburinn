@@ -10,6 +10,9 @@ Create a migration with dotnet ef:
 Update DB after creating new migration:
 `dotnet ef database update -s API -p Infrastructure`
 
+Drop DB:
+`dotnet ef database drop -p Infrastructure -s API`
+
 Start application:
 `cd API`
 `dotnet watch`
