@@ -9,6 +9,17 @@ public class ConcertSeasonSpecification : BaseSpecification<ConcertSeason>
         string.IsNullOrWhiteSpace(title) || x.Title == title
     )
     {
+        // AN EXAMPLE OF SPECIFICATION
+        // switch (title)
+        // {
+        //     case "priceAsc":
+        //         AddOrderBy(x => x.Title);
+        //         break;
+        //     default:
+        //         AddOrderBy(x => x.Title);
+        //         break;
+
+        // }
     }
 
 }
