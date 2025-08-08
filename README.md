@@ -16,3 +16,6 @@ Drop DB:
 Start application:
 `cd API`
 `dotnet watch`
+
+Attach a debugger:
+Run the project, click the debugger icon on the left hand side panel, press the green play button and search for API.
