@@ -13,5 +13,11 @@ public class ConcertSeriesSpecParams
         set => _pageSize = (value > MaxPageSize) ? MaxPageSize : value;
     }
     public string? Sort { get; set; }
-    public string? Title { get; set; }
+    private string? _search;
+    public string Search
+    {
+        get => _search ?? "";
+        set => _search = value.ToLower();
+    }
+
 }
