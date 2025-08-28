@@ -5,10 +5,11 @@ namespace Core.Specifications;
 
 public class ConcertSeasonSpecification : BaseSpecification<ConcertSeason>
 {
-    public ConcertSeasonSpecification(string? title) : base(x =>
-        string.IsNullOrWhiteSpace(title) || x.Title == title
+    public ConcertSeasonSpecification(ConcertSeriesSpecParams specParams) : base(x =>
+        string.IsNullOrWhiteSpace(specParams.Title) || x.Title == specParams.Title
     )
     {
+        ApplyPaging(specParams.PageSize * (specParams.PageIndex - 1), specParams.PageSize);
         // AN EXAMPLE OF SPECIFICATION
         // switch (title)
         // {

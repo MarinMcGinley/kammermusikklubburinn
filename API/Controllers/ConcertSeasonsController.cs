@@ -1,5 +1,6 @@
 using System;
 using System.Net.Http.Headers;
+using API.RequestHelpers;
 using Core.Entities;
 using Core.Interfaces;
 using Core.Specifications;
@@ -9,19 +10,16 @@ using Microsoft.EntityFrameworkCore;
 
 namespace API.Controllers;
 
-[ApiController]
-[Route("api/[controller]")]
-public class ConcertSeasonsController(IGenericRepository<ConcertSeason> repo) : ControllerBase
+public class ConcertSeasonsController(IGenericRepository<ConcertSeason> repo) : BaseApiController
 {
 
 
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<ConcertSeason>>> GetConcertSeasons(string? title)
+    public async Task<ActionResult<IEnumerable<ConcertSeason>>> GetConcertSeasons([FromQuery] ConcertSeriesSpecParams specParams)
     {
-        var spec = new ConcertSeasonSpecification(title);
-        var concertSeasons = await repo.ListAsync(spec);
+        var spec = new ConcertSeasonSpecification(specParams);
 
-        return Ok(concertSeasons);
+        return await CreatePagedResult(repo, spec, specParams.PageIndex, specParams.PageSize);
     }
 
     [HttpGet("{id:int}")]
