@@ -4,6 +4,7 @@ using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Infrastructure.Migrations
 {
     [DbContext(typeof(ConcertContext))]
-    partial class ConcertContextModelSnapshot : ModelSnapshot
+    [Migration("20250901193902_WithAllEntities")]
+    partial class WithAllEntities
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -56,6 +59,10 @@ namespace Infrastructure.Migrations
                     b.Property<string>("Description")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("Id");
 
                     b.HasIndex("ConcertSeasonId");
@@ -78,6 +85,46 @@ namespace Infrastructure.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("ConcertSeasons");
+                });
+
+            modelBuilder.Entity("Core.Entities.Group", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Group");
+                });
+
+            modelBuilder.Entity("Core.Entities.GroupInConcert", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("ConcertId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("GroupId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ConcertId");
+
+                    b.HasIndex("GroupId");
+
+                    b.ToTable("GroupInConcert");
                 });
 
             modelBuilder.Entity("Core.Entities.Instrument", b =>
@@ -122,22 +169,22 @@ namespace Infrastructure.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<int>("GroupId")
+                        .HasColumnType("int");
+
                     b.Property<int>("InstrumentId")
                         .HasColumnType("int");
 
                     b.Property<int>("PerformerId")
                         .HasColumnType("int");
 
-                    b.Property<int>("PieceInConcertId")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
+
+                    b.HasIndex("GroupId");
 
                     b.HasIndex("InstrumentId");
 
                     b.HasIndex("PerformerId");
-
-                    b.HasIndex("PieceInConcertId");
 
                     b.ToTable("PerformerInGroup");
                 });
@@ -175,10 +222,6 @@ namespace Infrastructure.Migrations
                     b.Property<int>("ConcertId")
                         .HasColumnType("int");
 
-                    b.Property<string>("GroupName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<int>("PieceId")
                         .HasColumnType("int");
 
@@ -202,8 +245,33 @@ namespace Infrastructure.Migrations
                     b.Navigation("ConcertSeason");
                 });
 
+            modelBuilder.Entity("Core.Entities.GroupInConcert", b =>
+                {
+                    b.HasOne("Core.Entities.Concert", "Concert")
+                        .WithMany("GroupInConcert")
+                        .HasForeignKey("ConcertId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Core.Entities.Group", "Group")
+                        .WithMany("GroupInConcert")
+                        .HasForeignKey("GroupId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Concert");
+
+                    b.Navigation("Group");
+                });
+
             modelBuilder.Entity("Core.Entities.PerformerInGroup", b =>
                 {
+                    b.HasOne("Core.Entities.Group", "Group")
+                        .WithMany("PerformersInGroups")
+                        .HasForeignKey("GroupId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.HasOne("Core.Entities.Instrument", "Instrument")
                         .WithMany("PerformersInGroups")
                         .HasForeignKey("InstrumentId")
@@ -211,22 +279,16 @@ namespace Infrastructure.Migrations
                         .IsRequired();
 
                     b.HasOne("Core.Entities.Performer", "Performer")
-                        .WithMany("PerformerInGroups")
+                        .WithMany("PerformersInGroups")
                         .HasForeignKey("PerformerId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Core.Entities.PieceInConcert", "PieceInConcert")
-                        .WithMany("PerformersInGroup")
-                        .HasForeignKey("PieceInConcertId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                    b.Navigation("Group");
 
                     b.Navigation("Instrument");
 
                     b.Navigation("Performer");
-
-                    b.Navigation("PieceInConcert");
                 });
 
             modelBuilder.Entity("Core.Entities.Piece", b =>
@@ -243,13 +305,13 @@ namespace Infrastructure.Migrations
             modelBuilder.Entity("Core.Entities.PieceInConcert", b =>
                 {
                     b.HasOne("Core.Entities.Concert", "Concert")
-                        .WithMany("PiecesInConcert")
+                        .WithMany("PieceInConcert")
                         .HasForeignKey("ConcertId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("Core.Entities.Piece", "Piece")
-                        .WithMany("PieceInConcerts")
+                        .WithMany("PieceInConcert")
                         .HasForeignKey("PieceId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -266,12 +328,21 @@ namespace Infrastructure.Migrations
 
             modelBuilder.Entity("Core.Entities.Concert", b =>
                 {
-                    b.Navigation("PiecesInConcert");
+                    b.Navigation("GroupInConcert");
+
+                    b.Navigation("PieceInConcert");
                 });
 
             modelBuilder.Entity("Core.Entities.ConcertSeason", b =>
                 {
                     b.Navigation("Concerts");
+                });
+
+            modelBuilder.Entity("Core.Entities.Group", b =>
+                {
+                    b.Navigation("GroupInConcert");
+
+                    b.Navigation("PerformersInGroups");
                 });
 
             modelBuilder.Entity("Core.Entities.Instrument", b =>
@@ -281,17 +352,12 @@ namespace Infrastructure.Migrations
 
             modelBuilder.Entity("Core.Entities.Performer", b =>
                 {
-                    b.Navigation("PerformerInGroups");
+                    b.Navigation("PerformersInGroups");
                 });
 
             modelBuilder.Entity("Core.Entities.Piece", b =>
                 {
-                    b.Navigation("PieceInConcerts");
-                });
-
-            modelBuilder.Entity("Core.Entities.PieceInConcert", b =>
-                {
-                    b.Navigation("PerformersInGroup");
+                    b.Navigation("PieceInConcert");
                 });
 #pragma warning restore 612, 618
         }

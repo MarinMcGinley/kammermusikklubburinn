@@ -1,0 +1,28 @@
+{
+  "ConcertSeasons": [
+    {
+      "Title": "string",
+      "Concerts": [
+        {
+          "Description": "string",
+          "Date": "string",
+          "Pieces": [
+            {
+              "Title": "string",
+              "Composer": {
+                "Name": "string"
+              },
+              "GroupName": "string",
+              "Performers": [
+                {
+                  "Name": "string",
+                  "Instrument": { "Name": "string" }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
