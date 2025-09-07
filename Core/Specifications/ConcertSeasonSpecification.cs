@@ -9,7 +9,10 @@ public class ConcertSeasonSpecification : BaseSpecification<ConcertSeason>
         string.IsNullOrWhiteSpace(specParams.Search) || x.Title.ToLower().Contains(specParams.Search)
     )
     {
+        // AddInclude(x => x.Concerts);
+        // AddInclude("Concerts");
         ApplyPaging(specParams.PageSize * (specParams.PageIndex - 1), specParams.PageSize);
+
         // AN EXAMPLE OF SPECIFICATION
         // switch (title)
         // {

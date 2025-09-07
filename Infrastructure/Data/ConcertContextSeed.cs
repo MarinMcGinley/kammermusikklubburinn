@@ -40,6 +40,7 @@ public class ConcertContextSeed
                     foreach (SeedConcert concert in concertSeason.Concerts)
                     {
                         var newConcert = new Concert { Description = concert.Description, Date = concert.Date, ConcertSeason = newConcertSeason };
+                        newConcertSeason.Concerts.Add(newConcert);
 
                         foreach (SeedPiece piece in concert.Pieces)
                         {
@@ -71,6 +72,7 @@ public class ConcertContextSeed
                                     GroupName = piece.GroupName,
                                     Piece = newPiece,
                                 };
+                                newConcert.PiecesInConcert.Add(newPieceInConcert);
 
                                 foreach (SeedPerformer performer in piece.Performers)
                                 {
@@ -90,6 +92,8 @@ public class ConcertContextSeed
                                         Instrument = newInstrument,
                                         PieceInConcert = newPieceInConcert
                                     };
+
+                                    newPieceInConcert.PerformersInGroup.Add(performerInGroup);
                                 }
                             }
 

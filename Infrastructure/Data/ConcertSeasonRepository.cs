@@ -6,8 +6,6 @@ namespace Infrastructure.Data;
 
 public class ConcertSeasonRepository(ConcertContext context) : IConcertSeasonRepository
 {
-
-
     public void AddConcertSeason(ConcertSeason concertSeason)
     {
         context.ConcertSeasons.Add(concertSeason);

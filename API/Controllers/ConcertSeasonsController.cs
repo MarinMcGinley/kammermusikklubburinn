@@ -1,12 +1,11 @@
-using System;
-using System.Net.Http.Headers;
-using API.RequestHelpers;
+
+
+using API.DTOs;
+using API.Extensions;
 using Core.Entities;
 using Core.Interfaces;
 using Core.Specifications;
-using Infrastructure.Data;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 
 namespace API.Controllers;
 
@@ -15,21 +14,21 @@ public class ConcertSeasonsController(IGenericRepository<ConcertSeason> repo) : 
 
 
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<ConcertSeason>>> GetConcertSeasons([FromQuery] ConcertSeriesSpecParams specParams)
+    public async Task<ActionResult<IEnumerable<ConcertSeasonDto>>> GetConcertSeasons([FromQuery] ConcertSeriesSpecParams specParams)
     {
         var spec = new ConcertSeasonSpecification(specParams);
 
-        return await CreatePagedResult(repo, spec, specParams.PageIndex, specParams.PageSize);
+        return await CreatePagedResult(repo, spec, specParams.PageIndex, specParams.PageSize, o => o.ToDto());
     }
 
     [HttpGet("{id:int}")]
-    public async Task<ActionResult<ConcertSeason>> GetConcertSeason(int id)
+    public async Task<ActionResult<ConcertSeasonDto>> GetConcertSeason(int id)
     {
-        var product = await repo.GetByIdAsync(id);
+        var concertSeason = await repo.GetByIdAsync(id);
 
-        if (product == null) return NotFound();
+        if (concertSeason == null) return NotFound();
 
-        return product;
+        return concertSeason.ToDto();
     }
 
     [HttpPost]
