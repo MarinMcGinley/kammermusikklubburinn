@@ -29,7 +29,11 @@ try
     var services = scope.ServiceProvider;
     var context = services.GetRequiredService<ConcertContext>();
     await context.Database.MigrateAsync();
-    await ConcertContextSeed.SeedAsync(context);
+
+    var logger = services.GetRequiredService<ILogger<ConcertContextSeed>>();
+    var seeder = new ConcertContextSeed(logger);
+
+    await seeder.SeedAsync(context);
 }
 catch (System.Exception ex)
 {
