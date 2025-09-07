@@ -4,6 +4,7 @@ using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Infrastructure.Migrations
 {
     [DbContext(typeof(ConcertContext))]
-    partial class ConcertContextModelSnapshot : ModelSnapshot
+    [Migration("20250906131737_MakeCollectionsInstantiated")]
+    partial class MakeCollectionsInstantiated
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -36,7 +39,7 @@ namespace Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Composers");
+                    b.ToTable("Composer");
                 });
 
             modelBuilder.Entity("Core.Entities.Concert", b =>
@@ -60,7 +63,7 @@ namespace Infrastructure.Migrations
 
                     b.HasIndex("ConcertSeasonId");
 
-                    b.ToTable("Concert");
+                    b.ToTable("Concerts");
                 });
 
             modelBuilder.Entity("Core.Entities.ConcertSeason", b =>
@@ -94,7 +97,7 @@ namespace Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Instruments");
+                    b.ToTable("Instrument");
                 });
 
             modelBuilder.Entity("Core.Entities.Performer", b =>
@@ -111,7 +114,7 @@ namespace Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Performers");
+                    b.ToTable("Performer");
                 });
 
             modelBuilder.Entity("Core.Entities.PerformerInGroup", b =>
@@ -161,7 +164,7 @@ namespace Infrastructure.Migrations
 
                     b.HasIndex("ComposerId");
 
-                    b.ToTable("Pieces");
+                    b.ToTable("Piece");
                 });
 
             modelBuilder.Entity("Core.Entities.PieceInConcert", b =>

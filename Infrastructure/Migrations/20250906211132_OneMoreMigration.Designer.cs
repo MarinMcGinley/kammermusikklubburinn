@@ -4,6 +4,7 @@ using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Infrastructure.Migrations
 {
     [DbContext(typeof(ConcertContext))]
-    partial class ConcertContextModelSnapshot : ModelSnapshot
+    [Migration("20250906211132_OneMoreMigration")]
+    partial class OneMoreMigration
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -60,7 +63,7 @@ namespace Infrastructure.Migrations
 
                     b.HasIndex("ConcertSeasonId");
 
-                    b.ToTable("Concert");
+                    b.ToTable("Concerts");
                 });
 
             modelBuilder.Entity("Core.Entities.ConcertSeason", b =>
@@ -139,7 +142,7 @@ namespace Infrastructure.Migrations
 
                     b.HasIndex("PieceInConcertId");
 
-                    b.ToTable("PerformerInGroup");
+                    b.ToTable("PerformersInGroup");
                 });
 
             modelBuilder.Entity("Core.Entities.Piece", b =>
@@ -188,7 +191,7 @@ namespace Infrastructure.Migrations
 
                     b.HasIndex("PieceId");
 
-                    b.ToTable("PieceInConcert");
+                    b.ToTable("PiecesInConcert");
                 });
 
             modelBuilder.Entity("Core.Entities.Concert", b =>
