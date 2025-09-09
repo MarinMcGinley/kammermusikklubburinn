@@ -9,22 +9,24 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers;
 
-public class ConcertSeasonsController(IGenericRepository<ConcertSeason> repo) : BaseApiController
+public class ConcertSeasonsController(
+    IGenericRepository<ConcertSeason> concertSeasonRepo,
+IGenericRepository<Concert> concertRepo) : BaseApiController
 {
 
 
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<ConcertSeasonDto>>> GetConcertSeasons([FromQuery] ConcertSeriesSpecParams specParams)
+    public async Task<ActionResult<IEnumerable<ConcertSeasonDto>>> GetConcertSeasons([FromQuery] SpecParams specParams)
     {
         var spec = new ConcertSeasonSpecification(specParams);
 
-        return await CreatePagedResult(repo, spec, specParams.PageIndex, specParams.PageSize, o => o.ToDto());
+        return await CreatePagedResult(concertSeasonRepo, spec, specParams.PageIndex, specParams.PageSize, o => o.ToDto());
     }
 
     [HttpGet("{id:int}")]
     public async Task<ActionResult<ConcertSeasonDto>> GetConcertSeason(int id)
     {
-        var concertSeason = await repo.GetByIdAsync(id);
+        var concertSeason = await concertSeasonRepo.GetByIdAsync(id);
 
         if (concertSeason == null) return NotFound();
 
@@ -34,9 +36,9 @@ public class ConcertSeasonsController(IGenericRepository<ConcertSeason> repo) : 
     [HttpPost]
     public async Task<ActionResult<ConcertSeason>> CreateConcertSeason(ConcertSeason concertSeason)
     {
-        repo.Add(concertSeason);
+        concertSeasonRepo.Add(concertSeason);
 
-        if (await repo.SaveAllAsync())
+        if (await concertSeasonRepo.SaveAllAsync())
         {
             return CreatedAtAction("GetConcertSeason", new { id = concertSeason.Id }, concertSeason);
         }
@@ -49,9 +51,9 @@ public class ConcertSeasonsController(IGenericRepository<ConcertSeason> repo) : 
     {
         if (concertSeason.Id != id || !ConcertSeasonExists(id)) return BadRequest("Cannot update this concert season");
 
-        repo.Update(concertSeason);
+        concertSeasonRepo.Update(concertSeason);
 
-        if (await repo.SaveAllAsync())
+        if (await concertSeasonRepo.SaveAllAsync())
         {
             return NoContent();
         }
@@ -62,13 +64,13 @@ public class ConcertSeasonsController(IGenericRepository<ConcertSeason> repo) : 
     [HttpDelete("{id:int}")]
     public async Task<ActionResult> DeleteConcertSeason(int id)
     {
-        var concertSeason = await repo.GetByIdAsync(id);
+        var concertSeason = await concertSeasonRepo.GetByIdAsync(id);
 
         if (concertSeason == null) return NotFound();
 
-        repo.Remove(concertSeason);
+        concertSeasonRepo.Remove(concertSeason);
 
-        if (await repo.SaveAllAsync())
+        if (await concertSeasonRepo.SaveAllAsync())
         {
             return NoContent();
         }
@@ -76,8 +78,16 @@ public class ConcertSeasonsController(IGenericRepository<ConcertSeason> repo) : 
         return BadRequest("Problem deleting the concert season");
     }
 
+    [HttpGet("{id:int}/concerts")]
+    public async Task<ActionResult<IEnumerable<ConcertDto>>> GetConcerts(int id, [FromQuery] SpecParams specParams)
+    {
+        var spec = new ConcertSpecification(specParams, id);
+
+        return await CreatePagedResult(concertRepo, spec, specParams.PageIndex, specParams.PageSize, o => o.ToDto());
+    }
+
     private bool ConcertSeasonExists(int id)
     {
-        return repo.Exists(id);
+        return concertSeasonRepo.Exists(id);
     }
 }

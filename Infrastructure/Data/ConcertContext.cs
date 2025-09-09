@@ -7,6 +7,7 @@ namespace Infrastructure.Data;
 public class ConcertContext(DbContextOptions options) : DbContext(options)
 {
     public DbSet<ConcertSeason> ConcertSeasons { get; set; }
+    public DbSet<Concert> Concerts { get; set; }
     public DbSet<Piece> Pieces { get; set; }
     public DbSet<Composer> Composers { get; set; }
     public DbSet<Instrument> Instruments { get; set; }
