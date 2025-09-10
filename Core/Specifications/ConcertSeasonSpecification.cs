@@ -5,7 +5,7 @@ namespace Core.Specifications;
 
 public class ConcertSeasonSpecification : BaseSpecification<ConcertSeason>
 {
-    public ConcertSeasonSpecification(ConcertSeriesSpecParams specParams) : base(x =>
+    public ConcertSeasonSpecification(SpecParams specParams) : base(x =>
         string.IsNullOrWhiteSpace(specParams.Search) || x.Title.ToLower().Contains(specParams.Search)
     )
     {

@@ -2,7 +2,7 @@ using System;
 
 namespace Core.Specifications;
 
-public class ConcertSeriesSpecParams
+public class SpecParams
 {
     private const int MaxPageSize = 50;
     public int PageIndex { get; set; } = 1;

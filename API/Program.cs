@@ -14,6 +14,7 @@ builder.Services.AddDbContext<ConcertContext>(opt =>
     opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 builder.Services.AddScoped<IConcertSeasonRepository, ConcertSeasonRepository>();
+builder.Services.AddScoped<IConcertRepository, ConcertRepository>();
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 // builder.Services.AddCors();
 
