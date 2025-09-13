@@ -20,4 +20,11 @@ public class ConcertSpecification : BaseSpecification<Concert>
         ApplyPaging(specParams.PageSize * (specParams.PageIndex - 1), specParams.PageSize);
     }
 
+    public ConcertSpecification(int concertId) : base(x => x.Id == concertId)
+    {
+        AddInclude("PiecesInConcert.Piece.Composer");
+        AddInclude("PiecesInConcert.PerformersInGroup.Performer");
+        AddInclude("PiecesInConcert.PerformersInGroup.Instrument");
+    }
+
 }
