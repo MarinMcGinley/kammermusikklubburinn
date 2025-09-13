@@ -11,7 +11,8 @@ namespace API.Controllers;
 
 public class ConcertSeasonsController(
     IGenericRepository<ConcertSeason> concertSeasonRepo,
-IGenericRepository<Concert> concertRepo) : BaseApiController
+    IGenericRepository<Concert> concertRepo
+) : BaseApiController
 {
 
 
