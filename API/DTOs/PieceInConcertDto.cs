@@ -6,5 +6,5 @@ public class PieceInConcertDto
 {
     public required PieceDto Piece { get; set; }
     public required string GroupName { get; set; }
-    public required List<PerformerDto> Performers { get; set; }
+    public required List<PerformerInConcertDto> Performers { get; set; }
 }

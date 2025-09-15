@@ -82,9 +82,9 @@ public class ConcertSeasonsController(
     [HttpGet("{id:int}/concerts")]
     public async Task<ActionResult<IEnumerable<ConcertDto>>> GetConcerts(int id, [FromQuery] SpecParams specParams)
     {
-        var spec = new ConcertSpecification(specParams, id);
+        var spec = new ConcertSpecification(specParams, id, "ConcertSeasonId");
 
-        return await CreatePagedResult(concertRepo, spec, specParams.PageIndex, specParams.PageSize, o => o.ToDto());
+        return await CreatePagedResult(concertRepo, spec, specParams.PageIndex, specParams.PageSize, c => c.ToDto());
     }
 
     private bool ConcertSeasonExists(int id)

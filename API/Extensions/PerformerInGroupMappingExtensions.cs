@@ -6,10 +6,10 @@ namespace API.Extensions;
 
 public static class PerformerInGroupMappingExtensions
 {
-    public static PerformerDto ToDto(this PerformerInGroup performerInGroup)
+    public static PerformerInConcertDto ToDto(this PerformerInGroup performerInGroup)
     {
 
-        return new PerformerDto
+        return new PerformerInConcertDto
         {
             Id = performerInGroup.Performer.Id,
             Name = performerInGroup.Performer.Name,
