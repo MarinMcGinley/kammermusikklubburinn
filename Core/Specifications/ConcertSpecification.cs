@@ -29,6 +29,8 @@ public class ConcertSpecification : BaseSpecification<Concert>
                 return x => x.ConcertSeasonId == id;
             case "PerformerId":
                 return x => x.PiecesInConcert.Any(p => p.PerformersInGroup.Any(pf => pf.PerformerId == id));
+            case "ComposerId":
+                return x => x.PiecesInConcert.Any(p => p.Piece.ComposerId == id);
             default:
                 return x => false;
         }
