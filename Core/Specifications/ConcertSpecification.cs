@@ -31,6 +31,8 @@ public class ConcertSpecification : BaseSpecification<Concert>
                 return x => x.PiecesInConcert.Any(p => p.PerformersInGroup.Any(pf => pf.PerformerId == id));
             case "ComposerId":
                 return x => x.PiecesInConcert.Any(p => p.Piece.ComposerId == id);
+            case "PieceId":
+                return x => x.PiecesInConcert.Any(p => p.PieceId == id);
             default:
                 return x => false;
         }
