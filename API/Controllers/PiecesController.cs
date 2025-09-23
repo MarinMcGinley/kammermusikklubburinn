@@ -46,7 +46,7 @@ namespace API.Controllers
                 return BadRequest("This composer does not exist");
             }
 
-            pieceRepo.Update(new Piece { Id = piece.Id, Composer = composer, Title = piece.Title });
+            pieceRepo.Update(new Piece { Id = piece.Id, ComposerId = piece.ComposerId, Title = piece.Title });
 
             if (await pieceRepo.SaveAllAsync())
             {
@@ -84,7 +84,7 @@ namespace API.Controllers
                 return BadRequest("This composer does not exist");
             }
 
-            var newPiece = new Piece { Title = piece.Title, Composer = composer };
+            var newPiece = new Piece { Title = piece.Title, ComposerId = piece.ComposerId };
             pieceRepo.Add(newPiece);
 
             if (await pieceRepo.SaveAllAsync())

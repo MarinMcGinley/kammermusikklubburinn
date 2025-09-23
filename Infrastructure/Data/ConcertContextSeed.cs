@@ -34,12 +34,14 @@ public class ConcertContextSeed
 
                 foreach (SeedConcertSeason concertSeason in concertSeasons)
                 {
+                    _logger.LogInformation("Seeding concerts");
                     var newConcertSeason = new ConcertSeason { Title = concertSeason.Title };
                     context.ConcertSeasons.Add(newConcertSeason);
 
                     foreach (SeedConcert concert in concertSeason.Concerts)
                     {
-                        var newConcert = new Concert { Description = concert.Description, Date = concert.Date, ConcertSeason = newConcertSeason };
+                        _logger.LogInformation("Seeding concerts...");
+                        var newConcert = new Concert { Description = concert.Description, Date = concert.Date, ConcertSeasonId = newConcertSeason.Id };
                         newConcertSeason.Concerts.Add(newConcert);
 
                         foreach (SeedPiece piece in concert.Pieces)
@@ -50,11 +52,11 @@ public class ConcertContextSeed
                             if (newComposer.Id == 0) // not tracked yet
                             {
                                 context.Composers.Add(newComposer);
-                                await context.SaveChangesAsync();
+                                // await context.SaveChangesAsync();
                             }
 
                             Piece? newPiece = context.Pieces.FirstOrDefault(x => x.ComposerId == newComposer.Id && x.Title == piece.Title);
-                            newPiece ??= new Piece { Title = piece.Title, Composer = newComposer };
+                            newPiece ??= new Piece { Title = piece.Title, ComposerId = newComposer.Id };
 
                             if (newPiece.Id == 0) // not tracked yet
                             {
@@ -63,9 +65,9 @@ public class ConcertContextSeed
 
                             var newPieceInConcert = new PieceInConcert
                             {
-                                Concert = newConcert,
+                                ConcertId = newConcert.Id,
                                 GroupName = piece.GroupName,
-                                Piece = newPiece,
+                                PieceId = newPiece.Id,
                             };
                             newConcert.PiecesInConcert.Add(newPieceInConcert);
 
@@ -78,7 +80,7 @@ public class ConcertContextSeed
                                 if (newInstrument.Id == 0) // not tracked yet
                                 {
                                     context.Instruments.Add(newInstrument);
-                                    await context.SaveChangesAsync();
+                                    // await context.SaveChangesAsync();
                                 }
 
                                 Performer? newPerformer = context.Performers
@@ -88,23 +90,23 @@ public class ConcertContextSeed
                                 if (newPerformer.Id == 0) // not tracked yet
                                 {
                                     context.Performers.Add(newPerformer);
-                                    await context.SaveChangesAsync();
+                                    // await context.SaveChangesAsync();
                                 }
 
                                 var performerInGroup = new PerformerInGroup
                                 {
-                                    Performer = newPerformer,
-                                    Instrument = newInstrument,
-                                    PieceInConcert = newPieceInConcert
+                                    PerformerId = newPerformer.Id,
+                                    InstrumentId = newInstrument.Id,
+                                    PieceInConcertId = newPieceInConcert.Id
                                 };
 
                                 newPieceInConcert.PerformersInGroup.Add(performerInGroup);
                             }
                         }
                     }
-                    await context.SaveChangesAsync();
                     _logger.LogInformation("Changes saved");
                 }
+                await context.SaveChangesAsync();
                 _logger.LogInformation("Seeding completed");
             }
         }
