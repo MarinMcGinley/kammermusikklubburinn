@@ -13,7 +13,6 @@
       "Tríó B-dúr op. 11 (pn, kl, se)",
       "Kvintett Es-dúr op. 16",
       "Strengjakvartett c-moll op. 18 nr. 4",
-      "Tríó B-dúr op. 11 (pn, kl, se)",
       "Strengjakvartett í Es-dúr, op. 127",
       "Strengjakvartett í cís-moll, op. 131",
       "Sónata í A-dúr, op.69, f.  selló og píanó",
@@ -29,9 +28,7 @@
       "Píanótríó c-moll op. 1 nr. 3",
       "Strengjakvartett f-moll op. 95 (Serioso)",
       "Septett Es-dúr op. 20 (kl, hn, fg, fi, va, se, kb)",
-      "Kvintett Es-dúr op. 16 (pn, ób, kl, hn, fg)",
       "Strengjakvartett F-dúr op. 18 nr. 1",
-      "Strengjakvartett F-dúr op. 59 nr. 1",
       "Fiðlusónata G-dúr op. 96",
       "Strengjatríó c-moll op. 9 nr. 3",
       "Strengjakvartett B-dúr op. 130",
@@ -39,37 +36,22 @@
       "Strengjakvartett F-dúr op. 135",
       "Strengjakvartett Es-dúr op. 74 (Hörpukvartettinn)",
       "Strengjakvartett D-dúr op. 18 nr. 3",
-      "Strengjakvartett Es-dúr op. 127",
       "Strengjakvartett A-dúr op. 18 nr. 5",
       "Strengjakvartett B-dúr op. 18 nr. 6",
       "Strengjakvartett C-dúr op. 59 nr. 3",
       "Grosse Fuge B-dúr op. 133",
       "Strengjakvartett a-moll op. 132",
       "Strengjakvartett cis-moll op. 131",
-      "Sónata g-moll op. 5 nr. 2",
       "Strengjatríó (Divertimento) Es-dúr K. 563*",
-      "Sónata C-dúr op. 102 nr. 1",
       "Sónata D-dúr op. 102 nr. 2",
-      "Kvintett Es-dúr op. 16 (pn, ób, kl, hn, fg)",
       "Strengjatríó G-dúr op. 9 nr. 1",
       "Dúó B-dúr WoO 27 nr. 3 (kl, fg)*",
       "Strengjakvintett C-dúr op. 29",
-      "Tríó B-dúr op. 11 (pn, kl, se)",
-      "Strengjakvartett f-moll op. 95 (Serioso)",
       "Tríó G-dúr WoO 37",
-      "Strengjakvartett D-dúr op. 18 nr. 3",
-      "Strengjakvartett F-dúr op. 18 nr. 1",
       "Píanókvartett C-dúr WoO 36 nr. 3",
       "Allegro og menúett G-dúr WoO 26 (2 fl)",
-      "Strengjatríó c-moll op. 9 nr. 3",
-      "Strengjakvartett e-moll op. 59 nr. 2",
       "Píanótríó D-dúr op. 70 nr. 1 (Draugatríóið)",
-      "Strengjakvartett C-dúr op. 59 nr. 3",
-      "Strengjakvartett B-dúr op. 130",
-      "Septett Es-dúr op. 20 (kl, hn, fg, fi, va, se, kb)",
       "Allegretto f. píanótríó B-dúr WoO 39",
-      "Strengjakvartett a-moll op. 132",
-      "Strengjakvartett Es-dúr op. 127",
       "Kvintett f. óbó, klarinettu, horn, fagott og píanó í Es-dúr op. 16",
       "Strengjakvartett  í G-dúr op.18-2"
     ]
@@ -95,7 +77,7 @@
     ]
   },
   {
-    "composer": "Sergei Prokofíev",
+    "composer": "Sergei Prokofiev",
     "pieces": ["Flautusónata D-dúr op. 94", "Fiðlusónata op. 94bis"]
   },
   {
@@ -196,7 +178,6 @@
       "Strengjakvartett Es-dúr K. 428",
       "Strengjakvartett A-dúr K. 464",
       "Strengjakvintett D-dúr K. 593",
-      "Strengjakvartett C-dúr K. 465 (Dissonanz)",
       "Brandenborgarkonsert nr. 2 F-dúr BWV 1047",
       "Svíta nr. 5 f. einleiksselló c-moll BWV 1011",
       "Brandenborgarkonsert nr. 4 G-dúr BWV 1049",
@@ -221,7 +202,7 @@
     ]
   },
   {
-    "composer": "W. Goldschmidt",
+    "composer": "Willy Goldschmidt",
     "pieces": ["Tríó (kl, hn, fg)"]
   },
   {
@@ -237,7 +218,6 @@
       "Sónata f. einleiksselló op. 8",
       "Sónatína f. selló og píanó",
       "Dúó f. fiðlu og selló op. 7",
-      "Sónata f. einleiksselló op. 8",
       "Strengjakvartett nr. 2 op. 10"
     ]
   },
@@ -255,14 +235,14 @@
   },
   {
     "composer": "František Bartoš",
-    "pieces": ["Svíta f. blásarakvintett", "Svíta f. blásarakvintett"]
+    "pieces": ["Svíta f. blásarakvintett"]
   },
   {
     "composer": "Václav Trojan",
     "pieces": ["Blásarakvintett"]
   },
   {
-    "composer": "Georg Friedrich Händel",
+    "composer": "George Frideric Handel",
     "pieces": [
       "Passakalía úr sembalsvítu g-moll HWV 432, umr. Johan Halvorsen (fi, va)",
       "Sónata nr. 1 (fl, harpa)",
@@ -299,7 +279,6 @@
       "Konsert d-moll op. 3 nr. 11 (úr L’estro armonico)",
       "Árstíðirnar op. 8 nr. 1-4",
       "Fiðlukonsert C-dúr RV 581 (Per la SS Assontione di Maria Vergine)",
-      "Konsert d-moll op. 3 nr. 11 (úr L’estro armonico)",
       "Sónata f. selló og sembal a-moll",
       "Konsert a-moll op. 3 nr. 8 (úr L’estro armonico)",
       "Vengo, a voi, luci adorate",
@@ -330,8 +309,7 @@
     "composer": "Samuel Barber",
     "pieces": [
       "Summer Music f. blásarakvintett op. 31",
-      "Strengjakvartett op. 11",
-      "Summer Music f. blásarakvintett op. 31"
+      "Strengjakvartett op. 11"
     ]
   },
   {
@@ -347,7 +325,7 @@
     ]
   },
   {
-    "composer": "Aram Katsjatúrían",
+    "composer": "Aram Khachaturian",
     "pieces": ["Tríó (kl, fi, pn)", "Tríó (pn, kl, fi)"]
   },
   {
@@ -509,7 +487,6 @@
       "Flautusónata",
       "Sextett f. píanó og blásarakvintett",
       "Sónata fyrir flautu og píanó",
-      "Flautusónata",
       "Sextett fyrir píanó og blásarakvintett"
     ]
   },
@@ -520,9 +497,8 @@
       "Sónata fyrir tvær fiðlur og píanó, op. 15"
     ]
   },
-
   {
-    "composer": "Dmítrí Sjostakovítsj",
+    "composer": "Dmitri Shostakovich",
     "pieces": [
       "Píanótríó nr. 2 e-moll op. 67",
       "Strengjakvartett nr. 4 í D-dúr, op.83",
@@ -649,7 +625,6 @@
       "Fagottkvartett B-dúr op.40"
     ]
   },
-
   {
     "composer": "Richard Wagner",
     "pieces": ["Fimm söngvar við ljóð eftir Mathilde Wesendonck"]
@@ -728,7 +703,6 @@
       "Píanótríó nr. 2 c-moll op. 66",
       "Píanótríó nr. 1 d-moll op. 49",
       "Strengjakvartett nr. 4 e-moll op. 44 nr. 2",
-      "Píanótríó nr. 1 d-moll op. 49",
       "Tríó í d-moll op. 49",
       "Strengjakvartett nr. 6 í f-moll op.80",
       "Strengjakvartett nr.4 í e-moll op.44 nr.2",
@@ -826,7 +800,6 @@
     "pieces": [
       "Strengjakvartett nr. 1 e-moll (Úr lífi mínu)",
       "Píanótríó g-moll op. 15",
-      "Strengjakvartett nr. 1 e-moll (Úr lífi mínu)",
       "Píanótríó í g-moll, op. 15",
       "Strengjakvartett nr.1 „Úr lífi mínu“",
       "Píanótríó í g-moll op. 15"
@@ -863,7 +836,7 @@
     "pieces": ["Tríó f. fiðlu, selló og píanó"]
   },
   {
-    "composer": "Sergei Rakmanínov",
+    "composer": "Sergei Rachmaninoff",
     "pieces": ["Trio élégiaque d-moll op. 9", "Trio élégiaque í g-moll"]
   },
   {
@@ -917,7 +890,7 @@
     "pieces": ["Klarínettukvartett Es-dúr op. 2"]
   },
   {
-    "composer": "lexander Borodín",
+    "composer": "Alexander Borodin",
     "pieces": ["Strengjakvartett nr. 2 D-dúr"]
   },
   {
@@ -949,7 +922,7 @@
   },
   {
     "composer": "Giacomo Puccini",
-    "pieces": ["Crisantemi, strengjakvartett", "Crisantemi, strengjakvartett"]
+    "pieces": ["Crisantemi, strengjakvartett"]
   },
   {
     "composer": "Þórður Magnússon",
@@ -973,7 +946,7 @@
     ]
   },
   {
-    "composer": "A.S. Arensky",
+    "composer": "Anton Arensky",
     "pieces": ["Píanótríó í d-moll op. 32"]
   },
   {
@@ -981,30 +954,30 @@
     "pieces": ["Píanótríó"]
   },
   {
-    "composer": "J.S. Bach",
+    "composer": "Johann Sebastian Bach",
     "pieces": [
       "Tríósónata úr Tónafórninni fyfir flautu, fiðlu og fylgirödd, c-moll BWV 1079",
       "Goldberg-tilbrigðin umskrifuð fyrir strengjatríó"
     ]
   },
   {
-    "composer": "C.Ph.E. Bach",
+    "composer": "Carl Philipp Emanuel Bach",
     "pieces": ["Tríósónata fyrir flautu, fiðlu og fylgirödd, G-dúr H 568"]
   },
   {
-    "composer": "N. Paganini",
+    "composer": "Niccolò Paganini",
     "pieces": ["Sonata concertata fyrir fiðlu og gítar"]
   },
   {
-    "composer": "E. Granados",
+    "composer": "Enrique Granados",
     "pieces": ["Oriental (Spænskur dans nr. 2), úts. fyrir víólu og gítar"]
   },
   {
-    "composer": "I. Albéniz",
+    "composer": "Isaac Albéniz",
     "pieces": ["Cordoba (úr Chants d'Espagne), úts. fyrir víólu og gítar"]
   },
   {
-    "composer": "A. Piazzolla",
+    "composer": "Astor Piazzolla",
     "pieces": [
       "Tangótónlist",
       "Tango Ballet fyrir strengjakvartett (úts.: José Bragato)",
@@ -1013,12 +986,11 @@
     ]
   },
   {
-    "composer": "H.W. Henze",
+    "composer": "Hans Werner Henze",
     "pieces": ["Adagio"]
   },
-
   {
-    "composer": "Dietrich Buxtehude",
+    "composer": "Dieterich Buxtehude",
     "pieces": ["Tríósónata í G dúr BuxWV 271"]
   },
   {
@@ -1032,9 +1004,8 @@
       "Tríósónata nr. 2 g-moll ZWV 181"
     ]
   },
-
   {
-    "composer": "A. Schönberg",
+    "composer": "Arnold Schoenberg",
     "pieces": [
       "Verklaerte Nacht, sextett op. 4",
       "Verklärte Nacht",
@@ -1042,7 +1013,7 @@
     ]
   },
   {
-    "composer": "Pjotr Tchaikovsky",
+    "composer": "Pyotr Ilyich Tchaikovsky",
     "pieces": [
       "Souvenir de Florence, sextett d-moll op 70.",
       "Strengjakvartett nr. 3 í es-moll op. 30",
@@ -1052,27 +1023,27 @@
     ]
   },
   {
-    "composer": "A. Babadjanian",
+    "composer": "Arno Babadjanian",
     "pieces": ["Píanótríó í fís-moll"]
   },
   {
-    "composer": "B. Martinu",
+    "composer": "Bohuslav Martinů",
     "pieces": ["Strengjakvartett nr. 3"]
   },
   {
-    "composer": "L. Janacek",
+    "composer": "Leoš Janáček",
     "pieces": ["Strengjakvartett nr. 2 (Ástarbréf - Intime Briefe)"]
   },
   {
-    "composer": "R. Glière",
+    "composer": "Reinhold Glière",
     "pieces": ["Svíta fyrir fiðlu og kontrabassa"]
   },
   {
-    "composer": "A. Glazunov",
+    "composer": "Alexander Glazunov",
     "pieces": ["Saxófónkvartett í B-dúr op.109"]
   },
   {
-    "composer": "F. Schmitt",
+    "composer": "Florent Schmitt",
     "pieces": ["Quatuor pour Saxophones op.102"]
   },
   {
@@ -1104,7 +1075,7 @@
     "pieces": ["Quintette (1928)"]
   },
   {
-    "composer": "Jean Francaix",
+    "composer": "Jean Françaix",
     "pieces": [
       "Quintet no. 2     (1989)",
       "Tríó fyrir klarinettu, víólu og píanó"
@@ -1125,7 +1096,7 @@
     ]
   },
   {
-    "composer": "Johann Fredrich Fasch",
+    "composer": "Johann Friedrich Fasch",
     "pieces": ["Sónata í d-moll        (SH ELF PT KMJ HBA)"]
   },
   {
@@ -1161,7 +1132,7 @@
     "pieces": ["Trois Aquarelles  f. flautu selló og píanó"]
   },
   {
-    "composer": "Vaughan Williams",
+    "composer": "Ralph Vaughan Williams",
     "pieces": [
       "Along the Field - ljóðabálkur fyrir sópran og fiðlu",
       "Kvintett í c-moll"
@@ -1180,7 +1151,7 @@
     "pieces": ["Píanókvartett nr. 1"]
   },
   {
-    "composer": "A.-F. Servais",
+    "composer": "Adrien-François Servais",
     "pieces": ["Tilbrigði við „Eldgamla Ísafold“ op. 38"]
   },
   {
@@ -1196,7 +1167,7 @@
     "pieces": ["„Ich stand in dunklen Träumen“"]
   },
   {
-    "composer": "Sergei Rakhmaninov",
+    "composer": "Sergei Rachmaninoff",
     "pieces": ["Trio élégiaque nr. 2 í d-moll op. 9", "Vocalise op 34"]
   },
   {
@@ -1208,20 +1179,19 @@
     "pieces": ["Nocturne og Cortège"]
   },
   {
-    "composer": "Deux Mélodies Hébraïques",
+    "composer": "Maurice Ravel",
     "pieces": ["Kaddisch"]
   },
   {
     "composer": "Fanny Mendelssohn",
     "pieces": ["Strengjakvartett í Es-dúr (ca. 23 mín.)"]
   },
-
   {
     "composer": "Emilio Balcarce",
     "pieces": ["La Bordona"]
   },
   {
-    "composer": "Úr Five Tango Sensations",
+    "composer": "Astor Piazzolla",
     "pieces": ["Loving Fear"]
   },
   {
