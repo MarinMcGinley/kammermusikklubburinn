@@ -99,10 +99,6 @@
     "pieces": ["Flautusónata D-dúr op. 94", "Fiðlusónata op. 94bis"]
   },
   {
-    "composer": "Richard Strauss",
-    "pieces": ["Sellósónata F-dúr op. 6"]
-  },
-  {
     "composer": "Robert Schumann",
     "pieces": [
       "Fantasiestücke op. 73 (kl, pn)",
@@ -821,8 +817,8 @@
   {
     "composer": "Richard Strauss",
     "pieces": [
-      "Strengjasextett úr óperunni Capriccio1, 2, 4, 6, 7, 8",
-      "Strengjasextett úr óperunni Capriccio"
+      "Strengjasextett úr óperunni Capriccio",
+      "Sellósónata F-dúr op. 6"
     ]
   },
   {
@@ -868,10 +864,7 @@
   },
   {
     "composer": "Sergei Rakmanínov",
-    "pieces": [
-      "Trio élégiaque d-moll op. 9",
-      "Trio élégiaque g-moll op. posth."
-    ]
+    "pieces": ["Trio élégiaque d-moll op. 9", "Trio élégiaque í g-moll"]
   },
   {
     "composer": "Ernest Bloch",
@@ -879,16 +872,11 @@
   },
   {
     "composer": "Leoš Janáček",
-    "pieces": [
-      "Strengjakvartett nr. 1 (Kreutzersónatan)",
-      "Strengjakvartett nr. 1 (Kreutzersónatan)",
-      "Strengjakvartett nr. 1 (Kreutzersónatan)"
-    ]
+    "pieces": ["Strengjakvartett nr. 1 (Kreutzersónatan)"]
   },
   {
     "composer": "Atli Heimir Sveinsson",
     "pieces": [
-      "Dal regno del silenzio",
       "Dal regno del silenzio",
       "Intermezzo úr Dimmalimm f. flautu og píanó",
       "Tempo di tango úr sellósónötu f. selló og píanó",
@@ -901,11 +889,7 @@
   },
   {
     "composer": "Olivier Messiaen",
-    "pieces": [
-      "Kvartett um endalok tímans (kl, fi, se, pn)",
-      "Kvartett um endalok tímans (kl, fi, se, pn)",
-      "Kvartett um endalok tímans (kl, fi, se, pn)"
-    ]
+    "pieces": ["Kvartett um endalok tímans (kl, fi, se, pn)"]
   },
   {
     "composer": "Niels Viggo Bentzon",
@@ -915,11 +899,9 @@
     "composer": "Johann Nepomuk Hummel",
     "pieces": [
       "Klarínettukvartett Es-dúr",
-      "Píanókvintett Es-dúr op. 87",
       "Kvintett í es-moll op.87",
       "Grande Sérénade en Potpourri í C-dúr op. 66",
-      "Tríó fyrir flautu, selló og píanó op. 78",
-      "Klarinettukvartett í Es-dúr WoO 5"
+      "Tríó fyrir flautu, selló og píanó op. 78"
     ]
   },
   {
@@ -991,14 +973,6 @@
     ]
   },
   {
-    "composer": "Jean Françaix",
-    "pieces": ["Blásarakvintett nr. 1"]
-  },
-  {
-    "composer": "S. Rachmaninoff",
-    "pieces": ["Trio élégiaque í g-moll"]
-  },
-  {
     "composer": "A.S. Arensky",
     "pieces": ["Píanótríó í d-moll op. 32"]
   },
@@ -1048,12 +1022,6 @@
     "pieces": ["Tríósónata í G dúr BuxWV 271"]
   },
   {
-    "composer": "Vovka Askenazy píanó og Blásarakvintett Reykjavíkur",
-    "pieces": [
-      "Hallfríður Ólafsdóttir flauta, Daði Kolbeinsson óbó, Einar Jóhannesson klarínetta, Joseph Ognibene horn, Hafsteinn Guðmundsson fagott"
-    ]
-  },
-  {
     "composer": "Jan Dismas Zelenka",
     "pieces": [
       "Sónata I í F-dúr fyrir tvö óbó, fagott og basso continuo",
@@ -1080,10 +1048,6 @@
       "Strengjakvartett nr. 3 í es-moll op. 30",
       "Píanótríó í a-moll op 50",
       "Strengjakvartett nr. 1 í D-dúr, op. 1",
-      "Píanótríó a-moll op. 50",
-      "Píanótríó a-moll op. 50",
-      "Píanótríó a-moll op. 50",
-      "Píanótríó a-moll op. 50",
       "Píanótríó a-moll op. 50"
     ]
   },
@@ -1112,8 +1076,8 @@
     "pieces": ["Quatuor pour Saxophones op.102"]
   },
   {
-    "composer": "J. Françaix",
-    "pieces": ["Petit Quatuor"]
+    "composer": "Jean Françaix",
+    "pieces": ["Petit Quatuor", "Blásarakvintett nr. 1"]
   },
   {
     "composer": "Högni Egilsson",
@@ -1157,7 +1121,6 @@
     "composer": "Jean Sibelius",
     "pieces": [
       "Strengjakvartett í d-moll op.56",
-      "Strengjakvartett d-moll op. 56 (Voces intimae)",
       "Fúga handa Martin Wegelius í a-moll (1888)"
     ]
   },
@@ -1222,11 +1185,7 @@
   },
   {
     "composer": "Sergei Taneyev",
-    "pieces": [
-      "Píanókvintett í g-moll op. 30",
-      "Píanókvintett í g-moll op. 30",
-      "Píanótríó í D-dúr op. 22"
-    ]
+    "pieces": ["Píanókvintett í g-moll op. 30", "Píanótríó í D-dúr op. 22"]
   },
   {
     "composer": "György Kurtág",
