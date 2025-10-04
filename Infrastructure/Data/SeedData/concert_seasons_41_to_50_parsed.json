@@ -1,0 +1,4996 @@
+{
+  "ConcertSeasons": [
+    {
+      "Title": "41. starfsár",
+      "Concerts": [
+        {
+          "Description": "",
+          "Date": "1996-09-15",
+          "Pieces": [
+            {
+              "Title": "Svíta nr. 6 fyrir einleiksselló D-dúr BWV 1012",
+              "Composer": {
+                "Name": "Johann Sebastian Bach"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Erling Blöndal Bengtsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Dal regno del silenzio",
+              "Composer": {
+                "Name": "Atli Heimir Sveinsson"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Erling Blöndal Bengtsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Sónata f. einleiksselló op. 8",
+              "Composer": {
+                "Name": "Zoltán Kodály"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Erling Blöndal Bengtsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "1996-10-13",
+          "Pieces": [
+            {
+              "Title": "Sex bagatellur f. blásarakvintett",
+              "Composer": {
+                "Name": "György Ligeti"
+              },
+              "GroupName": "Blásarakvintett Reykjavíkur",
+              "Performers": [
+                {
+                  "Name": "Bernharður Wilkinson",
+                  "Instrument": {
+                    "Name": "flauta"
+                  }
+                },
+                {
+                  "Name": "Daði Kolbeinsson",
+                  "Instrument": {
+                    "Name": "óbó"
+                  }
+                },
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": {
+                    "Name": "klarínetta"
+                  }
+                },
+                {
+                  "Name": "Joseph Ognibene",
+                  "Instrument": {
+                    "Name": "horn"
+                  }
+                },
+                {
+                  "Name": "Hafsteinn Guðmundsson",
+                  "Instrument": {
+                    "Name": "fagott"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Blásarakvintett op. 43",
+              "Composer": {
+                "Name": "Carl Nielsen"
+              },
+              "GroupName": "Blásarakvintett Reykjavíkur",
+              "Performers": [
+                {
+                  "Name": "Bernharður Wilkinson",
+                  "Instrument": {
+                    "Name": "flauta"
+                  }
+                },
+                {
+                  "Name": "Daði Kolbeinsson",
+                  "Instrument": {
+                    "Name": "óbó"
+                  }
+                },
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": {
+                    "Name": "klarínetta"
+                  }
+                },
+                {
+                  "Name": "Joseph Ognibene",
+                  "Instrument": {
+                    "Name": "horn"
+                  }
+                },
+                {
+                  "Name": "Hafsteinn Guðmundsson",
+                  "Instrument": {
+                    "Name": "fagott"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Sextett f. píanó og blásarakvintett",
+              "Composer": {
+                "Name": "Francis Poulenc"
+              },
+              "GroupName": "Kristinn Örn Kristinsson píanó, Blásarakvintett Reykjavíkur",
+              "Performers": [
+                {
+                  "Name": "Kristinn Örn Kristinsson",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Bernharður Wilkinson",
+                  "Instrument": {
+                    "Name": "flauta"
+                  }
+                },
+                {
+                  "Name": "Daði Kolbeinsson",
+                  "Instrument": {
+                    "Name": "óbó"
+                  }
+                },
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": {
+                    "Name": "klarínetta"
+                  }
+                },
+                {
+                  "Name": "Joseph Ognibene",
+                  "Instrument": {
+                    "Name": "horn"
+                  }
+                },
+                {
+                  "Name": "Hafsteinn Guðmundsson",
+                  "Instrument": {
+                    "Name": "fagott"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Kvintett Es-dúr K. 452 (pn, ób, kl, hn, fg)",
+              "Composer": {
+                "Name": "Wolfgang Amadeus Mozart"
+              },
+              "GroupName": "Kristinn Örn Kristinsson píanó, Blásarakvintett Reykjavíkur",
+              "Performers": [
+                {
+                  "Name": "Kristinn Örn Kristinsson",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Daði Kolbeinsson",
+                  "Instrument": {
+                    "Name": "óbó"
+                  }
+                },
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": {
+                    "Name": "klarínetta"
+                  }
+                },
+                {
+                  "Name": "Joseph Ognibene",
+                  "Instrument": {
+                    "Name": "horn"
+                  }
+                },
+                {
+                  "Name": "Hafsteinn Guðmundsson",
+                  "Instrument": {
+                    "Name": "fagott"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "1996-11-24",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett D-dúr op. 64 nr. 5 (Lævirkinn)",
+              "Composer": {
+                "Name": "Joseph Haydn"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Richard Talkowsky",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett A-dúr K. 464",
+              "Composer": {
+                "Name": "Wolfgang Amadeus Mozart"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Richard Talkowsky",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett C-dúr op. 59 nr. 3",
+              "Composer": {
+                "Name": "Ludwig van Beethoven"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Richard Talkowsky",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "Þess er minnst, að 200 ár eru liðin frá fæðingu Schuberts.",
+          "Date": "1997-01-12",
+          "Pieces": [
+            {
+              "Title": "Píanótríó B-dúr D. 898",
+              "Composer": {
+                "Name": "Franz Schubert"
+              },
+              "GroupName": "Tríó Reykjavíkur",
+              "Performers": [
+                {
+                  "Name": "Peter Maté",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Guðný Guðmundsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Gunnar Kvaran",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvintett C-dúr D. 956",
+              "Composer": {
+                "Name": "Franz Schubert"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Guðný Guðmundsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Gunnar Kvaran",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurbjörn Bernharðsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "David Wells",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "40 ára afmælistónleikar",
+          "Date": "1997-02-23",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett G-dúr op. 77 nr. 1",
+              "Composer": {
+                "Name": "Joseph Haydn"
+              },
+              "GroupName": "Bernardel-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Zbigniew Dubik",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Guðrún Th. Sigurðardóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Frá draumi til draums, strengjakvartett (frumflutningur)",
+              "Composer": {
+                "Name": "Jón Nordal"
+              },
+              "GroupName": "Bernardel-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Zbigniew Dubik",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Guðrún Th. Sigurðardóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett B-dúr op. 130",
+              "Composer": {
+                "Name": "Ludwig van Beethoven"
+              },
+              "GroupName": "Bernardel-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Zbigniew Dubik",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Guðrún Th. Sigurðardóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "Tónleikar helgaðir 100. ártíð Brahms",
+          "Date": "1997-03-09",
+          "Pieces": [
+            {
+              "Title": "Píanókvintett f-moll op. 34",
+              "Composer": {
+                "Name": "Johannes Brahms"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Richard Simm",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Richard Talkowsky",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Ljóðsöngvar (Botschaft op. 47 nr. 1 / Sapphische Ode op. 94 nr. 4 / Von Ewiger Liebe op. 43 nr. 1)",
+              "Composer": {
+                "Name": "Johannes Brahms"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Alina Dubik",
+                  "Instrument": {
+                    "Name": "mezzósópran"
+                  }
+                },
+                {
+                  "Name": "Richard Simm",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Ljóðsöngvar (Gestillte Sehnsucht op. 91 nr. 1 / Geistliches Wiegenlied op. 91 nr. 2)",
+              "Composer": {
+                "Name": "Johannes Brahms"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Alina Dubik",
+                  "Instrument": {
+                    "Name": "mezzósópran"
+                  }
+                },
+                {
+                  "Name": "Richard Simm",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Klarínettukvintett h-moll op. 115",
+              "Composer": {
+                "Name": "Johannes Brahms"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": {
+                    "Name": "klarínetta"
+                  }
+                },
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Richard Talkowsky",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "42. starfsár",
+      "Concerts": [
+        {
+          "Description": "Tónleikar helgaðir 200 ára afmæli Schuberts",
+          "Date": "1997-09-07",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett a-moll D. 804 (Rosamunde)",
+              "Composer": {
+                "Name": "Franz Schubert"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Ljóðsöngvar (An die Musik D. 547b / Auf dem Strom D. 943 / Der Hirt auf dem Felsen D. 965)",
+              "Composer": {
+                "Name": "Franz Schubert"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": {
+                    "Name": "klarínetta"
+                  }
+                },
+                {
+                  "Name": "Þorkell Jóelsson",
+                  "Instrument": {
+                    "Name": "horn"
+                  }
+                },
+                {
+                  "Name": "Anna Guðný Guðmundsdóttir",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett G-dúr D. 887",
+              "Composer": {
+                "Name": "Franz Schubert"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "1997-10-12",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett F-dúr op. 77 nr. 2",
+              "Composer": {
+                "Name": "Joseph Haydn"
+              },
+              "GroupName": "Kodály-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Attila Falvay",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Tamás Szabo",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Gábor Fias",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "János Devich",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett nr. 2 op. 10",
+              "Composer": {
+                "Name": "Zoltán Kodály"
+              },
+              "GroupName": "Kodály-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Attila Falvay",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Tamás Szabo",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Gábor Fias",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "János Devich",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett nr. 2 a-moll op. 51",
+              "Composer": {
+                "Name": "Johannes Brahms"
+              },
+              "GroupName": "Kodály-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Attila Falvay",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Tamás Szabo",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Gábor Fias",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "János Devich",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "1997-11-09",
+          "Pieces": [
+            {
+              "Title": "Contrasts (kl, fi, pn)",
+              "Composer": {
+                "Name": "Béla Bartók"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Anna Guðný Guðmundsdóttir",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": {
+                    "Name": "klarínetta"
+                  }
+                },
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Septett Es-dúr op. 20 (kl, hn, fg, fi, va, se, kb)",
+              "Composer": {
+                "Name": "Ludwig van Beethoven"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": {
+                    "Name": "klarínetta"
+                  }
+                },
+                {
+                  "Name": "Joseph Ognibene",
+                  "Instrument": {
+                    "Name": "horn"
+                  }
+                },
+                {
+                  "Name": "Hafsteinn Guðmundsson",
+                  "Instrument": {
+                    "Name": "fagott"
+                  }
+                },
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Richard Talkowsky",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Richard Korn",
+                  "Instrument": {
+                    "Name": "kontrabassi"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "1998-01-18",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett B-dúr K. 589",
+              "Composer": {
+                "Name": "Wolfgang Amadeus Mozart"
+              },
+              "GroupName": "Bernardel-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Frá draumi til draums, strengjakvartett",
+              "Composer": {
+                "Name": "Jón Nordal"
+              },
+              "GroupName": "Bernardel-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett cis-moll op. 131",
+              "Composer": {
+                "Name": "Ludwig van Beethoven"
+              },
+              "GroupName": "Bernardel-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Gréta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "1998-02-22",
+          "Pieces": [
+            {
+              "Title": "Konsert f. píanó, fiðlu og strengjakvartett D-dúr op. 21",
+              "Composer": {
+                "Name": "Ernest Chausson"
+              },
+              "GroupName": "Edda Erlendsdóttir píanó, Guðný Guðmundsdóttir fiðla, Auður Hafsteinsdóttir fiðla, Ragnhildur Pétursdóttir fiðla",
+              "Performers": [
+                {
+                  "Name": "Edda Erlendsdóttir",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Guðný Guðmundsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Ragnhildur Pétursdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Junah Chung",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Píanókvintett Es-dúr op. 44",
+              "Composer": {
+                "Name": "Robert Schumann"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Edda Erlendsdóttir",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Guðný Guðmundsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Junah Chung",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "43. starfsár",
+      "Concerts": [
+        {
+          "Description": "",
+          "Date": "1998-09-13",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett D-dúr op. 76 nr. 5",
+              "Composer": {
+                "Name": "Joseph Haydn"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Richard Talkowsky",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvintett D-dúr K. 593",
+              "Composer": {
+                "Name": "Wolfgang Amadeus Mozart"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Richard Talkowsky",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett nr. 12 F-dúr op. 96 (Ameríski kvartettinn)",
+              "Composer": {
+                "Name": "Antonín Dvořák"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Richard Talkowsky",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "1998-10-11",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett nr. 5 B-dúr op. 92",
+              "Composer": {
+                "Name": "Dmítrí Sjostakovítsj"
+              },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Örlagafugl, sextett f. flautu, klarínettu og strengjakvartett (frumflutningur)",
+              "Composer": {
+                "Name": "Þorkell Sigurbjörnsson"
+              },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hallfríður Ólafsdóttir",
+                  "Instrument": {
+                    "Name": "flauta"
+                  }
+                },
+                {
+                  "Name": "Ármann Helgason",
+                  "Instrument": {
+                    "Name": "klarínetta"
+                  }
+                },
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvintett nr. 2 G-dúr op. 111",
+              "Composer": {
+                "Name": "Johannes Brahms"
+              },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Guðrún Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "1998-11-15",
+          "Pieces": [
+            {
+              "Title": "Serenaða D-dúr op. 25 (fl, fi, va)",
+              "Composer": {
+                "Name": "Ludwig van Beethoven"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Guðrún S. Birgisdóttir",
+                  "Instrument": {
+                    "Name": "flauta"
+                  }
+                },
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Svava Bernharðsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Flautukvartett D-dúr K. 285",
+              "Composer": {
+                "Name": "Wolfgang Amadeus Mozart"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Guðrún S. Birgisdóttir",
+                  "Instrument": {
+                    "Name": "flauta"
+                  }
+                },
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Svava Bernharðsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Allegretto f. píanótríó B-dúr WoO 39",
+              "Composer": {
+                "Name": "Ludwig van Beethoven"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Anna Guðný Guðmundsdóttir",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Guðrún S. Birgisdóttir",
+                  "Instrument": {
+                    "Name": "flauta"
+                  }
+                },
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Svava Bernharðsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Píanókvartett Es-dúr K. 493",
+              "Composer": {
+                "Name": "Wolfgang Amadeus Mozart"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Anna Guðný Guðmundsdóttir",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Svava Bernharðsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "Aukatónleikar",
+          "Date": "1999-01-03",
+          "Pieces": [
+            {
+              "Title": "Píanókvintett g-moll op. 57",
+              "Composer": {
+                "Name": "Dmítrí Sjostakovítsj"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Víkingur Heiðar Ólafsson",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Ari Þór Vilhjálmsson",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "María Huld Sigfúsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Valgerður Ólafsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Steinunn Arnbjörg Stefánsdóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvintett C-dúr D. 956",
+              "Composer": {
+                "Name": "Franz Schubert"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Ari Þór Vilhjálmsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Álfheiður Hrönn Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Hildur Ársælsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Margrét Árnadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Sólrún Sumarliðadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "1999-01-31",
+          "Pieces": [
+            {
+              "Title": "Píanótríó c-moll op. 1 nr. 3",
+              "Composer": {
+                "Name": "Ludwig van Beethoven"
+              },
+              "GroupName": "Tríó Reykjavíkur",
+              "Performers": [
+                {
+                  "Name": "Peter Maté",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Guðný Guðmundsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Gunnar Kvaran",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Píanótríó a-moll",
+              "Composer": {
+                "Name": "Maurice Ravel"
+              },
+              "GroupName": "Tríó Reykjavíkur",
+              "Performers": [
+                {
+                  "Name": "Peter Maté",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Guðný Guðmundsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Gunnar Kvaran",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Píanókvartett nr. 2 A-dúr op. 26",
+              "Composer": {
+                "Name": "Johannes Brahms"
+              },
+              "GroupName": "Tríó Reykjavíkur",
+              "Performers": [
+                {
+                  "Name": "Peter Maté",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Guðný Guðmundsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Gunnar Kvaran",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Sigurbjörn Bernharðsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "1999-02-28",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett g-moll op. 27",
+              "Composer": {
+                "Name": "Edvard Grieg"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett a-moll op. 132",
+              "Composer": {
+                "Name": "Ludwig van Beethoven"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "44. starfsár",
+      "Concerts": [
+        {
+          "Description": "",
+          "Date": "1999-09-19",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett B-dúr op. 33 nr. 4",
+              "Composer": {
+                "Name": "Joseph Haydn"
+              },
+              "GroupName": "Cuvilliés-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Florian Sonnleitner",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Aldo Volpini",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Roland Metzger",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Peter Wöpke",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett G-dúr K. 387",
+              "Composer": {
+                "Name": "Wolfgang Amadeus Mozart"
+              },
+              "GroupName": "Cuvilliés-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Florian Sonnleitner",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Aldo Volpini",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Roland Metzger",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Peter Wöpke",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett Es-dúr op. 74 (Hörpukvartettinn)",
+              "Composer": {
+                "Name": "Ludwig van Beethoven"
+              },
+              "GroupName": "Cuvilliés-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Florian Sonnleitner",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Aldo Volpini",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Roland Metzger",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Peter Wöpke",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "1999-10-17",
+          "Pieces": [
+            {
+              "Title": "Tríó Es-dúr K. 498 (pn, kl, va) (Kegelstatt-tríóið)",
+              "Composer": {
+                "Name": "Wolfgang Amadeus Mozart"
+              },
+              "GroupName": "Einar Jóhannesson klarínetta, Íslenska tríóið",
+              "Performers": [
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": {
+                    "Name": "klarínetta"
+                  }
+                },
+                {
+                  "Name": "Nína Margrét Grímsdóttir",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Sigurbjörn Bernharðsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Tríó a-moll op. 114 (pn, kl, se)",
+              "Composer": {
+                "Name": "Johannes Brahms"
+              },
+              "GroupName": "Einar Jóhannesson klarínetta, Íslenska tríóið",
+              "Performers": [
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": {
+                    "Name": "klarínetta"
+                  }
+                },
+                {
+                  "Name": "Nína Margrét Grímsdóttir",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Píanótríó B-dúr op. 97 (Erkihertogatríóið)",
+              "Composer": {
+                "Name": "Ludwig van Beethoven"
+              },
+              "GroupName": "Einar Jóhannesson klarínetta, Íslenska tríóið",
+              "Performers": [
+                {
+                  "Name": "Nína Margrét Grímsdóttir",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Sigurbjörn Bernharðsson",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "1999-12-05",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett nr. 1 d-moll",
+              "Composer": {
+                "Name": "Juan Crisóstomo de Arriaga"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sif Tulinius",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Richard Talkowsky",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett III op. 64 (El Greco)",
+              "Composer": {
+                "Name": "Jón Leifs"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sif Tulinius",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Richard Talkowsky",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett nr. 14 As-dúr op. 105",
+              "Composer": {
+                "Name": "Antonín Dvořák"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sif Tulinius",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Richard Talkowsky",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "2000-01-16",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett G-dúr op. 76 nr. 1",
+              "Composer": {
+                "Name": "Joseph Haydn"
+              },
+              "GroupName": "Eþos-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett g-moll op. 10",
+              "Composer": {
+                "Name": "Claude Debussy"
+              },
+              "GroupName": "Eþos-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett Es-dúr op. 127",
+              "Composer": {
+                "Name": "Ludwig van Beethoven"
+              },
+              "GroupName": "Eþos-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "2000-02-27",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett nr. 9 Es-dúr op. 117",
+              "Composer": {
+                "Name": "Dmítrí Sjostakovítsj"
+              },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Kvintett C-dúr G. 439 (fl, fi, va, se, kb)",
+              "Composer": {
+                "Name": "Luigi Boccherini"
+              },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hallfríður Ólafsdóttir",
+                  "Instrument": {
+                    "Name": "flauta"
+                  }
+                },
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Richard Korn",
+                  "Instrument": {
+                    "Name": "kontrabassi"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Píanókvintett nr. 2 A-dúr op. 81",
+              "Composer": {
+                "Name": "Antonín Dvořák"
+              },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Örn Magnússon",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "45. starfsár",
+      "Concerts": [
+        {
+          "Description": "",
+          "Date": "2000-10-01",
+          "Pieces": [
+            {
+              "Title": "Pianótríó nr. 1",
+              "Composer": {
+                "Name": "Dmítrí Sjostakovítsj"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Richard Talkowsky",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Folke Gräsbeck",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Svíta úr Sögu hermannsins (kl, fi, pn)",
+              "Composer": {
+                "Name": "Igor Stravinsky"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": {
+                    "Name": "klarínetta"
+                  }
+                },
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Folke Gräsbeck",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Kvartett um endalok tímans (kl, fi, se, pn)",
+              "Composer": {
+                "Name": "Olivier Messiaen"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": {
+                    "Name": "klarínetta"
+                  }
+                },
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Richard Talkowsky",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Folke Gräsbeck",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "Tónleikar helgaðir 250. ártíð Bachs",
+          "Date": "2000-11-12",
+          "Pieces": [
+            {
+              "Title": "Svíta nr. 5 f. einleiksselló c-moll BWV 1011",
+              "Composer": {
+                "Name": "Johann Sebastian Bach"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Gunnar Kvaran",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Partíta nr. 2 f. einleiksfiðlu d-moll BWV 1004",
+              "Composer": {
+                "Name": "Johann Sebastian Bach"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Partíta f. einleiksflautu a-moll BWV 1013",
+              "Composer": {
+                "Name": "Johann Sebastian Bach"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Martial Nardeau",
+                  "Instrument": {
+                    "Name": "flauta"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Tríósónata f. flautu, fiðlu og fylgibassa c-moll (úr Tónafórninni BWV 1079)",
+              "Composer": {
+                "Name": "Johann Sebastian Bach"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Martial Nardeau",
+                  "Instrument": {
+                    "Name": "flauta"
+                  }
+                },
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Elín Guðmundsdóttir",
+                  "Instrument": {
+                    "Name": "semball"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "2001-01-21",
+          "Pieces": [
+            {
+              "Title": "Píanókvartett g-moll K. 478",
+              "Composer": {
+                "Name": "Wolfgang Amadeus Mozart"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Gerrit Schuil",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Guðný Guðmundsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Gunnar Kvaran",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Píanókvartett nr. 1 g-moll op. 25",
+              "Composer": {
+                "Name": "Johannes Brahms"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Gerrit Schuil",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Guðný Guðmundsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Gunnar Kvaran",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "2001-02-25",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett nr. 9 Es-dúr op. 117",
+              "Composer": {
+                "Name": "Dmítrí Sjostakovítsj"
+              },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett e-moll op. 59 nr. 2",
+              "Composer": {
+                "Name": "Ludwig van Beethoven"
+              },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "46. starfsár",
+      "Concerts": [
+        {
+          "Description": "",
+          "Date": "2001-09-16",
+          "Pieces": [
+            {
+              "Title": "Strengjatríó (Divertimento) Es-dúr K. 563*",
+              "Composer": {
+                "Name": "Wolfgang Amadeus Mozart"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvintett C-dúr D. 956",
+              "Composer": {
+                "Name": "Franz Schubert"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Zbigniew Dubik",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Richard Talkowsky",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "2001-10-14",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett e-moll",
+              "Composer": {
+                "Name": "Giuseppe Verdi"
+              },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett nr. 10 As-dúr op. 118",
+              "Composer": {
+                "Name": "Dmítrí Sjostakovítsj"
+              },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Píanótríó nr. 4 e-moll op. 90 (Dumkytríóið)",
+              "Composer": {
+                "Name": "Antonín Dvořák"
+              },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Örn Magnússon",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "2001-11-18",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett nr. 2 op. 17",
+              "Composer": {
+                "Name": "Béla Bartók"
+              },
+              "GroupName": "Cuvilliés-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Florian Sonnleitner",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Aldo Volpini",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Roland Metzger",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Peter Wöpke",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett C-dúr K. 465 (Dissonanz)",
+              "Composer": {
+                "Name": "Wolfgang Amadeus Mozart"
+              },
+              "GroupName": "Cuvilliés-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Florian Sonnleitner",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Aldo Volpini",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Roland Metzger",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Peter Wöpke",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett a-moll op. 132",
+              "Composer": {
+                "Name": "Ludwig van Beethoven"
+              },
+              "GroupName": "Cuvilliés-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Florian Sonnleitner",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Aldo Volpini",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Roland Metzger",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Peter Wöpke",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "2002-01-20",
+          "Pieces": [
+            {
+              "Title": "Tríó Es-dúr op. 40 (pn, fi, hn)",
+              "Composer": {
+                "Name": "Johannes Brahms"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Vovka Ashkenazy",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Joseph Ognibene",
+                  "Instrument": {
+                    "Name": "horn"
+                  }
+                },
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Tríó a-moll op. 114 (pn, kl, se)",
+              "Composer": {
+                "Name": "Johannes Brahms"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Vovka Ashkenazy",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": {
+                    "Name": "klarínetta"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Kvintett Es-dúr op. 16 (pn, ób, kl, hn, fg)",
+              "Composer": {
+                "Name": "Ludwig van Beethoven"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Vovka Ashkenazy",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Daði Kolbeinsson",
+                  "Instrument": {
+                    "Name": "óbó"
+                  }
+                },
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": {
+                    "Name": "klarínetta"
+                  }
+                },
+                {
+                  "Name": "Joseph Ognibene",
+                  "Instrument": {
+                    "Name": "horn"
+                  }
+                },
+                {
+                  "Name": "Hafsteinn Guðmundsson",
+                  "Instrument": {
+                    "Name": "fagott"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "2002-02-24",
+          "Pieces": [
+            {
+              "Title": "Strengjakvintett g-moll K. 516",
+              "Composer": {
+                "Name": "Wolfgang Amadeus Mozart"
+              },
+              "GroupName": "Eþos-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Crisantemi, strengjakvartett",
+              "Composer": {
+                "Name": "Giacomo Puccini"
+              },
+              "GroupName": "Eþos-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Píanókvintett f-moll op. 34",
+              "Composer": {
+                "Name": "Johannes Brahms"
+              },
+              "GroupName": "Eþos-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Mona Sandström",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "47. starfsár",
+      "Concerts": [
+        {
+          "Description": "",
+          "Date": "2002-09-22",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett d-moll op. 56 (Voces intimae)",
+              "Composer": {
+                "Name": "Jean Sibelius"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Zbigniew Dubik",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Guðrúnarkviða in fyrsta, strengjakvartett",
+              "Composer": {
+                "Name": "Þórður Magnússon"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Zbigniew Dubik",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett F-dúr op. 59 nr. 1",
+              "Composer": {
+                "Name": "Ludwig van Beethoven"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Zbigniew Dubik",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "2002-10-20",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett nr. 12 Des-dúr op. 133",
+              "Composer": {
+                "Name": "Dmítrí Sjostakovítsj"
+              },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Klarínettukvintett h-moll op. 115",
+              "Composer": {
+                "Name": "Johannes Brahms"
+              },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Ármann Helgason",
+                  "Instrument": {
+                    "Name": "klarínetta"
+                  }
+                },
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "2002-11-24",
+          "Pieces": [
+            {
+              "Title": "Píanókvartettkafli",
+              "Composer": {
+                "Name": "Gustav Mahler"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Anna Áslaug Ragnarsdóttir",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Laufey Sigurðardóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Richard Talkowsky",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Píanókvintett Es-dúr op. 87",
+              "Composer": {
+                "Name": "Johann Nepomuk Hummel"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Anna Áslaug Ragnarsdóttir",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Laufey Sigurðardóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Richard Talkowsky",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Hávarður Tryggvason",
+                  "Instrument": {
+                    "Name": "kontrabassi"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Píanókvintett A-dúr D. 667 (Silungskvintettinn)",
+              "Composer": {
+                "Name": "Franz Schubert"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Anna Áslaug Ragnarsdóttir",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Laufey Sigurðardóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Richard Talkowsky",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Hávarður Tryggvason",
+                  "Instrument": {
+                    "Name": "kontrabassi"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "2003-01-19",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett C-dúr op.76 nr. 3 (Keisarakvartettinn)",
+              "Composer": {
+                "Name": "Joseph Haydn"
+              },
+              "GroupName": "Eþos-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Grosse Fuge B-dúr op. 133",
+              "Composer": {
+                "Name": "Ludwig van Beethoven"
+              },
+              "GroupName": "Eþos-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett d-moll D. 810 (Dauðinn og stúlkan)",
+              "Composer": {
+                "Name": "Franz Schubert"
+              },
+              "GroupName": "Eþos-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "2003-02-23",
+          "Pieces": [
+            {
+              "Title": "Píanókvintett g-moll op. 57",
+              "Composer": {
+                "Name": "Dmítrí Sjostakovítsj"
+              },
+              "GroupName": "Tríó Reykjavíkur",
+              "Performers": [
+                {
+                  "Name": "Peter Maté",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Guðný Guðmundsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Gunnar Kvaran",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Sun Na",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Unnur Sveinbjarnardóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Píanókvintett f-moll",
+              "Composer": {
+                "Name": "César Franck"
+              },
+              "GroupName": "Tríó Reykjavíkur",
+              "Performers": [
+                {
+                  "Name": "Peter Maté",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Guðný Guðmundsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Gunnar Kvaran",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Sun Na",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Unnur Sveinbjarnardóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "48. starfsár",
+      "Concerts": [
+        {
+          "Description": "",
+          "Date": "2003-09-21",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett nr. 2",
+              "Composer": {
+                "Name": "Jón Ásgeirsson"
+              },
+              "GroupName": "Eþos-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvintett c-moll K. 406",
+              "Composer": {
+                "Name": "Wolfgang Amadeus Mozart"
+              },
+              "GroupName": "Eþos-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Píanókvintett nr. 2 A-dúr op. 81",
+              "Composer": {
+                "Name": "Antonín Dvořák"
+              },
+              "GroupName": "Eþos-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Mona Sandström",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "2003-10-19",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett nr. 2",
+              "Composer": {
+                "Name": "Erik Mogensen"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Zbigniew Dubik",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurgeir Agnarsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett nr. 6",
+              "Composer": {
+                "Name": "Béla Bartók"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Zbigniew Dubik",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurgeir Agnarsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett B-dúr op. 18 nr. 6",
+              "Composer": {
+                "Name": "Ludwig van Beethoven"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Zbigniew Dubik",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurgeir Agnarsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "2003-11-23",
+          "Pieces": [
+            {
+              "Title": "Klarínettukvintett A-dúr K. 581*",
+              "Composer": {
+                "Name": "Wolfgang Amadeus Mozart"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": {
+                    "Name": "klarínetta"
+                  }
+                },
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Zbigniew Dubik",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Oktett F-dúr D. 803",
+              "Composer": {
+                "Name": "Franz Schubert"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": {
+                    "Name": "klarínetta"
+                  }
+                },
+                {
+                  "Name": "Joseph Ognibene",
+                  "Instrument": {
+                    "Name": "horn"
+                  }
+                },
+                {
+                  "Name": "Rúnar Vilbergsson",
+                  "Instrument": {
+                    "Name": "fagott"
+                  }
+                },
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Zbigniew Dubik",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Richard Korn",
+                  "Instrument": {
+                    "Name": "kontrabassi"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "2004-01-25",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett nr. 8 c-moll op. 110",
+              "Composer": {
+                "Name": "Dmítrí Sjostakovítsj"
+              },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Píanótríó a-moll op. 50",
+              "Composer": {
+                "Name": "Pjotr Tsjajkovskí"
+              },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Örn Magnússon",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "2004-02-22",
+          "Pieces": [
+            {
+              "Title": "Kvintett A-dúr op. 51 nr. 3 (fl, fi, 2 va, se)",
+              "Composer": {
+                "Name": "Friedrich Kuhlau"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Martial Nardeau",
+                  "Instrument": {
+                    "Name": "flauta"
+                  }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Zbigniew Dubik",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Sigurgeir Agnarsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Fúga e. Johann Sebastian Bach (BWV 853/2) umr. f. strengjatríó K. 404a/1",
+              "Composer": {
+                "Name": "Wolfgang Amadeus Mozart"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Zbigniew Dubik",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Sigurgeir Agnarsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjasextett nr. 1 B-dúr op. 18",
+              "Composer": {
+                "Name": "Johannes Brahms"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Zbigniew Dubik",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Sigurgeir Agnarsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "49. starfsár",
+      "Concerts": [
+        {
+          "Description": "",
+          "Date": "2004-09-19",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett F-dúr op. 77 nr. 2",
+              "Composer": {
+                "Name": "Joseph Haydn"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Zbigniew Dubik",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Júlía Mogensen",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett nr. 3, Heimsókn",
+              "Composer": {
+                "Name": "Þorkell Sigurbjörnsson"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Zbigniew Dubik",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Júlía Mogensen",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Píanókvartett nr. 3 c-moll op. 60",
+              "Composer": {
+                "Name": "Johannes Brahms"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Gerrit Schuil",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Helga Þórarinsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Guðný Jónasdóttir",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "2004-10-24",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett nr. 12 F-dúr op. 96 (Ameríski kvartettinn)",
+              "Composer": {
+                "Name": "Antonín Dvořák"
+              },
+              "GroupName": "Cuvilliés-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Florian Sonnleitner",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Aldo Volpini",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Roland Metzger",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Peter Wöpke",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett nr. 1 (Kreutzersónatan)",
+              "Composer": {
+                "Name": "Leoš Janáček"
+              },
+              "GroupName": "Cuvilliés-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Florian Sonnleitner",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Aldo Volpini",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Roland Metzger",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Peter Wöpke",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett B-dúr op. 130 (með Grosse Fuge)",
+              "Composer": {
+                "Name": "Ludwig van Beethoven"
+              },
+              "GroupName": "Cuvilliés-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Florian Sonnleitner",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Aldo Volpini",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Roland Metzger",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Peter Wöpke",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "2004-11-21",
+          "Pieces": [
+            {
+              "Title": "Þættir I, V og VI úr Mensa sonora f. strengjakvartett og fylgibassa",
+              "Composer": {
+                "Name": "Heinrich Ignaz Franz von Biber"
+              },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Guðmundur Kristmundsson",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                },
+                {
+                  "Name": "Guðrún Óskarsdóttir",
+                  "Instrument": {
+                    "Name": "semball"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett nr. 7 fis-moll op. 108",
+              "Composer": {
+                "Name": "Dmítrí Sjostakovítsj"
+              },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Jónína Auður Hilmarsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett nr. 13 b-moll op. 138",
+              "Composer": {
+                "Name": "Dmítrí Sjostakovítsj"
+              },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Jónína Auður Hilmarsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "2005-01-23",
+          "Pieces": [
+            {
+              "Title": "Crisantemi, strengjakvartett",
+              "Composer": {
+                "Name": "Giacomo Puccini"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Zbigniew Dubik",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Jónína Auður Hilmarsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvintett C-dúr op. 29",
+              "Composer": {
+                "Name": "Ludwig van Beethoven"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Zbigniew Dubik",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Jónína Auður Hilmarsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvintett nr. 2 G-dúr op. 111",
+              "Composer": {
+                "Name": "Johannes Brahms"
+              },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Zbigniew Dubik",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Jónína Auður Hilmarsdóttir",
+                  "Instrument": {
+                    "Name": "víóla"
+                  }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "",
+          "Date": "2005-02-20",
+          "Pieces": [
+            {
+              "Title": "Píanótríó B-dúr op. 97 (Erkihertogatríóið)",
+              "Composer": {
+                "Name": "Ludwig van Beethoven"
+              },
+              "GroupName": "Tríó Reykjavíkur",
+              "Performers": [
+                {
+                  "Name": "Peter Maté",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Guðný Guðmundsdótttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Gunnar Kvaran",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            },
+            {
+              "Title": "Píanótríó nr. 2 e-moll op. 67",
+              "Composer": {
+                "Name": "Dmítrí Sjostakovítsj"
+              },
+              "GroupName": "Tríó Reykjavíkur",
+              "Performers": [
+                {
+                  "Name": "Peter Maté",
+                  "Instrument": {
+                    "Name": "píanó"
+                  }
+                },
+                {
+                  "Name": "Guðný Guðmundsdótttir",
+                  "Instrument": {
+                    "Name": "fiðla"
+                  }
+                },
+                {
+                  "Name": "Gunnar Kvaran",
+                  "Instrument": {
+                    "Name": "selló"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "50. starfsár",
+      "Concerts": [
+        {
+          "Description": "1. tónleikar",
+          "Date": "2005-09-18",
+          "Pieces": [
+            {
+              "Title": "Strengjakvintett C-dúr D. 956",
+              "Composer": { "Name": "Franz Schubert" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Guðný Guðmundsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Sigurbjörn Bernharðsson",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                { "Name": "Nina G. Flyer", "Instrument": { "Name": "selló" } },
+                { "Name": "Gunnar Kvaran", "Instrument": { "Name": "selló" } }
+              ]
+            },
+            {
+              "Title": "Strengjasextett úr óperunni Capriccio",
+              "Composer": { "Name": "Richard Strauss" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Guðný Guðmundsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Sigurbjörn Bernharðsson",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                { "Name": "James Dunham", "Instrument": { "Name": "víóla" } },
+                {
+                  "Name": "Ásdís Valdimarsdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                { "Name": "Nina G. Flyer", "Instrument": { "Name": "selló" } },
+                { "Name": "Gunnar Kvaran", "Instrument": { "Name": "selló" } }
+              ]
+            },
+            {
+              "Title": "Strengjakvintett Es-dúr op. 97",
+              "Composer": { "Name": "Antonín Dvořák" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Guðný Guðmundsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Sigurbjörn Bernharðsson",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Ásdís Valdimarsdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                { "Name": "Nina G. Flyer", "Instrument": { "Name": "selló" } }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "2. tónleikar",
+          "Date": "2005-10-16",
+          "Pieces": [
+            {
+              "Title": "Tríó fyrir óbó, klarínettu og horn",
+              "Composer": { "Name": "Jón Nordal" },
+              "GroupName": "Blásarakvintett Reykjavíkur",
+              "Performers": [
+                { "Name": "Daði Kolbeinsson", "Instrument": { "Name": "óbó" } },
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                { "Name": "Joseph Ognibene", "Instrument": { "Name": "horn" } }
+              ]
+            },
+            {
+              "Title": "Kvintett Es-dúr K. 452 (píanó, óbó, klarínetta, horn, fagott)",
+              "Composer": { "Name": "Wolfgang Amadeus Mozart" },
+              "GroupName": "Blásarakvintett Reykjavíkur",
+              "Performers": [
+                {
+                  "Name": "Víkingur Heiðar Ólafsson",
+                  "Instrument": { "Name": "píanó" }
+                },
+                { "Name": "Daði Kolbeinsson", "Instrument": { "Name": "óbó" } },
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                { "Name": "Joseph Ognibene", "Instrument": { "Name": "horn" } },
+                {
+                  "Name": "Hafsteinn Guðmundsson",
+                  "Instrument": { "Name": "fagott" }
+                }
+              ]
+            },
+            {
+              "Title": "Blásarakvintett nr. 1",
+              "Composer": { "Name": "Jean Françaix" },
+              "GroupName": "Blásarakvintett Reykjavíkur",
+              "Performers": [
+                {
+                  "Name": "Bernharður Wilkinson",
+                  "Instrument": { "Name": "flauta" }
+                },
+                { "Name": "Daði Kolbeinsson", "Instrument": { "Name": "óbó" } },
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                { "Name": "Joseph Ognibene", "Instrument": { "Name": "horn" } },
+                {
+                  "Name": "Hafsteinn Guðmundsson",
+                  "Instrument": { "Name": "fagott" }
+                }
+              ]
+            },
+            {
+              "Title": "Sextett fyrir píanó og blásarakvintett",
+              "Composer": { "Name": "Francis Poulenc" },
+              "GroupName": "Blásarakvintett Reykjavíkur",
+              "Performers": [
+                {
+                  "Name": "Víkingur Heiðar Ólafsson",
+                  "Instrument": { "Name": "píanó" }
+                },
+                {
+                  "Name": "Bernharður Wilkinson",
+                  "Instrument": { "Name": "flauta" }
+                },
+                { "Name": "Daði Kolbeinsson", "Instrument": { "Name": "óbó" } },
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                { "Name": "Joseph Ognibene", "Instrument": { "Name": "horn" } },
+                {
+                  "Name": "Hafsteinn Guðmundsson",
+                  "Instrument": { "Name": "fagott" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "3. tónleikar",
+          "Date": "2006-01-22",
+          "Pieces": [
+            {
+              "Title": "Píanókvartett g-moll K. 478",
+              "Composer": { "Name": "Wolfgang Amadeus Mozart" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Anna Guðný Guðmundsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                },
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett Es-dúr op. 74 (Hörpukvartettinn)",
+              "Composer": { "Name": "Ludwig van Beethoven" },
+              "GroupName": "Hörpukvartettinn",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                { "Name": "Zbigniew Dubik", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "4. tónleikar",
+          "Date": "2006-02-19",
+          "Pieces": [
+            {
+              "Title": "Óbókvartett F-dúr K. 370",
+              "Composer": { "Name": "Wolfgang Amadeus Mozart" },
+              "GroupName": "",
+              "Performers": [
+                { "Name": "Daði Kolbeinsson", "Instrument": { "Name": "óbó" } },
+                {
+                  "Name": "Una Sveinbjarnardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett nr. 1 e-moll (Úr lífi mínu)",
+              "Composer": { "Name": "Bedřich Smetana" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Una Sveinbjarnardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett g-moll op. 13",
+              "Composer": { "Name": "Carl Nielsen" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Una Sveinbjarnardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Greta Guðnadóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "5. tónleikar",
+          "Date": "2006-03-05",
+          "Pieces": [
+            {
+              "Title": "Flautukvartett D-dúr K. 285",
+              "Composer": { "Name": "Wolfgang Amadeus Mozart" },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hallfríður Ólafsdóttir",
+                  "Instrument": { "Name": "flauta" }
+                },
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Jónína Auður Hilmarsdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett nr. 2 A-dúr op. 68",
+              "Composer": { "Name": "Dmítrí Sjostakovítsj" },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Sigurlaug Eðvaldsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Jónína Auður Hilmarsdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjatríó (Divertimento) Es-dúr K. 563",
+              "Composer": { "Name": "Wolfgang Amadeus Mozart" },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Jónína Auður Hilmarsdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
