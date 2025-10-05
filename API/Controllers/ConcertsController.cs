@@ -42,7 +42,7 @@ namespace API.Controllers
 
             if (concertSeason == null) return BadRequest("Concert season does not exist");
 
-            concertRepo.Update(new Concert { Id = concert.Id, Date = concert.Date, ConcertSeason = concertSeason, Description = concert.Description });
+            concertRepo.Update(new Concert { Id = concert.Id, Date = concert.Date, ConcertSeasonId = concert.ConcertSeasonId, Description = concert.Description });
 
             if (await concertRepo.SaveAllAsync())
             {
@@ -59,7 +59,7 @@ namespace API.Controllers
 
             if (concertSeason == null) return BadRequest("Concert season does not exist");
 
-            var newConcert = new Concert { Date = concert.Date, ConcertSeason = concertSeason, Description = concert.Description };
+            var newConcert = new Concert { Date = concert.Date, ConcertSeasonId = concert.ConcertSeasonId, Description = concert.Description };
 
             concertRepo.Add(newConcert);
 
