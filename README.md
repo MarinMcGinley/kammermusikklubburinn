@@ -10,7 +10,7 @@ The database contains information about concert seasons, concerts, performers, c
 - **.NET 8** (API)
 - **Entity Framework Core**
 - **Docker & Docker Compose**
-- **PostgreSQL** (Database)
+- **MSSQL** (Database)
 
 ---
 
@@ -36,7 +36,11 @@ docker compose down
 
 ### 2. Install Entity Framework CLI
 
-Download and install the EF Core CLI tools:
+This project uses .NET 9.0. Download this version to run the project:
+
+👉 [dotnet 9.0](https://dotnet.microsoft.com/en-us/download)
+
+Download and install the EF Core CLI tools version 9.0.7:
 
 👉 [dotnet-ef NuGet Package](https://www.nuget.org/packages/dotnet-ef)
 
@@ -44,27 +48,21 @@ Download and install the EF Core CLI tools:
 
 ### 3. Database Management Commands
 
-#### Create a New Migration
-
-```bash
-dotnet ef migrations add [NAME OF MIGRATION] -s API -p Infrastructure
-```
-
 #### Update the Database
 
 ```bash
 dotnet ef database update -s API -p Infrastructure
 ```
 
-#### Drop the Database
-
-```bash
-dotnet ef database drop -p Infrastructure -s API
-```
-
 ---
 
 ### 4. Run the Application
+
+You may need to tell .NET you want to run in development mode:
+
+```bash
+export ASPNETCORE_ENVIRONMENT=Development
+```
 
 Start the API project:
 
@@ -81,6 +79,22 @@ dotnet watch
 2. Open the **Run and Debug** panel (🪲 icon on the left).
 3. Press the green **Play** button.
 4. Search for **API** in the target list and attach.
+
+---
+
+## Other DB management commands
+
+#### Drop the Database
+
+```bash
+dotnet ef database drop -p Infrastructure -s API
+```
+
+#### Create a New Migration
+
+```bash
+dotnet ef migrations add [NAME OF MIGRATION] -s API -p Infrastructure
+```
 
 ---
 
