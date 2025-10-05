@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Infrastructure.Migrations
 {
     [DbContext(typeof(ConcertContext))]
-    [Migration("20250914170934_TrackingPerformersAndInstruments")]
-    partial class TrackingPerformersAndInstruments
+    [Migration("20251005202441_InitialMigration")]
+    partial class InitialMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

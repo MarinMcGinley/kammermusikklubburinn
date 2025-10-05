@@ -6,13 +6,13 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Infrastructure.Migrations
 {
     /// <inheritdoc />
-    public partial class WithAllEntities : Migration
+    public partial class InitialMigration : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Composer",
+                name: "Composers",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -21,33 +21,24 @@ namespace Infrastructure.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Composer", x => x.Id);
+                    table.PrimaryKey("PK_Composers", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
-                name: "Concert",
+                name: "ConcertSeasons",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Title = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Description = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Date = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    ConcertSeasonId = table.Column<int>(type: "int", nullable: false)
+                    Title = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Concert", x => x.Id);
-                    table.ForeignKey(
-                        name: "FK_Concert_ConcertSeasons_ConcertSeasonId",
-                        column: x => x.ConcertSeasonId,
-                        principalTable: "ConcertSeasons",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
+                    table.PrimaryKey("PK_ConcertSeasons", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
-                name: "Group",
+                name: "Instruments",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -56,11 +47,11 @@ namespace Infrastructure.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Group", x => x.Id);
+                    table.PrimaryKey("PK_Instruments", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
-                name: "Instrument",
+                name: "Performers",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -69,24 +60,11 @@ namespace Infrastructure.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Instrument", x => x.Id);
+                    table.PrimaryKey("PK_Performers", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
-                name: "Performer",
-                columns: table => new
-                {
-                    Id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_Performer", x => x.Id);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "Piece",
+                name: "Pieces",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -96,70 +74,32 @@ namespace Infrastructure.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Piece", x => x.Id);
+                    table.PrimaryKey("PK_Pieces", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Piece_Composer_ComposerId",
+                        name: "FK_Pieces_Composers_ComposerId",
                         column: x => x.ComposerId,
-                        principalTable: "Composer",
+                        principalTable: "Composers",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateTable(
-                name: "GroupInConcert",
+                name: "Concerts",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    GroupId = table.Column<int>(type: "int", nullable: false),
-                    ConcertId = table.Column<int>(type: "int", nullable: false)
+                    Description = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Date = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    ConcertSeasonId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_GroupInConcert", x => x.Id);
+                    table.PrimaryKey("PK_Concerts", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_GroupInConcert_Concert_ConcertId",
-                        column: x => x.ConcertId,
-                        principalTable: "Concert",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_GroupInConcert_Group_GroupId",
-                        column: x => x.GroupId,
-                        principalTable: "Group",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "PerformerInGroup",
-                columns: table => new
-                {
-                    Id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    PerformerId = table.Column<int>(type: "int", nullable: false),
-                    GroupId = table.Column<int>(type: "int", nullable: false),
-                    InstrumentId = table.Column<int>(type: "int", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_PerformerInGroup", x => x.Id);
-                    table.ForeignKey(
-                        name: "FK_PerformerInGroup_Group_GroupId",
-                        column: x => x.GroupId,
-                        principalTable: "Group",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_PerformerInGroup_Instrument_InstrumentId",
-                        column: x => x.InstrumentId,
-                        principalTable: "Instrument",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_PerformerInGroup_Performer_PerformerId",
-                        column: x => x.PerformerId,
-                        principalTable: "Performer",
+                        name: "FK_Concerts_ConcertSeasons_ConcertSeasonId",
+                        column: x => x.ConcertSeasonId,
+                        principalTable: "ConcertSeasons",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
@@ -171,44 +111,63 @@ namespace Infrastructure.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     PieceId = table.Column<int>(type: "int", nullable: false),
-                    ConcertId = table.Column<int>(type: "int", nullable: false)
+                    ConcertId = table.Column<int>(type: "int", nullable: false),
+                    GroupName = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_PieceInConcert", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_PieceInConcert_Concert_ConcertId",
+                        name: "FK_PieceInConcert_Concerts_ConcertId",
                         column: x => x.ConcertId,
-                        principalTable: "Concert",
+                        principalTable: "Concerts",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_PieceInConcert_Piece_PieceId",
+                        name: "FK_PieceInConcert_Pieces_PieceId",
                         column: x => x.PieceId,
-                        principalTable: "Piece",
+                        principalTable: "Pieces",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "PerformerInGroup",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    PerformerId = table.Column<int>(type: "int", nullable: false),
+                    InstrumentId = table.Column<int>(type: "int", nullable: false),
+                    PieceInConcertId = table.Column<int>(type: "int", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_PerformerInGroup", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_PerformerInGroup_Instruments_InstrumentId",
+                        column: x => x.InstrumentId,
+                        principalTable: "Instruments",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_PerformerInGroup_Performers_PerformerId",
+                        column: x => x.PerformerId,
+                        principalTable: "Performers",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_PerformerInGroup_PieceInConcert_PieceInConcertId",
+                        column: x => x.PieceInConcertId,
+                        principalTable: "PieceInConcert",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_Concert_ConcertSeasonId",
-                table: "Concert",
+                name: "IX_Concerts_ConcertSeasonId",
+                table: "Concerts",
                 column: "ConcertSeasonId");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_GroupInConcert_ConcertId",
-                table: "GroupInConcert",
-                column: "ConcertId");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_GroupInConcert_GroupId",
-                table: "GroupInConcert",
-                column: "GroupId");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_PerformerInGroup_GroupId",
-                table: "PerformerInGroup",
-                column: "GroupId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_PerformerInGroup_InstrumentId",
@@ -221,9 +180,9 @@ namespace Infrastructure.Migrations
                 column: "PerformerId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Piece_ComposerId",
-                table: "Piece",
-                column: "ComposerId");
+                name: "IX_PerformerInGroup_PieceInConcertId",
+                table: "PerformerInGroup",
+                column: "PieceInConcertId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_PieceInConcert_ConcertId",
@@ -234,37 +193,39 @@ namespace Infrastructure.Migrations
                 name: "IX_PieceInConcert_PieceId",
                 table: "PieceInConcert",
                 column: "PieceId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Pieces_ComposerId",
+                table: "Pieces",
+                column: "ComposerId");
         }
 
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "GroupInConcert");
+                name: "PerformerInGroup");
 
             migrationBuilder.DropTable(
-                name: "PerformerInGroup");
+                name: "Instruments");
+
+            migrationBuilder.DropTable(
+                name: "Performers");
 
             migrationBuilder.DropTable(
                 name: "PieceInConcert");
 
             migrationBuilder.DropTable(
-                name: "Group");
+                name: "Concerts");
 
             migrationBuilder.DropTable(
-                name: "Instrument");
+                name: "Pieces");
 
             migrationBuilder.DropTable(
-                name: "Performer");
+                name: "ConcertSeasons");
 
             migrationBuilder.DropTable(
-                name: "Concert");
-
-            migrationBuilder.DropTable(
-                name: "Piece");
-
-            migrationBuilder.DropTable(
-                name: "Composer");
+                name: "Composers");
         }
     }
 }
