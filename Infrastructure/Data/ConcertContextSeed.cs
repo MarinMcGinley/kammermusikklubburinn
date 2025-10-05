@@ -26,7 +26,7 @@ public class ConcertContextSeed
         {
             if (!context.ConcertSeasons.Any())
             {
-                var concertSeasonData = await File.ReadAllTextAsync("../Infrastructure/Data/SeedData/first.json");
+                var concertSeasonData = await File.ReadAllTextAsync("../Infrastructure/Data/SeedData/first_concert.json");
 
                 var concertSeasons = JsonSerializer.Deserialize<List<SeedConcertSeason>>(concertSeasonData);
 
