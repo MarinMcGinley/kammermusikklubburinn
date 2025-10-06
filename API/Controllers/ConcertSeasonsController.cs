@@ -35,24 +35,25 @@ public class ConcertSeasonsController(
     }
 
     [HttpPost]
-    public async Task<ActionResult<ConcertSeason>> CreateConcertSeason(ConcertSeason concertSeason)
+    public async Task<ActionResult<ConcertSeason>> CreateConcertSeason(CreateConcertSeasonDto concertSeason)
     {
-        concertSeasonRepo.Add(concertSeason);
+        var newConcertSeason = new ConcertSeason { Title = concertSeason.Title };
+        concertSeasonRepo.Add(newConcertSeason);
 
         if (await concertSeasonRepo.SaveAllAsync())
         {
-            return CreatedAtAction("GetConcertSeason", new { id = concertSeason.Id }, concertSeason);
+            return CreatedAtAction("GetConcertSeason", new { id = newConcertSeason.Id }, newConcertSeason.ToDto());
         }
 
         return BadRequest("Problem creating concert season");
     }
 
     [HttpPut("{id:int}")]
-    public async Task<ActionResult> UpdateConcertSeason(int id, ConcertSeason concertSeason)
+    public async Task<ActionResult> UpdateConcertSeason(int id, UpdateConcertSeasonDto concertSeason)
     {
         if (concertSeason.Id != id || !ConcertSeasonExists(id)) return BadRequest("Cannot update this concert season");
 
-        concertSeasonRepo.Update(concertSeason);
+        concertSeasonRepo.Update(new ConcertSeason { Id = concertSeason.Id, Title = concertSeason.Title });
 
         if (await concertSeasonRepo.SaveAllAsync())
         {

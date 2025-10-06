@@ -2447,41 +2447,39 @@
             },
             "GroupName": "Sönghópurinn Hljómeyki",
             "Performers": [
-              [
-                {
-                  "Name": "Áslaug Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Guðfinna Dóra Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Helga Gunnarsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Kristín Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                { "Name": "Rut Magnússon", "Instrument": { "Name": "rödd" } },
-                {
-                  "Name": "Guðmundur Guðbrandsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Hafsteinn Ingvarsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Halldór Vilhelmsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Rúnar Einarsson",
-                  "Instrument": { "Name": "rödd" }
-                }
-              ]
+              {
+                "Name": "Áslaug Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Guðfinna Dóra Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Helga Gunnarsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Kristín Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              { "Name": "Rut Magnússon", "Instrument": { "Name": "rödd" } },
+              {
+                "Name": "Guðmundur Guðbrandsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Hafsteinn Ingvarsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Halldór Vilhelmsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Rúnar Einarsson",
+                "Instrument": { "Name": "rödd" }
+              }
             ]
           },
           {
@@ -2518,41 +2516,39 @@
             },
             "GroupName": "Sönghópurinn Hljómeyki",
             "Performers": [
-              [
-                {
-                  "Name": "Áslaug Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Guðfinna Dóra Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Helga Gunnarsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Kristín Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                { "Name": "Rut Magnússon", "Instrument": { "Name": "rödd" } },
-                {
-                  "Name": "Guðmundur Guðbrandsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Hafsteinn Ingvarsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Halldór Vilhelmsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Rúnar Einarsson",
-                  "Instrument": { "Name": "rödd" }
-                }
-              ]
+              {
+                "Name": "Áslaug Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Guðfinna Dóra Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Helga Gunnarsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Kristín Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              { "Name": "Rut Magnússon", "Instrument": { "Name": "rödd" } },
+              {
+                "Name": "Guðmundur Guðbrandsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Hafsteinn Ingvarsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Halldór Vilhelmsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Rúnar Einarsson",
+                "Instrument": { "Name": "rödd" }
+              }
             ]
           },
           {
@@ -2562,41 +2558,39 @@
             },
             "GroupName": "Sönghópurinn Hljómeyki",
             "Performers": [
-              [
-                {
-                  "Name": "Áslaug Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Guðfinna Dóra Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Helga Gunnarsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Kristín Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                { "Name": "Rut Magnússon", "Instrument": { "Name": "rödd" } },
-                {
-                  "Name": "Guðmundur Guðbrandsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Hafsteinn Ingvarsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Halldór Vilhelmsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Rúnar Einarsson",
-                  "Instrument": { "Name": "rödd" }
-                }
-              ]
+              {
+                "Name": "Áslaug Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Guðfinna Dóra Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Helga Gunnarsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Kristín Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              { "Name": "Rut Magnússon", "Instrument": { "Name": "rödd" } },
+              {
+                "Name": "Guðmundur Guðbrandsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Hafsteinn Ingvarsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Halldór Vilhelmsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Rúnar Einarsson",
+                "Instrument": { "Name": "rödd" }
+              }
             ]
           },
           {
@@ -2606,41 +2600,39 @@
             },
             "GroupName": "Sönghópurinn Hljómeyki",
             "Performers": [
-              [
-                {
-                  "Name": "Áslaug Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Guðfinna Dóra Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Helga Gunnarsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Kristín Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                { "Name": "Rut Magnússon", "Instrument": { "Name": "rödd" } },
-                {
-                  "Name": "Guðmundur Guðbrandsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Hafsteinn Ingvarsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Halldór Vilhelmsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Rúnar Einarsson",
-                  "Instrument": { "Name": "rödd" }
-                }
-              ]
+              {
+                "Name": "Áslaug Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Guðfinna Dóra Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Helga Gunnarsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Kristín Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              { "Name": "Rut Magnússon", "Instrument": { "Name": "rödd" } },
+              {
+                "Name": "Guðmundur Guðbrandsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Hafsteinn Ingvarsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Halldór Vilhelmsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Rúnar Einarsson",
+                "Instrument": { "Name": "rödd" }
+              }
             ]
           },
           {
@@ -2650,41 +2642,39 @@
             },
             "GroupName": "Sönghópurinn Hljómeyki",
             "Performers": [
-              [
-                {
-                  "Name": "Áslaug Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Guðfinna Dóra Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Helga Gunnarsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Kristín Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                { "Name": "Rut Magnússon", "Instrument": { "Name": "rödd" } },
-                {
-                  "Name": "Guðmundur Guðbrandsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Hafsteinn Ingvarsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Halldór Vilhelmsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Rúnar Einarsson",
-                  "Instrument": { "Name": "rödd" }
-                }
-              ]
+              {
+                "Name": "Áslaug Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Guðfinna Dóra Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Helga Gunnarsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Kristín Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              { "Name": "Rut Magnússon", "Instrument": { "Name": "rödd" } },
+              {
+                "Name": "Guðmundur Guðbrandsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Hafsteinn Ingvarsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Halldór Vilhelmsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Rúnar Einarsson",
+                "Instrument": { "Name": "rödd" }
+              }
             ]
           },
           {
@@ -2694,41 +2684,39 @@
             },
             "GroupName": "Sönghópurinn Hljómeyki",
             "Performers": [
-              [
-                {
-                  "Name": "Áslaug Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Guðfinna Dóra Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Helga Gunnarsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Kristín Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                { "Name": "Rut Magnússon", "Instrument": { "Name": "rödd" } },
-                {
-                  "Name": "Guðmundur Guðbrandsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Hafsteinn Ingvarsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Halldór Vilhelmsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Rúnar Einarsson",
-                  "Instrument": { "Name": "rödd" }
-                }
-              ]
+              {
+                "Name": "Áslaug Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Guðfinna Dóra Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Helga Gunnarsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Kristín Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              { "Name": "Rut Magnússon", "Instrument": { "Name": "rödd" } },
+              {
+                "Name": "Guðmundur Guðbrandsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Hafsteinn Ingvarsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Halldór Vilhelmsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Rúnar Einarsson",
+                "Instrument": { "Name": "rödd" }
+              }
             ]
           },
           {
@@ -2738,41 +2726,39 @@
             },
             "GroupName": "Sönghópurinn Hljómeyki",
             "Performers": [
-              [
-                {
-                  "Name": "Áslaug Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Guðfinna Dóra Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Helga Gunnarsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Kristín Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                { "Name": "Rut Magnússon", "Instrument": { "Name": "rödd" } },
-                {
-                  "Name": "Guðmundur Guðbrandsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Hafsteinn Ingvarsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Halldór Vilhelmsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Rúnar Einarsson",
-                  "Instrument": { "Name": "rödd" }
-                }
-              ]
+              {
+                "Name": "Áslaug Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Guðfinna Dóra Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Helga Gunnarsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Kristín Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              { "Name": "Rut Magnússon", "Instrument": { "Name": "rödd" } },
+              {
+                "Name": "Guðmundur Guðbrandsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Hafsteinn Ingvarsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Halldór Vilhelmsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Rúnar Einarsson",
+                "Instrument": { "Name": "rödd" }
+              }
             ]
           },
           {
@@ -2782,41 +2768,39 @@
             },
             "GroupName": "Sönghópurinn Hljómeyki",
             "Performers": [
-              [
-                {
-                  "Name": "Áslaug Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Guðfinna Dóra Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Helga Gunnarsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Kristín Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                { "Name": "Rut Magnússon", "Instrument": { "Name": "rödd" } },
-                {
-                  "Name": "Guðmundur Guðbrandsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Hafsteinn Ingvarsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Halldór Vilhelmsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Rúnar Einarsson",
-                  "Instrument": { "Name": "rödd" }
-                }
-              ]
+              {
+                "Name": "Áslaug Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Guðfinna Dóra Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Helga Gunnarsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Kristín Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              { "Name": "Rut Magnússon", "Instrument": { "Name": "rödd" } },
+              {
+                "Name": "Guðmundur Guðbrandsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Hafsteinn Ingvarsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Halldór Vilhelmsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Rúnar Einarsson",
+                "Instrument": { "Name": "rödd" }
+              }
             ]
           },
           {
@@ -2853,41 +2837,39 @@
             },
             "GroupName": "Sönghópurinn Hljómeyki",
             "Performers": [
-              [
-                {
-                  "Name": "Áslaug Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Guðfinna Dóra Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Helga Gunnarsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Kristín Ólafsdóttir",
-                  "Instrument": { "Name": "rödd" }
-                },
-                { "Name": "Rut Magnússon", "Instrument": { "Name": "rödd" } },
-                {
-                  "Name": "Guðmundur Guðbrandsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Hafsteinn Ingvarsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Halldór Vilhelmsson",
-                  "Instrument": { "Name": "rödd" }
-                },
-                {
-                  "Name": "Rúnar Einarsson",
-                  "Instrument": { "Name": "rödd" }
-                }
-              ]
+              {
+                "Name": "Áslaug Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Guðfinna Dóra Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Helga Gunnarsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Kristín Ólafsdóttir",
+                "Instrument": { "Name": "rödd" }
+              },
+              { "Name": "Rut Magnússon", "Instrument": { "Name": "rödd" } },
+              {
+                "Name": "Guðmundur Guðbrandsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Hafsteinn Ingvarsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Halldór Vilhelmsson",
+                "Instrument": { "Name": "rödd" }
+              },
+              {
+                "Name": "Rúnar Einarsson",
+                "Instrument": { "Name": "rödd" }
+              }
             ]
           }
         ]

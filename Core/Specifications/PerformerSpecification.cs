@@ -11,6 +11,7 @@ public class PerformerSpecification : BaseSpecification<Performer>
     )
     {
         ApplyPaging(specParams.PageSize * (specParams.PageIndex - 1), specParams.PageSize);
+        AddOrderBy(x => x.Name);
     }
 
 }

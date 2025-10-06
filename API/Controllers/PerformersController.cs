@@ -33,11 +33,11 @@ namespace API.Controllers
         }
 
         [HttpPut("{id:int}")]
-        public async Task<ActionResult> UpdatePerformer(int id, Performer performer)
+        public async Task<ActionResult> UpdatePerformer(int id, UpdatePerformerDto performer)
         {
             if (performer.Id != id || !PerformerExists(id)) return BadRequest("Cannot update this performer");
 
-            performerRepo.Update(performer);
+            performerRepo.Update(new Performer { Id = performer.Id, Name = performer.Name });
 
             if (await performerRepo.SaveAllAsync())
             {

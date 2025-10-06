@@ -12,10 +12,12 @@ public class ComposerSpecification : BaseSpecification<Composer>
     {
         AddInclude("Pieces");
         ApplyPaging(specParams.PageSize * (specParams.PageIndex - 1), specParams.PageSize);
+        AddOrderBy(x => x.Name);
     }
 
     public ComposerSpecification(int id) : base(x => x.Id == id)
     {
         AddInclude("Pieces");
+        AddOrderBy(x => x.Name);
     }
 }

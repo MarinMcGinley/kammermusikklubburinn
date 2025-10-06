@@ -30,11 +30,11 @@ namespace API.Controllers
         }
 
         [HttpPut("{id:int}")]
-        public async Task<ActionResult> UpdateComposer(int id, Composer composer)
+        public async Task<ActionResult> UpdateComposer(int id, UpdateComposerDto composer)
         {
             if (composer.Id != id || !ComposerExists(id)) return BadRequest("Cannot update this composer");
 
-            composerRepo.Update(composer);
+            composerRepo.Update(new Composer { Id = composer.Id, Name = composer.Name });
 
             if (await composerRepo.SaveAllAsync())
             {

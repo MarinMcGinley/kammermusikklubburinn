@@ -14,6 +14,7 @@ public static class ConcertMappingExtensions
             Id = concert.Id,
             Description = concert.Description,
             Date = concert.Date,
+            ConcertSeasonId = concert.ConcertSeasonId,
             PiecesInConcert = concert.PiecesInConcert.Select(x => x.ToDto()).ToList()
         };
     }

@@ -1471,62 +1471,60 @@
             },
             "GroupName": "",
             "Performers": [
-              [
-                {
-                  "Name": "Gilbert Jespersen",
-                  "Instrument": { "Name": "flauta" }
-                },
-                {
-                  "Name": "Horst Tippmann",
-                  "Instrument": { "Name": "flauta" }
-                },
-                {
-                  "Name": "Björn Ólafsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Þorvaldur Steingrímsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Einar Vigfússon",
-                  "Instrument": { "Name": "selló" }
-                },
-                { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
-                {
-                  "Name": "Ingvar Jónasson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Josef Felzmann",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                { "Name": "Óskar Cortes", "Instrument": { "Name": "fiðla" } },
-                {
-                  "Name": "Einar G. Sveinbjörnsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Sveinn Ólafsson",
-                  "Instrument": { "Name": "víóla" }
-                },
-                {
-                  "Name": "Indriði Bogason",
-                  "Instrument": { "Name": "víóla" }
-                },
-                {
-                  "Name": "Jóhannes Eggertsson",
-                  "Instrument": { "Name": "selló" }
-                },
-                {
-                  "Name": "Ervin Köppen",
-                  "Instrument": { "Name": "kontrabassi" }
-                },
-                {
-                  "Name": "Páll Ísólfsson",
-                  "Instrument": { "Name": "semball" }
-                }
-              ]
+              {
+                "Name": "Gilbert Jespersen",
+                "Instrument": { "Name": "flauta" }
+              },
+              {
+                "Name": "Horst Tippmann",
+                "Instrument": { "Name": "flauta" }
+              },
+              {
+                "Name": "Björn Ólafsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Þorvaldur Steingrímsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Einar Vigfússon",
+                "Instrument": { "Name": "selló" }
+              },
+              { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Ingvar Jónasson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Josef Felzmann",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Óskar Cortes", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Einar G. Sveinbjörnsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Sveinn Ólafsson",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Indriði Bogason",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Jóhannes Eggertsson",
+                "Instrument": { "Name": "selló" }
+              },
+              {
+                "Name": "Ervin Köppen",
+                "Instrument": { "Name": "kontrabassi" }
+              },
+              {
+                "Name": "Páll Ísólfsson",
+                "Instrument": { "Name": "semball" }
+              }
             ]
           },
           {
@@ -1536,62 +1534,60 @@
             },
             "GroupName": "",
             "Performers": [
-              [
-                {
-                  "Name": "Gilbert Jespersen",
-                  "Instrument": { "Name": "flauta" }
-                },
-                {
-                  "Name": "Horst Tippmann",
-                  "Instrument": { "Name": "flauta" }
-                },
-                {
-                  "Name": "Björn Ólafsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Þorvaldur Steingrímsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Einar Vigfússon",
-                  "Instrument": { "Name": "selló" }
-                },
-                { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
-                {
-                  "Name": "Ingvar Jónasson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Josef Felzmann",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                { "Name": "Óskar Cortes", "Instrument": { "Name": "fiðla" } },
-                {
-                  "Name": "Einar G. Sveinbjörnsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Sveinn Ólafsson",
-                  "Instrument": { "Name": "víóla" }
-                },
-                {
-                  "Name": "Indriði Bogason",
-                  "Instrument": { "Name": "víóla" }
-                },
-                {
-                  "Name": "Jóhannes Eggertsson",
-                  "Instrument": { "Name": "selló" }
-                },
-                {
-                  "Name": "Ervin Köppen",
-                  "Instrument": { "Name": "kontrabassi" }
-                },
-                {
-                  "Name": "Páll Ísólfsson",
-                  "Instrument": { "Name": "semball" }
-                }
-              ]
+              {
+                "Name": "Gilbert Jespersen",
+                "Instrument": { "Name": "flauta" }
+              },
+              {
+                "Name": "Horst Tippmann",
+                "Instrument": { "Name": "flauta" }
+              },
+              {
+                "Name": "Björn Ólafsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Þorvaldur Steingrímsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Einar Vigfússon",
+                "Instrument": { "Name": "selló" }
+              },
+              { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Ingvar Jónasson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Josef Felzmann",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Óskar Cortes", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Einar G. Sveinbjörnsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Sveinn Ólafsson",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Indriði Bogason",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Jóhannes Eggertsson",
+                "Instrument": { "Name": "selló" }
+              },
+              {
+                "Name": "Ervin Köppen",
+                "Instrument": { "Name": "kontrabassi" }
+              },
+              {
+                "Name": "Páll Ísólfsson",
+                "Instrument": { "Name": "semball" }
+              }
             ]
           }
         ]
@@ -1607,50 +1603,48 @@
             },
             "GroupName": "",
             "Performers": [
-              [
-                {
-                  "Name": "Björn Ólafsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
-                {
-                  "Name": "Einar Vigfússon",
-                  "Instrument": { "Name": "selló" }
-                },
-                {
-                  "Name": "Þorvaldur Steingrímsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Ingvar Jónasson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Josef Felzmann",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                { "Name": "Óskar Cortes", "Instrument": { "Name": "fiðla" } },
-                {
-                  "Name": "Einar G. Sveinbjörnsson",
-                  "Instrument": { "Name": "víóla" }
-                },
-                {
-                  "Name": "Sveinn Ólafsson",
-                  "Instrument": { "Name": "víóla" }
-                },
-                {
-                  "Name": "Jóhannes Eggertsson",
-                  "Instrument": { "Name": "selló" }
-                },
-                {
-                  "Name": "Einar B. Waage",
-                  "Instrument": { "Name": "kontrabassi" }
-                },
-                {
-                  "Name": "Magnús Blöndal Jóhannsson",
-                  "Instrument": { "Name": "semball" }
-                }
-              ]
+              {
+                "Name": "Björn Ólafsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Einar Vigfússon",
+                "Instrument": { "Name": "selló" }
+              },
+              {
+                "Name": "Þorvaldur Steingrímsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Ingvar Jónasson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Josef Felzmann",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Óskar Cortes", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Einar G. Sveinbjörnsson",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Sveinn Ólafsson",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Jóhannes Eggertsson",
+                "Instrument": { "Name": "selló" }
+              },
+              {
+                "Name": "Einar B. Waage",
+                "Instrument": { "Name": "kontrabassi" }
+              },
+              {
+                "Name": "Magnús Blöndal Jóhannsson",
+                "Instrument": { "Name": "semball" }
+              }
             ]
           },
           {
@@ -1660,50 +1654,48 @@
             },
             "GroupName": "",
             "Performers": [
-              [
-                {
-                  "Name": "Björn Ólafsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
-                {
-                  "Name": "Einar Vigfússon",
-                  "Instrument": { "Name": "selló" }
-                },
-                {
-                  "Name": "Þorvaldur Steingrímsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Ingvar Jónasson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Josef Felzmann",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                { "Name": "Óskar Cortes", "Instrument": { "Name": "fiðla" } },
-                {
-                  "Name": "Einar G. Sveinbjörnsson",
-                  "Instrument": { "Name": "víóla" }
-                },
-                {
-                  "Name": "Sveinn Ólafsson",
-                  "Instrument": { "Name": "víóla" }
-                },
-                {
-                  "Name": "Jóhannes Eggertsson",
-                  "Instrument": { "Name": "selló" }
-                },
-                {
-                  "Name": "Einar B. Waage",
-                  "Instrument": { "Name": "kontrabassi" }
-                },
-                {
-                  "Name": "Magnús Blöndal Jóhannsson",
-                  "Instrument": { "Name": "semball" }
-                }
-              ]
+              {
+                "Name": "Björn Ólafsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Einar Vigfússon",
+                "Instrument": { "Name": "selló" }
+              },
+              {
+                "Name": "Þorvaldur Steingrímsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Ingvar Jónasson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Josef Felzmann",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Óskar Cortes", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Einar G. Sveinbjörnsson",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Sveinn Ólafsson",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Jóhannes Eggertsson",
+                "Instrument": { "Name": "selló" }
+              },
+              {
+                "Name": "Einar B. Waage",
+                "Instrument": { "Name": "kontrabassi" }
+              },
+              {
+                "Name": "Magnús Blöndal Jóhannsson",
+                "Instrument": { "Name": "semball" }
+              }
             ]
           },
           {
@@ -1713,50 +1705,48 @@
             },
             "GroupName": "",
             "Performers": [
-              [
-                {
-                  "Name": "Björn Ólafsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
-                {
-                  "Name": "Einar Vigfússon",
-                  "Instrument": { "Name": "selló" }
-                },
-                {
-                  "Name": "Þorvaldur Steingrímsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Ingvar Jónasson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Josef Felzmann",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                { "Name": "Óskar Cortes", "Instrument": { "Name": "fiðla" } },
-                {
-                  "Name": "Einar G. Sveinbjörnsson",
-                  "Instrument": { "Name": "víóla" }
-                },
-                {
-                  "Name": "Sveinn Ólafsson",
-                  "Instrument": { "Name": "víóla" }
-                },
-                {
-                  "Name": "Jóhannes Eggertsson",
-                  "Instrument": { "Name": "selló" }
-                },
-                {
-                  "Name": "Einar B. Waage",
-                  "Instrument": { "Name": "kontrabassi" }
-                },
-                {
-                  "Name": "Magnús Blöndal Jóhannsson",
-                  "Instrument": { "Name": "semball" }
-                }
-              ]
+              {
+                "Name": "Björn Ólafsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Einar Vigfússon",
+                "Instrument": { "Name": "selló" }
+              },
+              {
+                "Name": "Þorvaldur Steingrímsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Ingvar Jónasson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Josef Felzmann",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Óskar Cortes", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Einar G. Sveinbjörnsson",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Sveinn Ólafsson",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Jóhannes Eggertsson",
+                "Instrument": { "Name": "selló" }
+              },
+              {
+                "Name": "Einar B. Waage",
+                "Instrument": { "Name": "kontrabassi" }
+              },
+              {
+                "Name": "Magnús Blöndal Jóhannsson",
+                "Instrument": { "Name": "semball" }
+              }
             ]
           }
         ]
@@ -2309,58 +2299,56 @@
             },
             "GroupName": "",
             "Performers": [
-              [
-                {
-                  "Name": "Björn Ólafsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Josef Felzmann",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
-                {
-                  "Name": "Sveinn Ólafsson",
-                  "Instrument": { "Name": "víóla" }
-                },
-                {
-                  "Name": "Einar Vigfússon",
-                  "Instrument": { "Name": "selló" }
-                },
-                {
-                  "Name": "Þorvaldur Steingrímsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Ingvar Jónasson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Einar G. Sveinbjörnsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Árni Arinbjarnarson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                { "Name": "Óskar Cortes", "Instrument": { "Name": "fiðla" } },
-                {
-                  "Name": "Indriði Bogason",
-                  "Instrument": { "Name": "víóla" }
-                },
-                {
-                  "Name": "Jóhannes Eggertsson",
-                  "Instrument": { "Name": "selló" }
-                },
-                {
-                  "Name": "Einar B. Waage",
-                  "Instrument": { "Name": "kontrabassi" }
-                },
-                {
-                  "Name": "Gísli Magnússon",
-                  "Instrument": { "Name": "semball" }
-                }
-              ]
+              {
+                "Name": "Björn Ólafsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Josef Felzmann",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Sveinn Ólafsson",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Einar Vigfússon",
+                "Instrument": { "Name": "selló" }
+              },
+              {
+                "Name": "Þorvaldur Steingrímsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Ingvar Jónasson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Einar G. Sveinbjörnsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Árni Arinbjarnarson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Óskar Cortes", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Indriði Bogason",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Jóhannes Eggertsson",
+                "Instrument": { "Name": "selló" }
+              },
+              {
+                "Name": "Einar B. Waage",
+                "Instrument": { "Name": "kontrabassi" }
+              },
+              {
+                "Name": "Gísli Magnússon",
+                "Instrument": { "Name": "semball" }
+              }
             ]
           },
           {
@@ -2370,59 +2358,57 @@
             },
             "GroupName": "",
             "Performers": [
-              [
-                { "Name": "Peter Ramm", "Instrument": { "Name": "flauta" } },
-                {
-                  "Name": "Björn Ólafsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Josef Felzmann",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
-                {
-                  "Name": "Sveinn Ólafsson",
-                  "Instrument": { "Name": "víóla" }
-                },
-                {
-                  "Name": "Einar Vigfússon",
-                  "Instrument": { "Name": "selló" }
-                },
-                {
-                  "Name": "Þorvaldur Steingrímsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Ingvar Jónasson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Einar G. Sveinbjörnsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Árni Arinbjarnarson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                { "Name": "Óskar Cortes", "Instrument": { "Name": "fiðla" } },
-                {
-                  "Name": "Indriði Bogason",
-                  "Instrument": { "Name": "víóla" }
-                },
-                {
-                  "Name": "Jóhannes Eggertsson",
-                  "Instrument": { "Name": "selló" }
-                },
-                {
-                  "Name": "Einar B. Waage",
-                  "Instrument": { "Name": "kontrabassi" }
-                },
-                {
-                  "Name": "Gísli Magnússon",
-                  "Instrument": { "Name": "semball" }
-                }
-              ]
+              { "Name": "Peter Ramm", "Instrument": { "Name": "flauta" } },
+              {
+                "Name": "Björn Ólafsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Josef Felzmann",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Sveinn Ólafsson",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Einar Vigfússon",
+                "Instrument": { "Name": "selló" }
+              },
+              {
+                "Name": "Þorvaldur Steingrímsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Ingvar Jónasson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Einar G. Sveinbjörnsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Árni Arinbjarnarson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Óskar Cortes", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Indriði Bogason",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Jóhannes Eggertsson",
+                "Instrument": { "Name": "selló" }
+              },
+              {
+                "Name": "Einar B. Waage",
+                "Instrument": { "Name": "kontrabassi" }
+              },
+              {
+                "Name": "Gísli Magnússon",
+                "Instrument": { "Name": "semball" }
+              }
             ]
           },
           {
@@ -2432,58 +2418,56 @@
             },
             "GroupName": "",
             "Performers": [
-              [
-                {
-                  "Name": "Björn Ólafsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Josef Felzmann",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
-                {
-                  "Name": "Sveinn Ólafsson",
-                  "Instrument": { "Name": "víóla" }
-                },
-                {
-                  "Name": "Einar Vigfússon",
-                  "Instrument": { "Name": "selló" }
-                },
-                {
-                  "Name": "Þorvaldur Steingrímsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Ingvar Jónasson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Einar G. Sveinbjörnsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Árni Arinbjarnarson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                { "Name": "Óskar Cortes", "Instrument": { "Name": "fiðla" } },
-                {
-                  "Name": "Indriði Bogason",
-                  "Instrument": { "Name": "víóla" }
-                },
-                {
-                  "Name": "Jóhannes Eggertsson",
-                  "Instrument": { "Name": "selló" }
-                },
-                {
-                  "Name": "Einar B. Waage",
-                  "Instrument": { "Name": "kontrabassi" }
-                },
-                {
-                  "Name": "Gísli Magnússon",
-                  "Instrument": { "Name": "semball" }
-                }
-              ]
+              {
+                "Name": "Björn Ólafsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Josef Felzmann",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Sveinn Ólafsson",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Einar Vigfússon",
+                "Instrument": { "Name": "selló" }
+              },
+              {
+                "Name": "Þorvaldur Steingrímsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Ingvar Jónasson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Einar G. Sveinbjörnsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Árni Arinbjarnarson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Óskar Cortes", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Indriði Bogason",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Jóhannes Eggertsson",
+                "Instrument": { "Name": "selló" }
+              },
+              {
+                "Name": "Einar B. Waage",
+                "Instrument": { "Name": "kontrabassi" }
+              },
+              {
+                "Name": "Gísli Magnússon",
+                "Instrument": { "Name": "semball" }
+              }
             ]
           }
         ]
@@ -2573,54 +2557,52 @@
             },
             "GroupName": "",
             "Performers": [
-              [
-                {
-                  "Name": "Björn Ólafsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
-                {
-                  "Name": "Ingvar Jónasson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Einar G. Sveinbjörnsson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Josef Felzmann",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                { "Name": "Óskar Cortes", "Instrument": { "Name": "fiðla" } },
-                {
-                  "Name": "Árni Arinbjarnarson",
-                  "Instrument": { "Name": "fiðla" }
-                },
-                {
-                  "Name": "Sveinn Ólafsson",
-                  "Instrument": { "Name": "víóla" }
-                },
-                {
-                  "Name": "Indriði Bogason",
-                  "Instrument": { "Name": "víóla" }
-                },
-                {
-                  "Name": "Einar Vigfússon",
-                  "Instrument": { "Name": "selló" }
-                },
-                {
-                  "Name": "Jóhannes Eggertsson",
-                  "Instrument": { "Name": "selló" }
-                },
-                {
-                  "Name": "Einar B. Waage",
-                  "Instrument": { "Name": "kontrabassi" }
-                },
-                {
-                  "Name": "Ásgeir Beinteinsson",
-                  "Instrument": { "Name": "semball" }
-                }
-              ]
+              {
+                "Name": "Björn Ólafsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Ingvar Jónasson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Einar G. Sveinbjörnsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Josef Felzmann",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Óskar Cortes", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Árni Arinbjarnarson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Sveinn Ólafsson",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Indriði Bogason",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Einar Vigfússon",
+                "Instrument": { "Name": "selló" }
+              },
+              {
+                "Name": "Jóhannes Eggertsson",
+                "Instrument": { "Name": "selló" }
+              },
+              {
+                "Name": "Einar B. Waage",
+                "Instrument": { "Name": "kontrabassi" }
+              },
+              {
+                "Name": "Ásgeir Beinteinsson",
+                "Instrument": { "Name": "semball" }
+              }
             ]
           }
         ]
