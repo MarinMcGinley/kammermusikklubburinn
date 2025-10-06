@@ -106,6 +106,18 @@ All endpoints are available at:
 http://localhost:5000/api
 ```
 
+You can view a swagger definition at:
+
+```
+http://localhost:5000/swagger/index.html
+```
+
+but make sure you are running the app in dev mode:
+
+```bash
+export ASPNETCORE_ENVIRONMENT=Development
+```
+
 | Method                 | Endpoint          | Description            |
 | ---------------------- | ----------------- | ---------------------- |
 | GET, POST, PUT, DELETE | `/ConcertSeasons` | Manage concert seasons |

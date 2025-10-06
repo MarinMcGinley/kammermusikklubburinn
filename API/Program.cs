@@ -18,13 +18,23 @@ builder.Services.AddDbContext<ConcertContext>(opt =>
     opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+builder.Services.AddOpenApi();
 // builder.Services.AddCors();
 
 var app = builder.Build();
 
 app.UseMiddleware<ExceptionMiddleware>();
+app.MapOpenApi();
 // app.UseCors(x => x.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:4200", "https://localhost:4200"));
 app.MapControllers();
+
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwaggerUI(options =>
+    {
+        options.SwaggerEndpoint("/openapi/v1.json", "v1");
+    });
+}
 
 try
 {
