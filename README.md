@@ -1,11 +1,11 @@
-# Kammermúsíkklúbburinn 🎻
+# 🎶 Kammermúsíkklúbburinn 🎻
 
 A .NET API for managing and exploring data about concerts from **Kammermúsíkklúbburinn**, an Icelandic chamber music club founded in 1957.  
 The database contains information about concert seasons, concerts, performers, composers and pieces performed throughout the club’s history.
 
 ---
 
-## 🧱 Tech Stack
+## 🎷 Tech Stack
 
 - **.NET 9** (API)
 - **Entity Framework Core**
@@ -14,7 +14,7 @@ The database contains information about concert seasons, concerts, performers, c
 
 ---
 
-## 🚀 Getting Started
+## 🎼 Getting Started
 
 ### 1. Run Docker Containers
 
@@ -98,7 +98,7 @@ dotnet ef migrations add [NAME OF MIGRATION] -s API -p Infrastructure
 
 ---
 
-## 🌐 API Endpoints
+## 🪕 API Endpoints
 
 All endpoints are available at:
 
@@ -137,7 +137,7 @@ Search concerts or related data by keyword (e.g., composer name) as well as pagi
 
 ---
 
-## 🧩 Project Structure
+## 🎹 Project Structure
 
 ```
 ├── API/                # Main .NET API project
