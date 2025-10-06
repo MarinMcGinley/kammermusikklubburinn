@@ -7,7 +7,7 @@ The database contains information about concert seasons, concerts, performers, c
 
 ## 🧱 Tech Stack
 
-- **.NET 8** (API)
+- **.NET 9** (API)
 - **Entity Framework Core**
 - **Docker & Docker Compose**
 - **MSSQL** (Database)
