@@ -1,6 +1,6 @@
 # Kammermúsíkklúbburinn 🎻
 
-A .NET API for managing and exploring data about concerts from **Kammermúsíkklúbburinn**, an Icelandic chamber music club founded on **February 7, 1957**.  
+A .NET API for managing and exploring data about concerts from **Kammermúsíkklúbburinn**, an Icelandic chamber music club founded in 1957.  
 The database contains information about concert seasons, concerts, performers, composers and pieces performed throughout the club’s history.
 
 ---
