@@ -36,7 +36,7 @@ namespace API.Controllers
         [HttpPut("{id:int}")]
         public async Task<ActionResult> UpdateConcert(int id, UpdateConcertDto concert)
         {
-            if (concert.Id != id || !ConcertExists(id)) return BadRequest("Cannot update this concert season");
+            if (concert.Id != id || !ConcertExists(id)) return NotFound();
 
             var concertSeason = await concertSeasonRepo.GetByIdAsync(concert.ConcertSeasonId);
 

@@ -35,7 +35,7 @@ namespace API.Controllers
         [HttpPut("{id:int}")]
         public async Task<ActionResult> UpdatePerformer(int id, UpdatePerformerDto performer)
         {
-            if (performer.Id != id || !PerformerExists(id)) return BadRequest("Cannot update this performer");
+            if (performer.Id != id || !PerformerExists(id)) return NotFound();
 
             performerRepo.Update(new Performer { Id = performer.Id, Name = performer.Name });
 

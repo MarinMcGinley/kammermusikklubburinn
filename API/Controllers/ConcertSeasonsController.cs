@@ -51,7 +51,7 @@ public class ConcertSeasonsController(
     [HttpPut("{id:int}")]
     public async Task<ActionResult> UpdateConcertSeason(int id, UpdateConcertSeasonDto concertSeason)
     {
-        if (concertSeason.Id != id || !ConcertSeasonExists(id)) return BadRequest("Cannot update this concert season");
+        if (concertSeason.Id != id || !ConcertSeasonExists(id)) return NotFound();
 
         concertSeasonRepo.Update(new ConcertSeason { Id = concertSeason.Id, Title = concertSeason.Title });
 

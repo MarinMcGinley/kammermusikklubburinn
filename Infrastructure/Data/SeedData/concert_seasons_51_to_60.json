@@ -4006,27 +4006,20 @@
         ]
       },
       {
-        // here
         "Description": "2. tónleikar sunnudag 20. okt. 2013",
         "Date": "2013-10-20",
         "Pieces": [
           {
-            "Title": "f8",
+            "Title": "Tríósónata fyrir fiðlu, flautu og fylgirödd í F-dúr TWV 42:f8",
             "Composer": {
               "Name": "F-dúr TWV 42"
             },
-            "GroupName": "Camerarctica",
+            "GroupName": "G.P. Telemann",
             "Performers": [
               {
                 "Name": "Hallfríður Ólafsdóttir",
                 "Instrument": {
                   "Name": "flauta"
-                }
-              },
-              {
-                "Name": "Ármann Helgason",
-                "Instrument": {
-                  "Name": "klarinetta"
                 }
               },
               {
@@ -4042,15 +4035,9 @@
                 }
               },
               {
-                "Name": "Svava Bernharðsdóttir",
+                "Name": "Guðrún Óskarsdóttir",
                 "Instrument": {
-                  "Name": "víóla"
-                }
-              },
-              {
-                "Name": "Sigurður Halldórsson",
-                "Instrument": {
-                  "Name": "selló. Marta G.Halldórsdóttir, sópran Guðrún Óskarsdóttir, semball"
+                  "Name": "semball"
                 }
               }
             ]
@@ -4077,7 +4064,7 @@
               {
                 "Name": "Hildigunnur Halldórsdóttir",
                 "Instrument": {
-                  "Name": ""
+                  "Name": "fiðla"
                 }
               },
               {
@@ -4095,7 +4082,19 @@
               {
                 "Name": "Sigurður Halldórsson",
                 "Instrument": {
-                  "Name": "selló. Marta G.Halldórsdóttir, sópran Guðrún Óskarsdóttir, semball"
+                  "Name": "selló"
+                }
+              },
+              {
+                "Name": "Marta G.Halldórsdóttir",
+                "Instrument": {
+                  "Name": "sópran"
+                }
+              },
+              {
+                "Name": "Guðrún Óskarsdóttir",
+                "Instrument": {
+                  "Name": "semball"
                 }
               }
             ]
@@ -4122,7 +4121,7 @@
               {
                 "Name": "Hildigunnur Halldórsdóttir",
                 "Instrument": {
-                  "Name": ""
+                  "Name": "fiðla"
                 }
               },
               {
@@ -4140,7 +4139,13 @@
               {
                 "Name": "Sigurður Halldórsson",
                 "Instrument": {
-                  "Name": "selló. Marta G.Halldórsdóttir, sópran Guðrún Óskarsdóttir, semball"
+                  "Name": "selló"
+                }
+              },
+              {
+                "Name": "Guðrún Óskarsdóttir",
+                "Instrument": {
+                  "Name": "semball"
                 }
               }
             ]
@@ -4153,21 +4158,9 @@
             "GroupName": "Camerarctica",
             "Performers": [
               {
-                "Name": "Hallfríður Ólafsdóttir",
-                "Instrument": {
-                  "Name": "flauta"
-                }
-              },
-              {
-                "Name": "Ármann Helgason",
-                "Instrument": {
-                  "Name": "klarinetta"
-                }
-              },
-              {
                 "Name": "Hildigunnur Halldórsdóttir",
                 "Instrument": {
-                  "Name": ""
+                  "Name": "fiðla"
                 }
               },
               {
@@ -4185,7 +4178,7 @@
               {
                 "Name": "Sigurður Halldórsson",
                 "Instrument": {
-                  "Name": "selló. Marta G.Halldórsdóttir, sópran Guðrún Óskarsdóttir, semball"
+                  "Name": "selló"
                 }
               }
             ]
@@ -4195,73 +4188,134 @@
       {
         "Description": "3. tónleikar sunnudag 19. jan. 2014",
         "Date": "2014-01-19",
-        "Pieces": []
+        "Pieces": [
+          {
+            "Title": "Svíta fyrir einleiksselló nr. 1 í G-dúr BWV 1007",
+            "Composer": {
+              "Name": "J.S. Bach"
+            },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Bryndís Halla Gylfadóttir",
+                "Instrument": { "Name": "Selló" }
+              }
+            ]
+          },
+          {
+            "Title": "Svíta fyrir einleiksselló nr. 2 í d-moll BWV 1008",
+            "Composer": {
+              "Name": "J.S. Bach"
+            },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Bryndís Halla Gylfadóttir",
+                "Instrument": { "Name": "Selló" }
+              }
+            ]
+          },
+          {
+            "Title": "Svíta fyrir einleiksselló nr. 6 í D-dúr BWV 1012",
+            "Composer": {
+              "Name": "J.S. Bach"
+            },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Bryndís Halla Gylfadóttir",
+                "Instrument": { "Name": "Selló" }
+              }
+            ]
+          }
+        ]
       },
       {
         "Description": "4. tónleikar sunnudag 23. feb. 2014",
         "Date": "2014-02-23",
         "Pieces": [
           {
-            "Title": "Kvintett f. óbó, klarinettu, horn, fagott og píanó í Es-dúr op. 16",
-            "Composer": {
-              "Name": "Ludwig van Beethoven"
-            },
+            "Title": "Kvintett fyrir flautu, óbó, klarinettu, horn og fagott í Es-dúr op. 88, nr. 2",
+            "Composer": { "Name": "Anton Reicha" },
             "GroupName": "Blásarakvintett Reykjavíkur",
             "Performers": [
               {
                 "Name": "Hallfríður Ólafsdóttir",
-                "Instrument": {
-                  "Name": "flauta Daði Kolbeinsson óbó Einar Jóhannesson klarinetta Jósef Ognibene horn Darri Mikaelsson fagott"
-                }
+                "Instrument": { "Name": "Flauta" }
               },
+              { "Name": "Daði Kolbeinsson", "Instrument": { "Name": "Óbó" } },
               {
-                "Name": "Peter Maté",
-                "Instrument": {
-                  "Name": "píanó"
-                }
-              }
+                "Name": "Einar Jóhannesson",
+                "Instrument": { "Name": "Klarinetta" }
+              },
+              { "Name": "Jósef Ognibene", "Instrument": { "Name": "Horn" } },
+              { "Name": "Darri Mikaelsson", "Instrument": { "Name": "Fagott" } }
             ]
           },
           {
-            "Title": "Andartak Tetiönu Chornovol (2014 - frumflutningur)",
-            "Composer": {
-              "Name": "Högni Egilsson"
-            },
+            "Title": "Kvintett fyrir óbó, klarinettu, horn, fagott og píanó í Es-dúr op. 16",
+            "Composer": { "Name": "Ludwig van Beethoven" },
             "GroupName": "Blásarakvintett Reykjavíkur",
             "Performers": [
               {
                 "Name": "Hallfríður Ólafsdóttir",
-                "Instrument": {
-                  "Name": "flauta Daði Kolbeinsson óbó Einar Jóhannesson klarinetta Jósef Ognibene horn Darri Mikaelsson fagott"
-                }
+                "Instrument": { "Name": "Flauta" }
               },
+              { "Name": "Daði Kolbeinsson", "Instrument": { "Name": "Óbó" } },
               {
-                "Name": "Peter Maté",
-                "Instrument": {
-                  "Name": "píanó"
-                }
-              }
+                "Name": "Einar Jóhannesson",
+                "Instrument": { "Name": "Klarinetta" }
+              },
+              { "Name": "Jósef Ognibene", "Instrument": { "Name": "Horn" } },
+              {
+                "Name": "Darri Mikaelsson",
+                "Instrument": { "Name": "Fagott" }
+              },
+              { "Name": "Peter Maté", "Instrument": { "Name": "Píanó" } }
             ]
           },
           {
-            "Title": "Sextett f. píanó, flautu, óbó, klarinettu, horn og fagott í C-dúr FP 100",
-            "Composer": {
-              "Name": "Francis Poulenc"
-            },
+            "Title": "Andartak Tetiönu Chornovol (frumflutningur)",
+            "Composer": { "Name": "Högni Egilsson" },
             "GroupName": "Blásarakvintett Reykjavíkur",
             "Performers": [
               {
                 "Name": "Hallfríður Ólafsdóttir",
-                "Instrument": {
-                  "Name": "flauta Daði Kolbeinsson óbó Einar Jóhannesson klarinetta Jósef Ognibene horn Darri Mikaelsson fagott"
-                }
+                "Instrument": { "Name": "Flauta" }
               },
+              { "Name": "Daði Kolbeinsson", "Instrument": { "Name": "Óbó" } },
               {
-                "Name": "Peter Maté",
-                "Instrument": {
-                  "Name": "píanó"
-                }
-              }
+                "Name": "Einar Jóhannesson",
+                "Instrument": { "Name": "Klarinetta" }
+              },
+              { "Name": "Jósef Ognibene", "Instrument": { "Name": "Horn" } },
+              {
+                "Name": "Darri Mikaelsson",
+                "Instrument": { "Name": "Fagott" }
+              },
+              { "Name": "Peter Maté", "Instrument": { "Name": "Píanó" } }
+            ]
+          },
+          {
+            "Title": "Sextett fyrir píanó, flautu, óbó, klarinettu, horn og fagott í C-dúr FP 100",
+            "Composer": { "Name": "Francis Poulenc" },
+            "GroupName": "Blásarakvintett Reykjavíkur",
+            "Performers": [
+              {
+                "Name": "Hallfríður Ólafsdóttir",
+                "Instrument": { "Name": "Flauta" }
+              },
+              { "Name": "Daði Kolbeinsson", "Instrument": { "Name": "Óbó" } },
+              {
+                "Name": "Einar Jóhannesson",
+                "Instrument": { "Name": "Klarinetta" }
+              },
+              { "Name": "Jósef Ognibene", "Instrument": { "Name": "Horn" } },
+              {
+                "Name": "Darri Mikaelsson",
+                "Instrument": { "Name": "Fagott" }
+              },
+              { "Name": "Peter Maté", "Instrument": { "Name": "Píanó" } }
             ]
           }
         ]
@@ -4271,101 +4325,65 @@
         "Date": "2014-03-16",
         "Pieces": [
           {
-            "Title": "„Haustið líður óðum á“ - úts. á",
-            "Composer": {
-              "Name": "Elín Gunnlaugsdóttir"
-            },
-            "GroupName": "",
+            "Title": "„Gangan langa“ fyrir flautu, víólu og píanó (frumflutningur)",
+            "Composer": { "Name": "Bára Grímsdóttir" },
+            "GroupName": "Notus-tríó",
             "Performers": [
               {
-                "Name": "Flytjendur",
-                "Instrument": {
-                  "Name": ""
-                }
-              },
-              {
-                "Name": "Martin Frewer",
-                "Instrument": {
-                  "Name": "víóla"
-                }
-              },
-              {
                 "Name": "Pamela De Sensi",
-                "Instrument": {
-                  "Name": "þverflauta"
-                }
+                "Instrument": { "Name": "Þverflauta" }
               },
+              { "Name": "Martin Frewer", "Instrument": { "Name": "Víóla" } },
               {
                 "Name": "Ingunn Hildur Hauksdóttir",
-                "Instrument": {
-                  "Name": "píanó"
-                }
+                "Instrument": { "Name": "Píanó" }
               }
             ]
           },
           {
-            "Title": "Sónata fyrir flautu og píanó, op.94",
-            "Composer": {
-              "Name": "Sergei Prokofiev"
-            },
-            "GroupName": "",
+            "Title": "„Haustið líður óðum á“ – úts. á þjóðlögum fyrir tríóið (frumflutningur)",
+            "Composer": { "Name": "Elín Gunnlaugsdóttir" },
+            "GroupName": "Notus-tríó",
             "Performers": [
               {
-                "Name": "Flytjendur",
-                "Instrument": {
-                  "Name": ""
-                }
+                "Name": "Pamela De Sensi",
+                "Instrument": { "Name": "Þverflauta" }
               },
+              { "Name": "Martin Frewer", "Instrument": { "Name": "Víóla" } },
               {
-                "Name": "Martin Frewer",
-                "Instrument": {
-                  "Name": "víóla"
-                }
-              },
+                "Name": "Ingunn Hildur Hauksdóttir",
+                "Instrument": { "Name": "Píanó" }
+              }
+            ]
+          },
+          {
+            "Title": "Sónata fyrir flautu og píanó op. 94 (1942–1943)",
+            "Composer": { "Name": "Sergei Prokofiev" },
+            "GroupName": "Notus-tríó",
+            "Performers": [
               {
                 "Name": "Pamela De Sensi",
-                "Instrument": {
-                  "Name": "þverflauta"
-                }
+                "Instrument": { "Name": "Þverflauta" }
               },
               {
                 "Name": "Ingunn Hildur Hauksdóttir",
-                "Instrument": {
-                  "Name": "píanó"
-                }
+                "Instrument": { "Name": "Píanó" }
               }
             ]
           },
           {
             "Title": "Tríó fyrir flautu, víólu og píanó op. 18 (1958)",
-            "Composer": {
-              "Name": "Tatyana Nikolayeva"
-            },
-            "GroupName": "",
+            "Composer": { "Name": "Tatyana Nikolayeva" },
+            "GroupName": "Notus-tríó",
             "Performers": [
               {
-                "Name": "Flytjendur",
-                "Instrument": {
-                  "Name": ""
-                }
-              },
-              {
-                "Name": "Martin Frewer",
-                "Instrument": {
-                  "Name": "víóla"
-                }
-              },
-              {
                 "Name": "Pamela De Sensi",
-                "Instrument": {
-                  "Name": "þverflauta"
-                }
+                "Instrument": { "Name": "Þverflauta" }
               },
+              { "Name": "Martin Frewer", "Instrument": { "Name": "Víóla" } },
               {
                 "Name": "Ingunn Hildur Hauksdóttir",
-                "Instrument": {
-                  "Name": "píanó"
-                }
+                "Instrument": { "Name": "Píanó" }
               }
             ]
           }
@@ -4414,7 +4432,7 @@
               {
                 "Name": "Margrét Árnadóttir",
                 "Instrument": {
-                  "Name": "selló *"
+                  "Name": "selló"
                 }
               }
             ]
@@ -4453,7 +4471,7 @@
               {
                 "Name": "Margrét Árnadóttir",
                 "Instrument": {
-                  "Name": "selló *"
+                  "Name": "selló"
                 }
               }
             ]
@@ -4492,7 +4510,7 @@
               {
                 "Name": "Margrét Árnadóttir",
                 "Instrument": {
-                  "Name": "selló *"
+                  "Name": "selló"
                 }
               }
             ]
@@ -4531,7 +4549,7 @@
               {
                 "Name": "Margrét Árnadóttir",
                 "Instrument": {
-                  "Name": "selló *"
+                  "Name": "selló"
                 }
               }
             ]
@@ -4550,12 +4568,6 @@
             "GroupName": "Camerarctica",
             "Performers": [
               {
-                "Name": "Marta Guðrún Halldórsdóttir",
-                "Instrument": {
-                  "Name": "sópran"
-                }
-              },
-              {
                 "Name": "Hildigunnur Halldórsdóttir",
                 "Instrument": {
                   "Name": "fiðla"
@@ -4580,15 +4592,9 @@
                 }
               },
               {
-                "Name": "Ármann Helgason",
-                "Instrument": {
-                  "Name": "klarínetta"
-                }
-              },
-              {
                 "Name": "Örn Magnússon",
                 "Instrument": {
-                  "Name": "píanó *"
+                  "Name": "píanó"
                 }
               }
             ]
@@ -4601,12 +4607,6 @@
             "GroupName": "Camerarctica",
             "Performers": [
               {
-                "Name": "Marta Guðrún Halldórsdóttir",
-                "Instrument": {
-                  "Name": "sópran"
-                }
-              },
-              {
                 "Name": "Hildigunnur Halldórsdóttir",
                 "Instrument": {
                   "Name": "fiðla"
@@ -4634,12 +4634,6 @@
                 "Name": "Ármann Helgason",
                 "Instrument": {
                   "Name": "klarínetta"
-                }
-              },
-              {
-                "Name": "Örn Magnússon",
-                "Instrument": {
-                  "Name": "píanó *"
                 }
               }
             ]
@@ -4652,12 +4646,6 @@
             "GroupName": "Camerarctica",
             "Performers": [
               {
-                "Name": "Marta Guðrún Halldórsdóttir",
-                "Instrument": {
-                  "Name": "sópran"
-                }
-              },
-              {
                 "Name": "Hildigunnur Halldórsdóttir",
                 "Instrument": {
                   "Name": "fiðla"
@@ -4679,18 +4667,6 @@
                 "Name": "Sigurður Halldórsson",
                 "Instrument": {
                   "Name": "selló"
-                }
-              },
-              {
-                "Name": "Ármann Helgason",
-                "Instrument": {
-                  "Name": "klarínetta"
-                }
-              },
-              {
-                "Name": "Örn Magnússon",
-                "Instrument": {
-                  "Name": "píanó *"
                 }
               }
             ]
@@ -4735,7 +4711,7 @@
               {
                 "Name": "Ingunn Hildur Hauksdóttir",
                 "Instrument": {
-                  "Name": "píanó *"
+                  "Name": "píanó"
                 }
               }
             ]
@@ -4745,8 +4721,43 @@
       {
         "Description": "4. tónleikar, sunnudaginn 25. jan. 2015",
         "Date": "2015-01-25",
-        "Pieces": []
+        "Pieces": [
+          {
+            "Title": "Svíta fyrir einleiksselló nr. 3 í C-dúr BWV 1009",
+            "Composer": { "Name": "Johann Sebastian Bach" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Bryndís Halla Gylfadóttir",
+                "Instrument": { "Name": "Selló" }
+              }
+            ]
+          },
+          {
+            "Title": "Svíta fyrir einleiksselló nr. 4 í Es-dúr BWV 1010",
+            "Composer": { "Name": "Johann Sebastian Bach" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Bryndís Halla Gylfadóttir",
+                "Instrument": { "Name": "Selló" }
+              }
+            ]
+          },
+          {
+            "Title": "Svíta fyrir einleiksselló nr. 5 í c-moll BWV 1011",
+            "Composer": { "Name": "Johann Sebastian Bach" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Bryndís Halla Gylfadóttir",
+                "Instrument": { "Name": "Selló" }
+              }
+            ]
+          }
+        ]
       },
+
       {
         "Description": "5. tónleikar, sunnudaginn 1. mars 2015",
         "Date": "2015-03-01",
@@ -4779,7 +4790,7 @@
               {
                 "Name": "Bryndís Halla Gylfadóttir",
                 "Instrument": {
-                  "Name": "selló * Starfsár 2015 – 2016"
+                  "Name": "selló"
                 }
               }
             ]
@@ -4812,13 +4823,18 @@
               {
                 "Name": "Bryndís Halla Gylfadóttir",
                 "Instrument": {
-                  "Name": "selló * Starfsár 2015 – 2016"
+                  "Name": "selló"
                 }
               }
             ]
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "Title": "60. starfsár",
+    "Concerts": [
       {
         "Description": "1. tónleikar 27. sept. 2015",
         "Date": "2015-09-27",
@@ -4905,7 +4921,7 @@
               {
                 "Name": "Roger Coull",
                 "Instrument": {
-                  "Name": ""
+                  "Name": "fiðla"
                 }
               },
               {
@@ -4938,7 +4954,7 @@
               {
                 "Name": "Roger Coull",
                 "Instrument": {
-                  "Name": ""
+                  "Name": "fiðla"
                 }
               },
               {
@@ -4997,12 +5013,6 @@
                 "Instrument": {
                   "Name": "selló"
                 }
-              },
-              {
-                "Name": "Einar Jóhannesson",
-                "Instrument": {
-                  "Name": "klarínetta Starfsár 2015 – 2016"
-                }
               }
             ]
           },
@@ -5040,7 +5050,7 @@
               {
                 "Name": "Einar Jóhannesson",
                 "Instrument": {
-                  "Name": "klarínetta Starfsár 2015 – 2016"
+                  "Name": "klarínetta"
                 }
               }
             ]
@@ -5052,142 +5062,116 @@
         "Date": "2016-01-24",
         "Pieces": [
           {
-            "Title": "„Vengo, a voi, luci adorate“",
-            "Composer": {
-              "Name": "Antonio Vivaldi"
-            },
+            "Title": "Sónata fyrir fjóra í a-moll",
+            "Composer": { "Name": "František Tůma" },
             "GroupName": "Camerarctica",
             "Performers": [
               {
                 "Name": "Hildigunnur Halldórsdóttir",
-                "Instrument": {
-                  "Name": "fiðla"
-                }
+                "Instrument": { "Name": "fiðla" }
               },
               {
                 "Name": "Bryndís Pálsdóttir",
-                "Instrument": {
-                  "Name": "fiðla"
-                }
+                "Instrument": { "Name": "fiðla" }
               },
               {
                 "Name": "Svava Bernharðsdóttir",
-                "Instrument": {
-                  "Name": "víóla"
-                }
+                "Instrument": { "Name": "víóla" }
               },
               {
                 "Name": "Sigurður Halldórsson",
-                "Instrument": {
-                  "Name": "selló"
-                }
-              },
-              {
-                "Name": "Marta Guðrún Halldórsdóttir",
-                "Instrument": {
-                  "Name": "sópran"
-                }
-              },
-              {
-                "Name": "Guðrún Óskarsdóttir",
-                "Instrument": {
-                  "Name": "semball"
-                }
+                "Instrument": { "Name": "selló" }
               }
             ]
           },
           {
-            "Title": "„In furore iustissimae irae“,",
-            "Composer": {
-              "Name": "Antonio Vivaldi"
-            },
+            "Title": "„Vengo, a voi, luci adorate“ – Kantata fyrir sópran, tvær fiðlur, víólu og fylgirödd RV 682 (1734)",
+            "Composer": { "Name": "Antonio Vivaldi" },
             "GroupName": "Camerarctica",
             "Performers": [
               {
+                "Name": "Marta Guðrún Halldórsdóttir",
+                "Instrument": { "Name": "sópran" }
+              },
+              {
                 "Name": "Hildigunnur Halldórsdóttir",
-                "Instrument": {
-                  "Name": "fiðla"
-                }
+                "Instrument": { "Name": "fiðla" }
               },
               {
                 "Name": "Bryndís Pálsdóttir",
-                "Instrument": {
-                  "Name": "fiðla"
-                }
+                "Instrument": { "Name": "fiðla" }
               },
               {
                 "Name": "Svava Bernharðsdóttir",
-                "Instrument": {
-                  "Name": "víóla"
-                }
+                "Instrument": { "Name": "víóla" }
               },
               {
                 "Name": "Sigurður Halldórsson",
-                "Instrument": {
-                  "Name": "selló"
-                }
-              },
-              {
-                "Name": "Marta Guðrún Halldórsdóttir",
-                "Instrument": {
-                  "Name": "sópran"
-                }
+                "Instrument": { "Name": "selló" }
               },
               {
                 "Name": "Guðrún Óskarsdóttir",
-                "Instrument": {
-                  "Name": "semball"
-                }
+                "Instrument": { "Name": "semball" }
               }
             ]
           },
           {
-            "Title": "Strengjakvartett nr.6 BB 119 (Sz 114) (1939)",
-            "Composer": {
-              "Name": "Béla Bartók"
-            },
+            "Title": "„In furore iustissimae irae“ – Mótetta fyrir sópran, tvær fiðlur, víólu og fylgirödd RV 626 (1720)",
+            "Composer": { "Name": "Antonio Vivaldi" },
+            "GroupName": "Camerarctica",
+            "Performers": [
+              {
+                "Name": "Marta Guðrún Halldórsdóttir",
+                "Instrument": { "Name": "sópran" }
+              },
+              {
+                "Name": "Hildigunnur Halldórsdóttir",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Bryndís Pálsdóttir",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Svava Bernharðsdóttir",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Sigurður Halldórsson",
+                "Instrument": { "Name": "selló" }
+              },
+              {
+                "Name": "Guðrún Óskarsdóttir",
+                "Instrument": { "Name": "semball" }
+              }
+            ]
+          },
+          {
+            "Title": "Strengjakvartett nr. 6 BB 119 (Sz 114) (1939)",
+            "Composer": { "Name": "Béla Bartók" },
             "GroupName": "Camerarctica",
             "Performers": [
               {
                 "Name": "Hildigunnur Halldórsdóttir",
-                "Instrument": {
-                  "Name": "fiðla"
-                }
+                "Instrument": { "Name": "fiðla" }
               },
               {
                 "Name": "Bryndís Pálsdóttir",
-                "Instrument": {
-                  "Name": "fiðla"
-                }
+                "Instrument": { "Name": "fiðla" }
               },
               {
                 "Name": "Svava Bernharðsdóttir",
-                "Instrument": {
-                  "Name": "víóla"
-                }
+                "Instrument": { "Name": "víóla" }
               },
               {
                 "Name": "Sigurður Halldórsson",
-                "Instrument": {
-                  "Name": "selló"
-                }
-              },
-              {
-                "Name": "Marta Guðrún Halldórsdóttir",
-                "Instrument": {
-                  "Name": "sópran"
-                }
-              },
-              {
-                "Name": "Guðrún Óskarsdóttir",
-                "Instrument": {
-                  "Name": "semball"
-                }
+                "Instrument": { "Name": "selló" }
               }
             ]
           }
         ]
       },
+
       {
         "Description": "5. tónleikar, 28. feb. 2016",
         "Date": "2016-02-28",
@@ -5220,7 +5204,7 @@
               {
                 "Name": "Ástríður Alda Sigurðardóttir",
                 "Instrument": {
-                  "Name": "píanó Starfsár 2016-2017 (60. ár)"
+                  "Name": "píanó"
                 }
               }
             ]
@@ -5253,286 +5237,7 @@
               {
                 "Name": "Ástríður Alda Sigurðardóttir",
                 "Instrument": {
-                  "Name": "píanó Starfsár 2016-2017 (60. ár)"
-                }
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "Description": "1. tónleikar, 25. sept. 2016",
-        "Date": "2016-09-25",
-        "Pieces": [
-          {
-            "Title": "Sónata í d-moll (SH ELF PT KMJ HBA)",
-            "Composer": {
-              "Name": "Johann Fredrich Fasch"
-            },
-            "GroupName": "Camerarctica",
-            "Performers": [
-              {
-                "Name": "Hildigunnur Halldórsdóttir",
-                "Instrument": {
-                  "Name": "fiðla"
-                }
-              },
-              {
-                "Name": "Bryndís Pálsdóttir",
-                "Instrument": {
-                  "Name": "fiðla"
-                }
-              },
-              {
-                "Name": "Svava Bernharðsdóttir",
-                "Instrument": {
-                  "Name": "víóla"
-                }
-              },
-              {
-                "Name": "Sigurður Halldórsson",
-                "Instrument": {
-                  "Name": "selló"
-                }
-              },
-              {
-                "Name": "Eydís Lára Franzdóttir",
-                "Instrument": {
-                  "Name": "óbó"
-                }
-              },
-              {
-                "Name": "Peter Tompkins",
-                "Instrument": {
-                  "Name": "óbó"
-                }
-              },
-              {
-                "Name": "Kristín Mjöll Jakobsdóttir",
-                "Instrument": {
-                  "Name": "fagott"
-                }
-              },
-              {
-                "Name": "Halldór Bjarki Arnarson",
-                "Instrument": {
-                  "Name": "semball"
-                }
-              }
-            ]
-          },
-          {
-            "Title": "Strengjakvartett nr.4 í e-moll op.44 nr.2",
-            "Composer": {
-              "Name": "Felix Mendelssohn"
-            },
-            "GroupName": "Camerarctica",
-            "Performers": [
-              {
-                "Name": "Hildigunnur Halldórsdóttir",
-                "Instrument": {
-                  "Name": "fiðla"
-                }
-              },
-              {
-                "Name": "Bryndís Pálsdóttir",
-                "Instrument": {
-                  "Name": "fiðla"
-                }
-              },
-              {
-                "Name": "Svava Bernharðsdóttir",
-                "Instrument": {
-                  "Name": "víóla"
-                }
-              },
-              {
-                "Name": "Sigurður Halldórsson",
-                "Instrument": {
-                  "Name": "selló"
-                }
-              },
-              {
-                "Name": "Eydís Lára Franzdóttir",
-                "Instrument": {
-                  "Name": "óbó"
-                }
-              },
-              {
-                "Name": "Peter Tompkins",
-                "Instrument": {
-                  "Name": "óbó"
-                }
-              },
-              {
-                "Name": "Kristín Mjöll Jakobsdóttir",
-                "Instrument": {
-                  "Name": "fagott"
-                }
-              },
-              {
-                "Name": "Halldór Bjarki Arnarson",
-                "Instrument": {
-                  "Name": "semball"
-                }
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "Description": "2. tónleikar, 23. okt. 2016",
-        "Date": "2016-10-23",
-        "Pieces": [
-          {
-            "Title": "Píanótríó í a-moll op 50",
-            "Composer": {
-              "Name": "Pjotr Tchaikovsky"
-            },
-            "GroupName": "",
-            "Performers": [
-              {
-                "Name": "Ari Þór Vilhjálmsson",
-                "Instrument": {
-                  "Name": "fiðla"
-                }
-              },
-              {
-                "Name": "Sigurgeir Agnarsson",
-                "Instrument": {
-                  "Name": "selló"
-                }
-              },
-              {
-                "Name": "Roope Gröndahl",
-                "Instrument": {
                   "Name": "píanó"
-                }
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "Description": "3. tónleikar 20. nóv. 2016",
-        "Date": "2016-11-20",
-        "Pieces": [
-          {
-            "Title": "Strengjakvartett í c-moll op. 51 nr.1",
-            "Composer": {
-              "Name": "Johannes Brahms"
-            },
-            "GroupName": "",
-            "Performers": [
-              {
-                "Name": "Sigrún Eðvaldsdóttir",
-                "Instrument": {
-                  "Name": "fiðla"
-                }
-              },
-              {
-                "Name": "Páll Palomares",
-                "Instrument": {
-                  "Name": "fiðla"
-                }
-              },
-              {
-                "Name": "Þórunn Ósk Marinósdóttir",
-                "Instrument": {
-                  "Name": "víóla"
-                }
-              },
-              {
-                "Name": "Bryndís Halla Gylfadóttir",
-                "Instrument": {
-                  "Name": "selló"
-                }
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "Description": "4. tónleikar, 22. jan. 2017",
-        "Date": "2017-01-22",
-        "Pieces": [
-          {
-            "Title": "Píanósextett, D-dúr op. 110 (1824)",
-            "Composer": {
-              "Name": "Felix Mendelssohn"
-            },
-            "GroupName": "",
-            "Performers": [
-              {
-                "Name": "Greta Guðnadóttir",
-                "Instrument": {
-                  "Name": "fiðla Guðrún Þórarinsdóttir, víóla Jónína Auður Hilmarsdóttir, víóla Bryndís Björgvinsdóttir, selló Þórir Jóhannsson, kontrabassi Ingunn Hildur Hauksdóttir, píanó"
-                }
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "Description": "5. tónleikar, 25. feb. 2017",
-        "Date": "2017-02-25",
-        "Pieces": [
-          {
-            "Title": "Strengjakvintett nr.1 í B-dúr, K.174",
-            "Composer": {
-              "Name": "Wolfgang Amadeus Mozart"
-            },
-            "GroupName": "",
-            "Performers": [
-              {
-                "Name": "Strengjakvintett nr.5 í D-dúr",
-                "Instrument": {
-                  "Name": ""
-                }
-              },
-              {
-                "Name": "K.593 Strengjakvintett nr.3 í g-moll",
-                "Instrument": {
-                  "Name": "K.516"
-                }
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "Description": "6. tónleikar, 26. feb. 2017",
-        "Date": "2017-02-26",
-        "Pieces": [
-          {
-            "Title": "Strengjakvintett nr.4 í c-moll, K.406 (516b)",
-            "Composer": {
-              "Name": "Wolfgang Amadeus Mozart"
-            },
-            "GroupName": "Auryn-quartett",
-            "Performers": [
-              {
-                "Name": "Matthias Lingenfelder",
-                "Instrument": {
-                  "Name": "fiðla"
-                }
-              },
-              {
-                "Name": "Jens Oppermann",
-                "Instrument": {
-                  "Name": "fiðla"
-                }
-              },
-              {
-                "Name": "Stewart Eaton",
-                "Instrument": {
-                  "Name": "víóla"
-                }
-              },
-              {
-                "Name": "Andreas Arndt",
-                "Instrument": {
-                  "Name": "selló ásamt Ásdísi Valdimarsdóttur, víóla"
                 }
               }
             ]

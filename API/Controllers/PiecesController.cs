@@ -38,7 +38,7 @@ namespace API.Controllers
         [HttpPut("{id:int}")]
         public async Task<ActionResult> UpdatePiece(int id, UpdatePieceDto piece)
         {
-            if (piece.Id != id || !PieceExists(id)) return BadRequest("Cannot update this piece");
+            if (piece.Id != id || !PieceExists(id)) return NotFound();
             var composer = await composerRepo.GetByIdAsync(piece.ComposerId);
 
             if (composer == null)
