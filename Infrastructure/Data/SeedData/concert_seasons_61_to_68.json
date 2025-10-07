@@ -2822,6 +2822,435 @@
           ]
         }
       ]
+    },
+    {
+      "Title": "68. starfsár",
+      "Concerts": [
+        {
+          "Description": "1. tónleikar",
+          "Date": "2023-09-30",
+          "Pieces": [
+            {
+              "Title": "Tangótónlist umrituð fyrir 2 píanó",
+              "Composer": { "Name": "Astor Piazzolla" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Domenico Codispoti",
+                  "Instrument": { "Name": "píanó" }
+                },
+                { "Name": "Esteban Ocaña", "Instrument": { "Name": "píanó" } }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "2. tónleikar",
+          "Date": "2023-10-01",
+          "Pieces": [
+            {
+              "Title": "Píanótríó í g-moll op. 15",
+              "Composer": { "Name": "Bedřich Smetana" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Domenico Codispoti",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Píanótríó nr. 1 í H-dúr op. 8",
+              "Composer": { "Name": "Johannes Brahms" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Domenico Codispoti",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "3. tónleikar",
+          "Date": "2023-10-22",
+          "Pieces": [
+            {
+              "Title": "Sónata fyrir flautu og píanó",
+              "Composer": { "Name": "Francis Poulenc" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Pamela De Sensi",
+                  "Instrument": { "Name": "flauta" }
+                },
+                {
+                  "Name": "Ingunn Hildur Hauksdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Sónata fyrir klarínettu og fagott",
+              "Composer": { "Name": "Francis Poulenc" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Ármann Helgason",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                {
+                  "Name": "Kristín Mjöll Jakobsdóttir",
+                  "Instrument": { "Name": "fagott" }
+                }
+              ]
+            },
+            {
+              "Title": "Elégie fyrir horn og píanó",
+              "Composer": { "Name": "Francis Poulenc" },
+              "GroupName": "",
+              "Performers": [
+                { "Name": "Joseph Ognibene", "Instrument": { "Name": "horn" } },
+                {
+                  "Name": "Ingunn Hildur Hauksdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Sónata fyrir klarínettu og píanó",
+              "Composer": { "Name": "Francis Poulenc" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Ármann Helgason",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                {
+                  "Name": "Ingunn Hildur Hauksdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Tríó fyrir óbó, fagott og píanó",
+              "Composer": { "Name": "Francis Poulenc" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Eydís Franzdóttir",
+                  "Instrument": { "Name": "óbó" }
+                },
+                {
+                  "Name": "Kristín Mjöll Jakobsdóttir",
+                  "Instrument": { "Name": "fagott" }
+                },
+                {
+                  "Name": "Ingunn Hildur Hauksdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Sextett fyrir blásarakvintett og píanó",
+              "Composer": { "Name": "Francis Poulenc" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Pamela De Sensi",
+                  "Instrument": { "Name": "flauta" }
+                },
+                {
+                  "Name": "Eydís Franzdóttir",
+                  "Instrument": { "Name": "óbó" }
+                },
+                {
+                  "Name": "Ármann Helgason",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                {
+                  "Name": "Kristín Mjöll Jakobsdóttir",
+                  "Instrument": { "Name": "fagott" }
+                },
+                { "Name": "Joseph Ognibene", "Instrument": { "Name": "horn" } },
+                {
+                  "Name": "Ingunn Hildur Hauksdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "4. tónleikar",
+          "Date": "2023-11-12",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett í F-dúr op. 18 nr. 1",
+              "Composer": { "Name": "L. v. Beethoven" },
+              "GroupName": "Strokkvartettinn SIGGI",
+              "Performers": [
+                {
+                  "Name": "Una Sveinbjarnardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Helga Þóra Björgvinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "„Ground“ (2021) fyrir strengjakvartett",
+              "Composer": { "Name": "Finnur Karlsson" },
+              "GroupName": "Strokkvartettinn SIGGI",
+              "Performers": [
+                {
+                  "Name": "Una Sveinbjarnardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Helga Þóra Björgvinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Píanókvintett í Es-dúr op. 44",
+              "Composer": { "Name": "Robert Schumann" },
+              "GroupName": "Strokkvartettinn SIGGI",
+              "Performers": [
+                {
+                  "Name": "Bjarni Frímann Bjarnason",
+                  "Instrument": { "Name": "píanó" }
+                },
+                {
+                  "Name": "Una Sveinbjarnardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Helga Þóra Björgvinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "5. tónleikar",
+          "Date": "2024-01-21",
+          "Pieces": [
+            {
+              "Title": "\"Three Divertimenti\" fyrir strengjakvartett (I. March, II. Waltz, III. Burlesque)",
+              "Composer": { "Name": "Benjamin Britten" },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Bryndís Pálsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Svava Bernharðsdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett op. 11",
+              "Composer": { "Name": "Samuel Barber" },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Bryndís Pálsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Svava Bernharðsdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Kviksjá II – A sad song and a rondo fyrir klarínettu og strengjakvartett (frumflutningur)",
+              "Composer": { "Name": "John Speight" },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Ármann Helgason",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Bryndís Pálsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Svava Bernharðsdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Largo fyrir fiðlu, klarínettu og píanó S.73",
+              "Composer": { "Name": "Charles Ives" },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Ármann Helgason",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                {
+                  "Name": "Ingunn Hildur Hauksdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Sextett fyrir klarínettu, strengjakvartett og píanó",
+              "Composer": { "Name": "Aaron Copland" },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Ármann Helgason",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Bryndís Pálsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Svava Bernharðsdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Ingunn Hildur Hauksdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "6. tónleikar",
+          "Date": "2024-02-04",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett nr. 1 í a-moll op. 41 nr. 1",
+              "Composer": { "Name": "Robert Schumann" },
+              "GroupName": "KORDO-kvartettinn",
+              "Performers": [
+                { "Name": "Vera Panitch", "Instrument": { "Name": "fiðla" } },
+                { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Þórarinn Már Baldursson",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Klarínettukvintett í h-moll op. 115",
+              "Composer": { "Name": "Johannes Brahms" },
+              "GroupName": "KORDO-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Arngunnur Árnadóttir",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                { "Name": "Vera Panitch", "Instrument": { "Name": "fiðla" } },
+                { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Þórarinn Már Baldursson",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
