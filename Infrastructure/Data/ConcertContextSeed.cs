@@ -282,6 +282,9 @@ public class ConcertContextSeed
                 await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_51_to_60.json");
                 _logger.LogInformation("Concert seasons 51 to 60 saved");
 
+                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_61_to_69.json");
+                _logger.LogInformation("Concert seasons 61 to 69 saved");
+
             }
         }
         catch (Exception e)
