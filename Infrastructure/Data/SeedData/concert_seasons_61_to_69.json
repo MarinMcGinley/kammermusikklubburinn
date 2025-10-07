@@ -3251,6 +3251,466 @@
           ]
         }
       ]
+    },
+    {
+      "Title": "69. starfsár",
+      "Concerts": [
+        {
+          "Description": "1. tónleikar",
+          "Date": "2024-09-22",
+          "Pieces": [
+            {
+              "Title": "Tríó í G-dúr op. 53 nr. 1",
+              "Composer": { "Name": "Joseph Haydn" },
+              "GroupName": "Ssens-tríóið",
+              "Performers": [
+                {
+                  "Name": "Sølve Sigerland",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Henninge Landaas",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Ellen Margrete Flesjø",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Earthward, Ever Circling (2023)",
+              "Composer": { "Name": "Anna Linh Nguyen Berg" },
+              "GroupName": "Ssens-tríóið",
+              "Performers": [
+                {
+                  "Name": "Sølve Sigerland",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Henninge Landaas",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Ellen Margrete Flesjø",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Tríó op. 48",
+              "Composer": { "Name": "Mieczysław Weinberg" },
+              "GroupName": "Ssens-tríóið",
+              "Performers": [
+                {
+                  "Name": "Sølve Sigerland",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Henninge Landaas",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Ellen Margrete Flesjø",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Tríó í Es-dúr op. 3",
+              "Composer": { "Name": "L. v. Beethoven" },
+              "GroupName": "Ssens-tríóið",
+              "Performers": [
+                {
+                  "Name": "Sølve Sigerland",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Henninge Landaas",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Ellen Margrete Flesjø",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "2. tónleikar",
+          "Date": "2024-10-06",
+          "Pieces": [
+            {
+              "Title": "Ganz kleine Nachtmusik (frumflutningur á Íslandi)",
+              "Composer": { "Name": "W. A. Mozart" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Ari Þór Vilhjálmsson",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Sólveig Vaka Eyþórsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                { "Name": "Rita Porfiris", "Instrument": { "Name": "víóla" } },
+                {
+                  "Name": "Sigurgeir Agnarsson",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Verklärte Nacht",
+              "Composer": { "Name": "Arnold Schönberg" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Ari Þór Vilhjálmsson",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Sólveig Vaka Eyþórsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                { "Name": "Rita Porfiris", "Instrument": { "Name": "víóla" } },
+                {
+                  "Name": "Sigurgeir Agnarsson",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Souvenir de Florence",
+              "Composer": { "Name": "Pjotr Tchaikovsky" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Ari Þór Vilhjálmsson",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Sólveig Vaka Eyþórsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                { "Name": "Rita Porfiris", "Instrument": { "Name": "víóla" } },
+                {
+                  "Name": "Sigurgeir Agnarsson",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "3. tónleikar",
+          "Date": "2024-11-03",
+          "Pieces": [
+            {
+              "Title": "Píanókvartett nr. 1 í g-moll K.478",
+              "Composer": { "Name": "W. A. Mozart" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sólveig Steinþórsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Anna Elísabet Sigurðardóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnhildur Marta Guðmundsdóttir",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Þóra Kristín Gunnarsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Píanókvartett nr. 1 í g-moll op. 25",
+              "Composer": { "Name": "Johannes Brahms" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sólveig Steinþórsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Anna Elísabet Sigurðardóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnhildur Marta Guðmundsdóttir",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Þóra Kristín Gunnarsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "4. tónleikar",
+          "Date": "2025-01-19",
+          "Pieces": [
+            {
+              "Title": "Píanókvartett í Es-dúr K. 493",
+              "Composer": { "Name": "W. A. Mozart" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Pétur Björnsson",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórarinn Már Baldursson",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                },
+                { "Name": "Liam Kaplan", "Instrument": { "Name": "píanó" } }
+              ]
+            },
+            {
+              "Title": "Píanókvartett í a-moll",
+              "Composer": { "Name": "Gustav Mahler" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Pétur Björnsson",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórarinn Már Baldursson",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                },
+                { "Name": "Liam Kaplan", "Instrument": { "Name": "píanó" } }
+              ]
+            },
+            {
+              "Title": "Píanókvartett í Es-dúr op. 47",
+              "Composer": { "Name": "Robert Schumann" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Pétur Björnsson",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórarinn Már Baldursson",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                },
+                { "Name": "Liam Kaplan", "Instrument": { "Name": "píanó" } }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "5. tónleikar",
+          "Date": "2025-02-09",
+          "Pieces": [
+            {
+              "Title": "Sónata fyrir tvær fiðlur og píanó op. 15",
+              "Composer": { "Name": "Darius Milhaud" },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Bryndís Pálsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Helga Bryndís Magnþúsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Tríó fyrir klarínettu, víólu og píanó",
+              "Composer": { "Name": "Jean Françaix" },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Ármann Helgason",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                {
+                  "Name": "Svava Bernharðsdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Helga Bryndís Magnþúsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett í F-dúr",
+              "Composer": { "Name": "Maurice Ravel" },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Bryndís Pálsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Svava Bernharðsdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "6. tónleikar",
+          "Date": "2025-03-09",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett nr. 10 í Es-dúr op. 74 \"Hörpukvartett\"",
+              "Composer": { "Name": "L. v. Beethoven" },
+              "GroupName": "Strokkvartettinn SIGGI",
+              "Performers": [
+                {
+                  "Name": "Una Sveinbjarnardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Helga Þóra Björgvinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Andstæður / Contrasts (2023) – frumflutningur",
+              "Composer": { "Name": "Úlfar Ingi Haraldsson" },
+              "GroupName": "Strokkvartettinn SIGGI",
+              "Performers": [
+                {
+                  "Name": "Una Sveinbjarnardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Helga Þóra Björgvinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett „Sjókort“ (2024)",
+              "Composer": { "Name": "Una Sveinbjarnardóttir" },
+              "GroupName": "Strokkvartettinn SIGGI",
+              "Performers": [
+                {
+                  "Name": "Una Sveinbjarnardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Helga Þóra Björgvinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett nr. 8 í c-moll op. 110",
+              "Composer": { "Name": "Dmitri Shostakovich" },
+              "GroupName": "Strokkvartettinn SIGGI",
+              "Performers": [
+                {
+                  "Name": "Una Sveinbjarnardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Helga Þóra Björgvinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
