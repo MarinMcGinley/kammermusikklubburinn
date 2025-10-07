@@ -2491,6 +2491,337 @@
           ]
         }
       ]
+    },
+    {
+      "Title": "67. starfsár",
+      "Concerts": [
+        {
+          "Description": "1. tónleikar",
+          "Date": "2022-09-18",
+          "Pieces": [
+            {
+              "Title": "Strengjakvintett í A-dúr op. 47b \"Kreutzer\" (umritun á Kreutzer-sónötunni)",
+              "Composer": { "Name": "L. v. Beethoven" },
+              "GroupName": "",
+              "Performers": [
+                { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Gunnhildur Daðadóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marínósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurgeir Agnarsson",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjasextett nr. 1 í B-dúr op. 18",
+              "Composer": { "Name": "Johannes Brahms" },
+              "GroupName": "",
+              "Performers": [
+                { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Gunnhildur Daðadóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marínósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Þórarinn Már Baldursson",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurgeir Agnarsson",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "2. tónleikar",
+          "Date": "2022-10-23",
+          "Pieces": [
+            {
+              "Title": "Píanókvintett í f-moll op. 34",
+              "Composer": { "Name": "Johannes Brahms" },
+              "GroupName": "",
+              "Performers": [
+                { "Name": "Anton Miller", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Guðný Guðmundsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                { "Name": "Rita Porfiris", "Instrument": { "Name": "víóla" } },
+                {
+                  "Name": "Hrafnhildur Marta Guðmundsdóttir",
+                  "Instrument": { "Name": "selló" }
+                },
+                { "Name": "Liam Kaplan", "Instrument": { "Name": "píanó" } }
+              ]
+            },
+            {
+              "Title": "Rómansa fyrir fiðlu og píanó í A-dúr op. 23",
+              "Composer": { "Name": "Amy Beach" },
+              "GroupName": "",
+              "Performers": [
+                { "Name": "Anton Miller", "Instrument": { "Name": "fiðla" } },
+                { "Name": "Liam Kaplan", "Instrument": { "Name": "píanó" } }
+              ]
+            },
+            {
+              "Title": "Píanókvintett í fís-moll op. 67",
+              "Composer": { "Name": "Amy Beach" },
+              "GroupName": "",
+              "Performers": [
+                { "Name": "Anton Miller", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Guðný Guðmundsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                { "Name": "Rita Porfiris", "Instrument": { "Name": "víóla" } },
+                {
+                  "Name": "Hrafnhildur Marta Guðmundsdóttir",
+                  "Instrument": { "Name": "selló" }
+                },
+                { "Name": "Liam Kaplan", "Instrument": { "Name": "píanó" } }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "3. tónleikar",
+          "Date": "2022-11-13",
+          "Pieces": [
+            {
+              "Title": "„Pièces en concert“",
+              "Composer": { "Name": "François Couperin" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Jane Ade Sutarjo",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Tilbrigði um dúettinn „Bei Männern welche Liebe fühlen“ úr Töfraflautunni eftir Mozart í Es-dúr WoO 46",
+              "Composer": { "Name": "L. v. Beethoven" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Jane Ade Sutarjo",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Largo úr sellósónötu í g-moll op. 65",
+              "Composer": { "Name": "Frédéric Chopin" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Jane Ade Sutarjo",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Vocalise op. 34",
+              "Composer": { "Name": "Sergei Rakhmaninov" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Jane Ade Sutarjo",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Fantasiestücke op. 73",
+              "Composer": { "Name": "Robert Schumann" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Jane Ade Sutarjo",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "4. tónleikar",
+          "Date": "2023-01-15",
+          "Pieces": [
+            {
+              "Title": "Kvartett nr. 1 „Kreutzer Sonata“",
+              "Composer": { "Name": "Leoš Janáček" },
+              "GroupName": "KORDO-kvartettinn",
+              "Performers": [
+                { "Name": "Vera Panitch", "Instrument": { "Name": "fiðla" } },
+                { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Þórarinn Már Baldursson",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett nr. 1 „Úr lífi mínu“",
+              "Composer": { "Name": "Bedřich Smetana" },
+              "GroupName": "KORDO-kvartettinn",
+              "Performers": [
+                { "Name": "Vera Panitch", "Instrument": { "Name": "fiðla" } },
+                { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Þórarinn Már Baldursson",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett nr. 12 „Ameríski kvartettinn“",
+              "Composer": { "Name": "Antonín Dvořák" },
+              "GroupName": "KORDO-kvartettinn",
+              "Performers": [
+                { "Name": "Vera Panitch", "Instrument": { "Name": "fiðla" } },
+                { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Þórarinn Már Baldursson",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "5. tónleikar",
+          "Date": "2023-02-12",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett nr. 6 í B-dúr op. 18 nr. 6",
+              "Composer": { "Name": "L. v. Beethoven" },
+              "GroupName": "Strokkvartettinn SIGGI",
+              "Performers": [
+                {
+                  "Name": "Una Sveinbjarnardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Helga Þóra Björgvinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett nr. 2",
+              "Composer": { "Name": "Atli Heimir Sveinsson" },
+              "GroupName": "Strokkvartettinn SIGGI",
+              "Performers": [
+                {
+                  "Name": "Una Sveinbjarnardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Helga Þóra Björgvinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Píanókvintett (1957)",
+              "Composer": { "Name": "Sofia Gubaidulina" },
+              "GroupName": "Strokkvartettinn SIGGI",
+              "Performers": [
+                {
+                  "Name": "Una Sveinbjarnardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Helga Þóra Björgvinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Mathias Halvorsen",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
