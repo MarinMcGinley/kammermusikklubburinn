@@ -1317,6 +1317,694 @@
           ]
         }
       ]
+    },
+    {
+      "Title": "64. starfsár",
+      "Concerts": [
+        {
+          "Description": "1. tónleikar",
+          "Date": "2019-09-29",
+          "Pieces": [
+            {
+              "Title": "Píanókvintett í f-moll op. 34",
+              "Composer": { "Name": "Johannes Brahms" },
+              "GroupName": "Trio Nordica",
+              "Performers": [
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": { "Name": "selló" }
+                },
+                { "Name": "Mona Kontra", "Instrument": { "Name": "píanó" } },
+                {
+                  "Name": "Helga Þóra Björgvinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                }
+              ]
+            },
+            {
+              "Title": "Píanókvintett í g-moll op. 30",
+              "Composer": { "Name": "Sergei Taneyev" },
+              "GroupName": "Trio Nordica",
+              "Performers": [
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": { "Name": "selló" }
+                },
+                { "Name": "Mona Kontra", "Instrument": { "Name": "píanó" } },
+                {
+                  "Name": "Helga Þóra Björgvinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "2. tónleikar",
+          "Date": "2019-10-20",
+          "Pieces": [
+            {
+              "Title": "Intrada",
+              "Composer": { "Name": "Þorkell Sigurbjörnsson" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Anna Guðný Guðmundsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Märchenbilder op. 113",
+              "Composer": { "Name": "Robert Schumann" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Anna Guðný Guðmundsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Märchenerzählungen op. 132",
+              "Composer": { "Name": "Robert Schumann" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Anna Guðný Guðmundsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Hommage à R. Schumann op. 15d",
+              "Composer": { "Name": "György Kurtág" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Anna Guðný Guðmundsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "„Ich stand in dunklen Träumen“",
+              "Composer": { "Name": "Clara Schumann" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Anna Guðný Guðmundsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Klarínettutríó í Es-dúr K 498 (Kegelstatt)",
+              "Composer": { "Name": "W. A. Mozart" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Anna Guðný Guðmundsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "3. tónleikar",
+          "Date": "2019-11-17",
+          "Pieces": [
+            {
+              "Title": "Klarínettutríó í Es-dúr op. 44",
+              "Composer": { "Name": "Louise Farrenc" },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Ármann Helgason",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": { "Name": "selló" }
+                },
+                { "Name": "Aladár Rácz", "Instrument": { "Name": "píanó" } }
+              ]
+            },
+            {
+              "Title": "Der Hirt auf dem Felsen",
+              "Composer": { "Name": "Franz Schubert" },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hrafnhildur Árnadóttir Hafstað",
+                  "Instrument": { "Name": "sópran" }
+                },
+                {
+                  "Name": "Ármann Helgason",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                { "Name": "Aladár Rácz", "Instrument": { "Name": "píanó" } }
+              ]
+            },
+            {
+              "Title": "Klarínettutríó í a-moll op. 114",
+              "Composer": { "Name": "Johannes Brahms" },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Ármann Helgason",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": { "Name": "selló" }
+                },
+                { "Name": "Aladár Rácz", "Instrument": { "Name": "píanó" } }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "4. tónleikar",
+          "Date": "2020-01-19",
+          "Pieces": [
+            {
+              "Title": "Dúó fyrir fiðlu og selló op. 7",
+              "Composer": { "Name": "Zoltán Kodály" },
+              "GroupName": "",
+              "Performers": [
+                { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Ólöf Sigursveinsdóttir",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Trio élégiaque nr. 2 í d-moll op. 9",
+              "Composer": { "Name": "Sergei Rakhmaninov" },
+              "GroupName": "",
+              "Performers": [
+                { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Ólöf Sigursveinsdóttir",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Bjarni Frímann Bjarnason",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "5. tónleikar",
+          "Date": "2020-03-08",
+          "Pieces": [
+            {
+              "Title": "Strengjakvartett í c-moll op. 18 nr. 4",
+              "Composer": { "Name": "L. v. Beethoven" },
+              "GroupName": "Strokkvartettinn Siggi",
+              "Performers": [
+                {
+                  "Name": "Una Sveinbjarnardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Helga Þóra Björgvinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "\"Flowen\" strengjakvartett nr. 1 (frumflutningur)",
+              "Composer": { "Name": "Veronique Vaka" },
+              "GroupName": "Strokkvartettinn Siggi",
+              "Performers": [
+                {
+                  "Name": "Una Sveinbjarnardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Helga Þóra Björgvinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Mantra (frumflutningur)",
+              "Composer": { "Name": "Oliver Kentish" },
+              "GroupName": "Strokkvartettinn Siggi",
+              "Performers": [
+                {
+                  "Name": "Una Sveinbjarnardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Helga Þóra Björgvinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett í f-moll op. 95 \"Serioso\"",
+              "Composer": { "Name": "L. v. Beethoven" },
+              "GroupName": "Strokkvartettinn Siggi",
+              "Performers": [
+                {
+                  "Name": "Una Sveinbjarnardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Helga Þóra Björgvinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Title": "65. starfsár",
+      "Concerts": [
+        {
+          "Description": "1. tónleikar",
+          "Date": "2020-09-27",
+          "Pieces": [
+            {
+              "Title": "A Chloris",
+              "Composer": { "Name": "Reynaldo Hahn" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigríður Ósk Kristjánsdóttir",
+                  "Instrument": { "Name": "mezzosópran" }
+                },
+                {
+                  "Name": "Edda Erlendsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Pièce pour flûte seule",
+              "Composer": { "Name": "Jacques Ibert" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Emilía Rós Sigfúsdóttir",
+                  "Instrument": { "Name": "þverflauta" }
+                }
+              ]
+            },
+            {
+              "Title": "Nocturne og Cortège",
+              "Composer": { "Name": "Lili Boulanger" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Emilía Rós Sigfúsdóttir",
+                  "Instrument": { "Name": "þverflauta" }
+                },
+                {
+                  "Name": "Edda Erlendsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Sónata fyrir fiðlu og selló",
+              "Composer": { "Name": "Maurice Ravel" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Deux Mélodies Hébraïques: Kaddisch, L’énigme éternelle",
+              "Composer": { "Name": "Maurice Ravel" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigríður Ósk Kristjánsdóttir",
+                  "Instrument": { "Name": "mezzosópran" }
+                },
+                {
+                  "Name": "Edda Erlendsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Syrinx",
+              "Composer": { "Name": "Claude Debussy" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Emilía Rós Sigfúsdóttir",
+                  "Instrument": { "Name": "þverflauta" }
+                }
+              ]
+            },
+            {
+              "Title": "Sónata fyrir selló og píanó",
+              "Composer": { "Name": "Claude Debussy" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Edda Erlendsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Chansons Madécasses: Nahandove, Aoua, Il est doux",
+              "Composer": { "Name": "Maurice Ravel" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigríður Ósk Kristjánsdóttir",
+                  "Instrument": { "Name": "mezzosópran" }
+                },
+                {
+                  "Name": "Emilía Rós Sigfúsdóttir",
+                  "Instrument": { "Name": "þverflauta" }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Edda Erlendsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "2. tónleikar",
+          "Date": "2021-02-28",
+          "Pieces": [
+            {
+              "Title": "Kammeróperan 'Traversing the Void' (frumflutningur)",
+              "Composer": { "Name": "Hildigunnur Rúnarsdóttir" },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hallveig Rúnarsdóttir",
+                  "Instrument": { "Name": "sópran" }
+                },
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Bryndís Pálsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Svava Bernharðsdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Eydís Franzdóttir",
+                  "Instrument": { "Name": "óbó" }
+                },
+                {
+                  "Name": "Ármann Helgason",
+                  "Instrument": { "Name": "klarínetta" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "3. tónleikar",
+          "Date": "2021-03-07",
+          "Pieces": [
+            {
+              "Title": "Píanótríó í B-dúr op. 97 „Erkihertogatríóið“",
+              "Composer": { "Name": "L. v. Beethoven" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Domenico Codispoti",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Píanótríó nr. 3 í c-moll op. 101",
+              "Composer": { "Name": "Johannes Brahms" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Sigrún Eðvaldsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Domenico Codispoti",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "4. tónleikar",
+          "Date": "2021-03-14",
+          "Pieces": [
+            {
+              "Title": "Hrafnaþing (2013) – strengjakvartett í þremur þáttum",
+              "Composer": { "Name": "Finnur Karlsson" },
+              "GroupName": "Strokkvartettinn Siggi",
+              "Performers": [
+                {
+                  "Name": "Una Sveinbjarnardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Helga Þóra Björgvinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett í Es-dúr",
+              "Composer": { "Name": "Fanny Mendelssohn" },
+              "GroupName": "Strokkvartettinn Siggi",
+              "Performers": [
+                {
+                  "Name": "Una Sveinbjarnardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Helga Þóra Björgvinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvartett nr. 16 op. 135 í F-dúr „Es muss sein!“",
+              "Composer": { "Name": "Ludwig van Beethoven" },
+              "GroupName": "Strokkvartettinn Siggi",
+              "Performers": [
+                {
+                  "Name": "Una Sveinbjarnardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Helga Þóra Björgvinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Sigurður Bjarki Gunnarsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "5. tónleikar",
+          "Date": "2021-03-21",
+          "Pieces": [
+            {
+              "Title": "Píanótríó í d-moll op. 49",
+              "Composer": { "Name": "Felix Mendelssohn" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Mathías Halvorsen",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Píanótríó nr. 2 í C-dúr op. 87",
+              "Composer": { "Name": "Johannes Brahms" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Auður Hafsteinsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Bryndís Halla Gylfadóttir",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Mathías Halvorsen",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
