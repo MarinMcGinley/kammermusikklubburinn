@@ -2005,6 +2005,492 @@
           ]
         }
       ]
+    },
+    {
+      "Title": "66. starfsár",
+      "Concerts": [
+        {
+          "Description": "1. tónleikar",
+          "Date": "2021-09-19",
+          "Pieces": [
+            {
+              "Title": "Otoño Porteño (úts.: Werner Thomas Mifune)",
+              "Composer": { "Name": "Astor Piazzolla" },
+              "GroupName": "KORDO-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Olivier Manoury",
+                  "Instrument": { "Name": "bandoneon" }
+                },
+                { "Name": "Vera Panitch", "Instrument": { "Name": "fiðla" } },
+                { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Þórarinn Már Baldursson",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Invierno Porteño (úts.: Werner Thomas Mifune)",
+              "Composer": { "Name": "Astor Piazzolla" },
+              "GroupName": "KORDO-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Olivier Manoury",
+                  "Instrument": { "Name": "bandoneon" }
+                },
+                { "Name": "Vera Panitch", "Instrument": { "Name": "fiðla" } },
+                { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Þórarinn Már Baldursson",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Four for Tango fyrir strengjakvartett",
+              "Composer": { "Name": "Astor Piazzolla" },
+              "GroupName": "KORDO-kvartettinn",
+              "Performers": [
+                { "Name": "Vera Panitch", "Instrument": { "Name": "fiðla" } },
+                { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Þórarinn Már Baldursson",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Improvisation fyrir Bandoneon Solo",
+              "Composer": { "Name": "Olivier Manoury" },
+              "GroupName": "",
+              "Performers": [
+                {
+                  "Name": "Olivier Manoury",
+                  "Instrument": { "Name": "bandoneon" }
+                }
+              ]
+            },
+            {
+              "Title": "La Bordona",
+              "Composer": { "Name": "Emilio Balcarce" },
+              "GroupName": "KORDO-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Olivier Manoury",
+                  "Instrument": { "Name": "bandoneon" }
+                },
+                { "Name": "Vera Panitch", "Instrument": { "Name": "fiðla" } },
+                { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Þórarinn Már Baldursson",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Tango Ballet fyrir strengjakvartett (úts.: José Bragato)",
+              "Composer": { "Name": "Astor Piazzolla" },
+              "GroupName": "KORDO-kvartettinn",
+              "Performers": [
+                { "Name": "Vera Panitch", "Instrument": { "Name": "fiðla" } },
+                { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Þórarinn Már Baldursson",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "La Muerte del Ángel (úts.: Hrafnkell Orri Egilsson)",
+              "Composer": { "Name": "Astor Piazzolla" },
+              "GroupName": "KORDO-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Olivier Manoury",
+                  "Instrument": { "Name": "bandoneon" }
+                },
+                { "Name": "Vera Panitch", "Instrument": { "Name": "fiðla" } },
+                { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Þórarinn Már Baldursson",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Milonga del Ángel (úts.: Hrafnkell Orri Egilsson)",
+              "Composer": { "Name": "Astor Piazzolla" },
+              "GroupName": "KORDO-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Olivier Manoury",
+                  "Instrument": { "Name": "bandoneon" }
+                },
+                { "Name": "Vera Panitch", "Instrument": { "Name": "fiðla" } },
+                { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Þórarinn Már Baldursson",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Úr Five Tango Sensations: Loving Fear",
+              "Composer": { "Name": "Astor Piazzolla" },
+              "GroupName": "KORDO-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Olivier Manoury",
+                  "Instrument": { "Name": "bandoneon" }
+                },
+                { "Name": "Vera Panitch", "Instrument": { "Name": "fiðla" } },
+                { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Þórarinn Már Baldursson",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Adiós Nonino (úts.: Olivier Manoury)",
+              "Composer": { "Name": "Astor Piazzolla" },
+              "GroupName": "KORDO-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Olivier Manoury",
+                  "Instrument": { "Name": "bandoneon" }
+                },
+                { "Name": "Vera Panitch", "Instrument": { "Name": "fiðla" } },
+                { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Þórarinn Már Baldursson",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Escualo (úts.: Olivier Manoury)",
+              "Composer": { "Name": "Astor Piazzolla" },
+              "GroupName": "KORDO-kvartettinn",
+              "Performers": [
+                {
+                  "Name": "Olivier Manoury",
+                  "Instrument": { "Name": "bandoneon" }
+                },
+                { "Name": "Vera Panitch", "Instrument": { "Name": "fiðla" } },
+                { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Þórarinn Már Baldursson",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Hrafnkell Orri Egilsson",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "2. tónleikar",
+          "Date": "2021-10-24",
+          "Pieces": [
+            {
+              "Title": "Strengjakvintett nr. 2 í G-dúr op. 111",
+              "Composer": { "Name": "Johannes Brahms" },
+              "GroupName": "",
+              "Performers": [
+                { "Name": "Daniel Sepec", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Konstanze Lerbs",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Ásdís Valdimarsdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Michael Stirling",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjakvintett í Es-dúr B180 (op. 97)",
+              "Composer": { "Name": "Antonín Dvořák" },
+              "GroupName": "",
+              "Performers": [
+                { "Name": "Daniel Sepec", "Instrument": { "Name": "fiðla" } },
+                {
+                  "Name": "Konstanze Lerbs",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Ásdís Valdimarsdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Þórunn Ósk Marinósdóttir",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Michael Stirling",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "3. tónleikar",
+          "Date": "2021-11-14",
+          "Pieces": [
+            {
+              "Title": "Strengjatríó í B-dúr D 471",
+              "Composer": { "Name": "Franz Schubert" },
+              "GroupName": "Ssens-tríóið",
+              "Performers": [
+                {
+                  "Name": "Sølve Sigerland",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Henninge Landaas",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Ellen Margrete Flesjø",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Strengjatríó op. 54 (frumflutningur á Íslandi)",
+              "Composer": { "Name": "Hafliði Hallgrímsson" },
+              "GroupName": "Ssens-tríóið",
+              "Performers": [
+                {
+                  "Name": "Sølve Sigerland",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Henninge Landaas",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Ellen Margrete Flesjø",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            },
+            {
+              "Title": "Serenada í D-dúr op. 8",
+              "Composer": { "Name": "L. v. Beethoven" },
+              "GroupName": "Ssens-tríóið",
+              "Performers": [
+                {
+                  "Name": "Sølve Sigerland",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Henninge Landaas",
+                  "Instrument": { "Name": "víóla" }
+                },
+                {
+                  "Name": "Ellen Margrete Flesjø",
+                  "Instrument": { "Name": "selló" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "4. tónleikar",
+          "Date": "2022-02-20",
+          "Pieces": [
+            {
+              "Title": "Píanótríó í Es-dúr op. 1 nr. 1",
+              "Composer": { "Name": "L. v. Beethoven" },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Mathias Halvorsen",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Píanótríó í G-dúr op. 1 nr. 2",
+              "Composer": { "Name": "L. v. Beethoven" },
+              "GroupName": "Camerarctica",
+              "Performers": [
+                {
+                  "Name": "Hildigunnur Halldórsdóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Sigurður Halldórsson",
+                  "Instrument": { "Name": "selló" }
+                },
+                {
+                  "Name": "Mathias Halvorsen",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Description": "5. tónleikar",
+          "Date": "2022-03-16",
+          "Pieces": [
+            {
+              "Title": "L’invitation au château (Boðið í kastalanum)",
+              "Composer": { "Name": "Francis Poulenc" },
+              "GroupName": "Tríó Sírajón",
+              "Performers": [
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                {
+                  "Name": "Laufey Sigurðardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Anna Áslaug Ragnarsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Tríó",
+              "Composer": { "Name": "Gian Carlo Menotti" },
+              "GroupName": "Tríó Sírajón",
+              "Performers": [
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                {
+                  "Name": "Laufey Sigurðardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Anna Áslaug Ragnarsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Contrasts",
+              "Composer": { "Name": "Béla Bartók" },
+              "GroupName": "Tríó Sírajón",
+              "Performers": [
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                {
+                  "Name": "Laufey Sigurðardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Anna Áslaug Ragnarsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Suite",
+              "Composer": { "Name": "Alexander Arutiunian" },
+              "GroupName": "Tríó Sírajón",
+              "Performers": [
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                {
+                  "Name": "Laufey Sigurðardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Anna Áslaug Ragnarsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            },
+            {
+              "Title": "Leiftur – ómbrot úr leikhúsinu (frumflutningur)",
+              "Composer": { "Name": "Hjálmar H. Ragnarsson" },
+              "GroupName": "Tríó Sírajón",
+              "Performers": [
+                {
+                  "Name": "Einar Jóhannesson",
+                  "Instrument": { "Name": "klarínetta" }
+                },
+                {
+                  "Name": "Laufey Sigurðardóttir",
+                  "Instrument": { "Name": "fiðla" }
+                },
+                {
+                  "Name": "Anna Áslaug Ragnarsdóttir",
+                  "Instrument": { "Name": "píanó" }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
