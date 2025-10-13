@@ -85,7 +85,7 @@
         "Date": "1968-05-27",
         "Pieces": [
           {
-            "Title": "Strengjatríó (Divertimento) Es-dúr K. 563*",
+            "Title": "Strengjatríó (Divertimento) Es-dúr K. 563",
             "Composer": {
               "Name": "Wolfgang Amadeus Mozart"
             },
@@ -180,7 +180,7 @@
         "Date": "1968-09-19",
         "Pieces": [
           {
-            "Title": "Píanótríó B-dúr D. 898*",
+            "Title": "Píanótríó B-dúr D. 898",
             "Composer": {
               "Name": "Franz Schubert"
             },
@@ -209,7 +209,7 @@
           {
             "Title": "Píanókvintett g-moll op. 57",
             "Composer": {
-              "Name": "Dmitri Shostakovich"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "",
             "Performers": [
@@ -257,7 +257,7 @@
         "Date": "1968-11-15",
         "Pieces": [
           {
-            "Title": "Sónata f. flautu og fylgibassa G-dúr",
+            "Title": "Sónata fyrir flautu og fylgibassa G-dúr",
             "Composer": {
               "Name": "Carl Philipp Emanuel Bach"
             },
@@ -290,7 +290,7 @@
             ]
           },
           {
-            "Title": "Sónata f. selló og sembal a-moll",
+            "Title": "Sónata fyrir selló og sembal a-moll",
             "Composer": {
               "Name": "Antonio Vivaldi"
             },
@@ -311,7 +311,7 @@
             ]
           },
           {
-            "Title": "Tríósónata f. flautu, óbó og fylgibassa c-moll",
+            "Title": "Tríósónata fyrir flautu, óbó og fylgibassa c-moll",
             "Composer": {
               "Name": "Johann Joachim Quantz"
             },
@@ -605,7 +605,7 @@
         "Date": "1969-04-28",
         "Pieces": [
           {
-            "Title": "Kvintett Es-dúr K. 452 (pn, ób, kl, hn, fg)",
+            "Title": "Kvintett Es-dúr K. 452 (píanó, óbó, klarínetta, horn, fagott)",
             "Composer": {
               "Name": "Wolfgang Amadeus Mozart"
             },
@@ -847,7 +847,7 @@
             ]
           },
           {
-            "Title": "Svíta f. einleiksvíólu",
+            "Title": "Svíta fyrir einleiksvíólu",
             "Composer": {
               "Name": "Quincy Porter"
             },
@@ -1020,7 +1020,7 @@
         "Date": "1971-04-02",
         "Pieces": [
           {
-            "Title": "Dúó (sónata) f. fiðlu og píanó A-dúr D. 574",
+            "Title": "Dúó (sónata) fyrir fiðlu og píanó A-dúr D. 574",
             "Composer": {
               "Name": "Franz Schubert"
             },
@@ -1185,7 +1185,7 @@
             ]
           },
           {
-            "Title": "Sónata f. víólu og píanó",
+            "Title": "Sónata fyrir víólu og píanó",
             "Composer": {
               "Name": "Jón Þórarinsson"
             },
@@ -1332,27 +1332,6 @@
                 }
               }
             ]
-          },
-          {
-            "Title": "Ágústa Jónsdóttir fiðla, Dóra Björgvinsdóttir fiðla (einl. í Vivaldi), Júlíana Elín Kjartansdóttir fiðla (einl. í Vivaldi), Sigríður Hrafnkelsdóttir fiðla, Helga Þórarinsdóttir víóla, Sesselja Halldórsdóttir víóla, Auður Ingvadóttir selló, Ólöf Sesselja Óskarsdóttir selló, Hrefna Hjaltadóttir, Sigríður Þórdís Einarsdóttir",
-            "Composer": {
-              "Name": "Strengjasveit nemenda Tónlistarskólans í Reykjavík undir stjórn Ingvars Jónassonar"
-            },
-            "GroupName": "",
-            "Performers": [
-              {
-                "Name": "Ingvar Jónasson",
-                "Instrument": {
-                  "Name": "víóla"
-                }
-              },
-              {
-                "Name": "Helga Ingólfsdóttir",
-                "Instrument": {
-                  "Name": "semball"
-                }
-              }
-            ]
           }
         ]
       }
@@ -1387,7 +1366,7 @@
             ]
           },
           {
-            "Title": "Með gleðiraust og helgum hljóm f. selló og píanó (frumflutningur)",
+            "Title": "Með gleðiraust og helgum hljóm fyrir selló og píanó (frumflutningur)",
             "Composer": {
               "Name": "Hafliði Hallgrímsson"
             },
@@ -1408,7 +1387,7 @@
             ]
           },
           {
-            "Title": "Sónatína f. selló og píanó",
+            "Title": "Sónatína fyrir selló og píanó",
             "Composer": {
               "Name": "Zoltán Kodály"
             },
@@ -1429,7 +1408,7 @@
             ]
           },
           {
-            "Title": "Sónatína f. selló og píanó",
+            "Title": "Sónatína fyrir selló og píanó",
             "Composer": {
               "Name": "Nikos Skalkottas"
             },
@@ -1477,7 +1456,7 @@
         "Date": "1972-12-03",
         "Pieces": [
           {
-            "Title": "Brandenborgarkonsert nr. 4 G-dúr BWV 1049*",
+            "Title": "Brandenborgarkonsert nr. 4 G-dúr BWV 1049",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -1510,7 +1489,7 @@
             ]
           },
           {
-            "Title": "Brandenborgarkonsert nr. 5 D-dúr BWV 1050∞",
+            "Title": "Brandenborgarkonsert nr. 5 D-dúr BWV 1050",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -1549,7 +1528,7 @@
         "Date": "1973-04-18",
         "Pieces": [
           {
-            "Title": "Kvintett f. blásara",
+            "Title": "Kvintett fyrir blásara",
             "Composer": {
               "Name": "Jón Ásgeirsson"
             },
@@ -1588,7 +1567,7 @@
             ]
           },
           {
-            "Title": "Kvintett Es-dúr K. 452 (pn, ób, kl, hn, fg)",
+            "Title": "Kvintett Es-dúr K. 452 (píanó, óbó, klarínetta, horn, fagott)",
             "Composer": {
               "Name": "Wolfgang Amadeus Mozart"
             },
@@ -1666,7 +1645,7 @@
             ]
           },
           {
-            "Title": "Sextett f. píanó og blásarakvintett",
+            "Title": "Sextett fyrir píanó og blásarakvintett",
             "Composer": {
               "Name": "Francis Poulenc"
             },
@@ -1746,7 +1725,7 @@
           {
             "Title": "Píanótríó nr. 2 e-moll op. 67",
             "Composer": {
-              "Name": "Dmitri Shostakovich"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "",
             "Performers": [
@@ -2201,7 +2180,7 @@
         "Date": "1974-11-24",
         "Pieces": [
           {
-            "Title": "Fagottkvartett B-dúr op.40",
+            "Title": "Fagottkvartett B-dúr op. 40",
             "Composer": {
               "Name": "Franz Danzi"
             },
@@ -2232,7 +2211,7 @@
                 }
               },
               {
-                "Name": "Ásdís Þorsteinsdóttir Stross",
+                "Name": "Ásdís Þ. Stross",
                 "Instrument": {
                   "Name": "fiðla"
                 }
@@ -2295,7 +2274,7 @@
                 }
               },
               {
-                "Name": "Ásdís Þorsteinsdóttir Stross",
+                "Name": "Ásdís Þ. Stross",
                 "Instrument": {
                   "Name": "fiðla"
                 }
@@ -2358,7 +2337,7 @@
                 }
               },
               {
-                "Name": "Ásdís Þorsteinsdóttir Stross",
+                "Name": "Ásdís Þ. Stross",
                 "Instrument": {
                   "Name": "fiðla"
                 }
@@ -2403,7 +2382,7 @@
                 }
               },
               {
-                "Name": "Ásdís Þorsteinsdóttir Stross",
+                "Name": "Ásdís Þ. Stross",
                 "Instrument": {
                   "Name": "fiðla"
                 }
@@ -2804,7 +2783,7 @@
             ]
           },
           {
-            "Title": "Tríó (pn, fl, se)",
+            "Title": "Tríó (fl, se, pn)",
             "Composer": {
               "Name": "Bohuslav Martinů"
             },
@@ -3013,7 +2992,7 @@
         "Date": "1975-11-16",
         "Pieces": [
           {
-            "Title": "Sónata f. flautu og fylgibassa E-dúr BWV 1035",
+            "Title": "Sónata fyrir flautu og fylgibassa E-dúr BWV 1035",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -3040,7 +3019,7 @@
             ]
           },
           {
-            "Title": "Partíta f. einleiksflautu a-moll BWV 1013",
+            "Title": "Partíta fyrir einleiksflautu a-moll BWV 1013",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -3055,7 +3034,7 @@
             ]
           },
           {
-            "Title": "Sónata f. flautu og fylgibassa e-moll BWV 1034",
+            "Title": "Sónata fyrir flautu og fylgibassa e-moll BWV 1034",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -3136,7 +3115,7 @@
             ]
           },
           {
-            "Title": "Tríó a-moll op. 114 (pn, kl, se)",
+            "Title": "Tríó a-moll, op. 114, fyrir klarínettu, selló og píanó",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -3169,7 +3148,7 @@
         "Date": "1976-02-19",
         "Pieces": [
           {
-            "Title": "Sónata f. flautu og fylgibassa C-dúr BWV 1033",
+            "Title": "Sónata fyrir flautu og fylgibassa C-dúr BWV 1033",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -3196,7 +3175,7 @@
             ]
           },
           {
-            "Title": "Sónata f. flautu og sembal Es-dúr BWV 1031",
+            "Title": "Sónata fyrir flautu og sembal Es-dúr BWV 1031",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -3217,7 +3196,7 @@
             ]
           },
           {
-            "Title": "Sónata f. flautu og sembal A-dúr BWV 1032",
+            "Title": "Sónata fyrir flautu og sembal A-dúr BWV 1032",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -3238,7 +3217,7 @@
             ]
           },
           {
-            "Title": "Sónata f. flautu og sembal h-moll BWV 1030",
+            "Title": "Sónata fyrir flautu og sembal h-moll BWV 1030",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -3261,7 +3240,7 @@
         ]
       },
       {
-        "Description": "Tónleikar á Listahátíð í Reykjavík",
+        "Description": "Tónleikar á Listahátíð Reykjavík",
         "Date": "1976-06-05",
         "Pieces": [
           {
@@ -3366,7 +3345,7 @@
         ]
       },
       {
-        "Description": "Tónleikar á Listahátíð í Reykjavík",
+        "Description": "Tónleikar á Listahátíð Reykjavík",
         "Date": "1976-06-07",
         "Pieces": [
           {
@@ -3558,7 +3537,7 @@
         "Date": "1977-03-29",
         "Pieces": [
           {
-            "Title": "Strengjakvartett F-dúr op. 135*",
+            "Title": "Strengjakvartett F-dúr op. 135",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -3663,7 +3642,7 @@
             ]
           },
           {
-            "Title": "Oktett f. strengi Es-dúr op. 20*∞",
+            "Title": "Oktett fyrir strengi Es-dúr op. 20",
             "Composer": {
               "Name": "Felix Mendelssohn"
             },
@@ -3765,7 +3744,7 @@
             ]
           },
           {
-            "Title": "Dúó f. fiðlu og selló op. 7",
+            "Title": "Dúó fyrir fiðlu og selló op. 7",
             "Composer": {
               "Name": "Zoltán Kodály"
             },
