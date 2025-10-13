@@ -7,7 +7,7 @@
         "Date": "1967-11-13",
         "Pieces": [
           {
-            "Title": "Svíta fyrir einleiksselló nr. 1 G-dúr BWV 1007",
+            "Title": "Svíta fyrir einleiksselló nr. 1 í G-dúr BWV 1007",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -18,7 +18,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 2 d-moll BWV 1008",
+            "Title": "Svíta fyrir einleiksselló nr. 2 í d-moll BWV 1008",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -29,7 +29,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 3 C-dúr BWV 1009",
+            "Title": "Svíta fyrir einleiksselló nr. 3 í C-dúr BWV 1009",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -46,7 +46,7 @@
         "Date": "1967-11-14",
         "Pieces": [
           {
-            "Title": "Svíta fyrir einleiksselló nr. 4 Es-dúr BWV 1010",
+            "Title": "Svíta fyrir einleiksselló nr. 4 í Es-dúr BWV 1010",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -57,7 +57,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 5 c-moll BWV 1011",
+            "Title": "Svíta fyrir einleiksselló nr. 5 í c-moll BWV 1011",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -68,7 +68,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 6 D-dúr BWV 1012",
+            "Title": "Svíta fyrir einleiksselló nr. 6 í D-dúr BWV 1012",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -180,7 +180,7 @@
         "Date": "1968-09-19",
         "Pieces": [
           {
-            "Title": "Píanótríó B-dúr D. 898*",
+            "Title": "Píanótríó B-dúr D. 898",
             "Composer": {
               "Name": "Franz Schubert"
             },
@@ -209,7 +209,7 @@
           {
             "Title": "Píanókvintett g-moll op. 57",
             "Composer": {
-              "Name": "Dmitri Shostakovich"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "",
             "Performers": [
@@ -1332,27 +1332,6 @@
                 }
               }
             ]
-          },
-          {
-            "Title": "Ágústa Jónsdóttir fiðla, Dóra Björgvinsdóttir fiðla (einl. í Vivaldi), Júlíana Elín Kjartansdóttir fiðla (einl. í Vivaldi), Sigríður Hrafnkelsdóttir fiðla, Helga Þórarinsdóttir víóla, Sesselja Halldórsdóttir víóla, Auður Ingvadóttir selló, Ólöf Sesselja Óskarsdóttir selló, Hrefna Hjaltadóttir, Sigríður Þórdís Einarsdóttir",
-            "Composer": {
-              "Name": "Strengjasveit nemenda Tónlistarskólans í Reykjavík undir stjórn Ingvars Jónassonar"
-            },
-            "GroupName": "",
-            "Performers": [
-              {
-                "Name": "Ingvar Jónasson",
-                "Instrument": {
-                  "Name": "víóla"
-                }
-              },
-              {
-                "Name": "Helga Ingólfsdóttir",
-                "Instrument": {
-                  "Name": "semball"
-                }
-              }
-            ]
           }
         ]
       }
@@ -1477,7 +1456,7 @@
         "Date": "1972-12-03",
         "Pieces": [
           {
-            "Title": "Brandenborgarkonsert nr. 4 G-dúr BWV 1049*",
+            "Title": "Brandenborgarkonsert nr. 4 G-dúr BWV 1049",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -1666,7 +1645,7 @@
             ]
           },
           {
-            "Title": "Sextett f. píanó og blásarakvintett",
+            "Title": "Sextett fyrir píanó og blásarakvintett",
             "Composer": {
               "Name": "Francis Poulenc"
             },
@@ -1746,7 +1725,7 @@
           {
             "Title": "Píanótríó nr. 2 e-moll op. 67",
             "Composer": {
-              "Name": "Dmitri Shostakovich"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "",
             "Performers": [
@@ -1809,7 +1788,7 @@
         "Date": "1973-09-29",
         "Pieces": [
           {
-            "Title": "Svíta fyrir einleiksselló nr. 1 G-dúr BWV 1007",
+            "Title": "Svíta fyrir einleiksselló nr. 1 í G-dúr BWV 1007",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -1820,7 +1799,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 2 d-moll BWV 1008",
+            "Title": "Svíta fyrir einleiksselló nr. 2 í d-moll BWV 1008",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -1831,7 +1810,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 3 C-dúr BWV 1009",
+            "Title": "Svíta fyrir einleiksselló nr. 3 í C-dúr BWV 1009",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -1848,7 +1827,7 @@
         "Date": "1973-09-30",
         "Pieces": [
           {
-            "Title": "Svíta fyrir einleiksselló nr. 4 Es-dúr BWV 1010",
+            "Title": "Svíta fyrir einleiksselló nr. 4 í Es-dúr BWV 1010",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -1859,7 +1838,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 5 c-moll BWV 1011",
+            "Title": "Svíta fyrir einleiksselló nr. 5 í c-moll BWV 1011",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -1870,7 +1849,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 6 D-dúr BWV 1012",
+            "Title": "Svíta fyrir einleiksselló nr. 6 í D-dúr BWV 1012",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -2162,7 +2141,7 @@
             ]
           },
           {
-            "Title": "Píanókvartett nr. 1 g-moll op. 25",
+            "Title": "Píanókvartett nr. 1 í g-moll op. 25",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -2264,7 +2243,7 @@
             ]
           },
           {
-            "Title": "Klarínettukvintett B-dúr op. 34",
+            "Title": "Klarínettukvintett í B-dúr op. 34",
             "Composer": {
               "Name": "Carl Maria von Weber"
             },
@@ -3480,7 +3459,7 @@
         "Date": "1976-10-17",
         "Pieces": [
           {
-            "Title": "Svíta fyrir einleiksselló nr. 1 G-dúr BWV 1007",
+            "Title": "Svíta fyrir einleiksselló nr. 1 í G-dúr BWV 1007",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -3491,7 +3470,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 2 d-moll BWV 1008",
+            "Title": "Svíta fyrir einleiksselló nr. 2 í d-moll BWV 1008",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -3502,7 +3481,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 3 C-dúr BWV 1009",
+            "Title": "Svíta fyrir einleiksselló nr. 3 í C-dúr BWV 1009",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -3519,7 +3498,7 @@
         "Date": "1976-10-19",
         "Pieces": [
           {
-            "Title": "Svíta fyrir einleiksselló nr. 4 Es-dúr BWV 1010",
+            "Title": "Svíta fyrir einleiksselló nr. 4 í Es-dúr BWV 1010",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -3530,7 +3509,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 5 c-moll BWV 1011",
+            "Title": "Svíta fyrir einleiksselló nr. 5 í c-moll BWV 1011",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -3541,7 +3520,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 6 D-dúr BWV 1012",
+            "Title": "Svíta fyrir einleiksselló nr. 6 í D-dúr BWV 1012",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -3663,7 +3642,7 @@
             ]
           },
           {
-            "Title": "Oktett f. strengi Es-dúr op. 20*∞",
+            "Title": "Oktett fyrir strengi í Es-dúr op. 20",
             "Composer": {
               "Name": "Felix Mendelssohn"
             },
@@ -3786,7 +3765,7 @@
             ]
           },
           {
-            "Title": "Klarínettukvintett h-moll op. 115",
+            "Title": "Klarínettukvintett í h-moll op. 115",
             "Composer": {
               "Name": "Johannes Brahms"
             },

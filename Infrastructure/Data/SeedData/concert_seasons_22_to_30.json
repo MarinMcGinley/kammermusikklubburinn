@@ -715,7 +715,7 @@
             ]
           },
           {
-            "Title": "Píanókvartett nr. 1 c-moll op. 15",
+            "Title": "Píanókvartett nr.1 c-moll op. 15",
             "Composer": {
               "Name": "Gabriel Fauré"
             },
@@ -840,7 +840,7 @@
           {
             "Title": "Andante og stef með tilbrigðum F-dúr (fl, kl, hn, fg)",
             "Composer": {
-              "Name": "Gioacchino Rossini"
+              "Name": "Gioachino Rossini"
             },
             "GroupName": "Íslenski blásarakvintettinn",
             "Performers": [
@@ -871,7 +871,7 @@
             ]
           },
           {
-            "Title": "Trois pièces brèves f. blásarakvintett",
+            "Title": "Trois pièces brèves fyrir blásarakvintett",
             "Composer": {
               "Name": "Jacques Ibert"
             },
@@ -1029,7 +1029,7 @@
             ]
           },
           {
-            "Title": "Largo f. fiðlu, klarínettu og píanó",
+            "Title": "Largo fyrir fiðlu, klarínettu og píanó S.73",
             "Composer": {
               "Name": "Charles Ives"
             },
@@ -1077,9 +1077,9 @@
             ]
           },
           {
-            "Title": "Tríó (pn, kl, fi)",
+            "Title": "Tríó (kl, fi, pn)",
             "Composer": {
-              "Name": "Aram Katsjatúrían"
+              "Name": "Aram Khachaturian"
             },
             "GroupName": "",
             "Performers": [
@@ -1954,7 +1954,7 @@
             ]
           },
           {
-            "Title": "Píanótríó B-dúr op. 97 (Erkihertogatríóið)",
+            "Title": "Píanótríó í B-dúr op. 97 (Erkihertogatríóið)",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -2092,7 +2092,7 @@
         "Date": "1982-03-09",
         "Pieces": [
           {
-            "Title": "Strengjakvartett d-moll D. 810 (Dauðinn og stúlkan)",
+            "Title": "Strengjakvartett í d-moll (Dauðinn og stúlkan)",
             "Composer": {
               "Name": "Franz Schubert"
             },
@@ -2160,7 +2160,7 @@
           {
             "Title": "Strengjakvartett nr. 3 F-dúr op. 73",
             "Composer": {
-              "Name": "Dmítrí Sjostakovítsj"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "Sinnhoffer-kvartettinn",
             "Performers": [
@@ -2348,7 +2348,7 @@
           {
             "Title": "Píanótríó a-moll op. 50",
             "Composer": {
-              "Name": "Pjotr Tsjajkovskí"
+              "Name": "Pyotr Ilyich Tchaikovsky"
             },
             "GroupName": "",
             "Performers": [
@@ -3397,7 +3397,7 @@
             ]
           },
           {
-            "Title": "Flautusónata",
+            "Title": "Sónata fyrir flautu og píanó",
             "Composer": {
               "Name": "Francis Poulenc"
             },
@@ -3418,7 +3418,7 @@
             ]
           },
           {
-            "Title": "Kvintett Es-dúr op. 16",
+            "Title": "Kvintett Es-dúr op. 16 (pn, ób, kl, hn, fg)",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -3502,9 +3502,9 @@
             ]
           },
           {
-            "Title": "Strengjakvartett nr. 7 fis-moll op. 108",
+            "Title": "Strengjakvartett nr. 7 í fís-moll op. 108",
             "Composer": {
-              "Name": "Dmítrí Sjostakovítsj"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "",
             "Performers": [
@@ -3535,7 +3535,7 @@
             ]
           },
           {
-            "Title": "Klarínettukvintett h-moll op. 115",
+            "Title": "Klarínettukvintett í h-moll op. 115",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -3666,7 +3666,7 @@
           {
             "Title": "Strengjakvartett nr. 3 Es-dúr",
             "Composer": {
-              "Name": "Juan Crisóstomo de Arriaga"
+              "Name": "Juan Crisóstomo Arriaga"
             },
             "GroupName": "Sinnhoffer-kvartettinn",
             "Performers": [
@@ -3697,7 +3697,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett nr. 12 F-dúr op. 96 (Ameríski kvartettinn)",
+            "Title": "Strengjakvartett nr. 12 í F-dúr „Ameríski kvartettinn“",
             "Composer": {
               "Name": "Antonín Dvořák"
             },
@@ -3774,7 +3774,7 @@
         "Date": "1985-10-26",
         "Pieces": [
           {
-            "Title": "Svíta fyrir einleiksselló nr. 1 G-dúr BWV 1007",
+            "Title": "Svíta fyrir einleiksselló nr. 1 í G-dúr BWV 1007",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -3785,7 +3785,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 2 d-moll BWV 1008",
+            "Title": "Svíta fyrir einleiksselló nr. 2 í d-moll BWV 1008",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -3796,7 +3796,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 3 C-dúr BWV 1009",
+            "Title": "Svíta fyrir einleiksselló nr. 3 í C-dúr BWV 1009",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -3813,7 +3813,7 @@
         "Date": "1985-10-29",
         "Pieces": [
           {
-            "Title": "Svíta fyrir einleiksselló nr. 4 Es-dúr BWV 1010",
+            "Title": "Svíta fyrir einleiksselló nr. 4 í Es-dúr BWV 1010",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -3824,7 +3824,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 5 c-moll BWV 1011",
+            "Title": "Svíta fyrir einleiksselló nr. 5 í c-moll BWV 1011",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -3835,7 +3835,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 6 D-dúr BWV 1012",
+            "Title": "Svíta fyrir einleiksselló nr. 6 í D-dúr BWV 1012",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -3930,7 +3930,7 @@
             ]
           },
           {
-            "Title": "Strengjakvintett C-dúr D. 956",
+            "Title": "Sellókvintett í C-dúr D.956 (op. posth. 163)",
             "Composer": {
               "Name": "Franz Schubert"
             },
@@ -4097,7 +4097,7 @@
           {
             "Title": "Píanótríó nr. 2 e-moll op. 67",
             "Composer": {
-              "Name": "Dmítrí Sjostakovítsj"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "",
             "Performers": [
@@ -4122,7 +4122,7 @@
             ]
           },
           {
-            "Title": "Píanótríó nr. 1 H-dúr op. 8",
+            "Title": "Píanótríó nr. 1 í H-dúr op. 8",
             "Composer": {
               "Name": "Johannes Brahms"
             },

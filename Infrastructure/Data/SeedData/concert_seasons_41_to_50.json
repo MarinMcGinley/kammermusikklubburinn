@@ -136,7 +136,7 @@
             ]
           },
           {
-            "Title": "Sextett f. píanó og blásarakvintett",
+            "Title": "Sextett fyrir píanó og blásarakvintett",
             "Composer": {
               "Name": "Francis Poulenc"
             },
@@ -358,7 +358,7 @@
             ]
           },
           {
-            "Title": "Strengjakvintett C-dúr D. 956",
+            "Title": "Sellókvintett í C-dúr D.956 (op. posth. 163)",
             "Composer": {
               "Name": "Franz Schubert"
             },
@@ -589,7 +589,7 @@
             ]
           },
           {
-            "Title": "Klarínettukvintett h-moll op. 115",
+            "Title": "Klarínettukvintett í h-moll op. 115",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -843,7 +843,7 @@
         "Date": "1997-11-09",
         "Pieces": [
           {
-            "Title": "Contrasts (kl, fi, pn)",
+            "Title": "Contrasts",
             "Composer": {
               "Name": "Béla Bartók"
             },
@@ -1205,7 +1205,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett nr. 12 F-dúr op. 96 (Ameríski kvartettinn)",
+            "Title": "Strengjakvartett nr. 12 í F-dúr „Ameríski kvartettinn“",
             "Composer": {
               "Name": "Antonín Dvořák"
             },
@@ -1246,7 +1246,7 @@
           {
             "Title": "Strengjakvartett nr. 5 B-dúr op. 92",
             "Composer": {
-              "Name": "Dmítrí Sjostakovítsj"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "Camerarctica",
             "Performers": [
@@ -1507,7 +1507,7 @@
           {
             "Title": "Píanókvintett g-moll op. 57",
             "Composer": {
-              "Name": "Dmítrí Sjostakovítsj"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "",
             "Performers": [
@@ -1544,7 +1544,7 @@
             ]
           },
           {
-            "Title": "Strengjakvintett C-dúr D. 956",
+            "Title": "Sellókvintett í C-dúr D.956 (op. posth. 163)",
             "Composer": {
               "Name": "Franz Schubert"
             },
@@ -1918,7 +1918,7 @@
             ]
           },
           {
-            "Title": "Píanótríó B-dúr op. 97 (Erkihertogatríóið)",
+            "Title": "Píanótríó í B-dúr op. 97 (Erkihertogatríóið)",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -1953,7 +1953,7 @@
           {
             "Title": "Strengjakvartett nr. 1 d-moll",
             "Composer": {
-              "Name": "Juan Crisóstomo de Arriaga"
+              "Name": "Juan Crisóstomo Arriaga"
             },
             "GroupName": "",
             "Performers": [
@@ -2089,7 +2089,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett g-moll op. 10",
+            "Title": "Strengjakvartett í g-moll op. 10",
             "Composer": {
               "Name": "Claude Debussy"
             },
@@ -2163,7 +2163,7 @@
           {
             "Title": "Strengjakvartett nr. 9 Es-dúr op. 117",
             "Composer": {
-              "Name": "Dmítrí Sjostakovítsj"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "Camerarctica",
             "Performers": [
@@ -2291,7 +2291,7 @@
           {
             "Title": "Pianótríó nr. 1",
             "Composer": {
-              "Name": "Dmítrí Sjostakovítsj"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "",
             "Performers": [
@@ -2316,7 +2316,7 @@
             ]
           },
           {
-            "Title": "Svíta úr Sögu hermannsins (kl, fi, pn)",
+            "Title": "L´Histoire du Soldat",
             "Composer": {
               "Name": "Igor Stravinsky"
             },
@@ -2427,7 +2427,7 @@
             ]
           },
           {
-            "Title": "Tríósónata f. flautu, fiðlu og fylgibassa c-moll (úr Tónafórninni BWV 1079)",
+            "Title": "Tríósónata úr Tónafórninni fyfir flautu, fiðlu og fylgirödd, c-moll BWV 1079",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -2493,7 +2493,7 @@
             ]
           },
           {
-            "Title": "Píanókvartett nr. 1 g-moll op. 25",
+            "Title": "Píanókvartett nr. 1 í g-moll op. 25",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -2534,7 +2534,7 @@
           {
             "Title": "Strengjakvartett nr. 9 Es-dúr op. 117",
             "Composer": {
-              "Name": "Dmítrí Sjostakovítsj"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "Camerarctica",
             "Performers": [
@@ -2636,7 +2636,7 @@
             ]
           },
           {
-            "Title": "Strengjakvintett C-dúr D. 956",
+            "Title": "Sellókvintett í C-dúr D.956 (op. posth. 163)",
             "Composer": {
               "Name": "Franz Schubert"
             },
@@ -2704,7 +2704,7 @@
           {
             "Title": "Strengjakvartett nr. 10 As-dúr op. 118",
             "Composer": {
-              "Name": "Dmítrí Sjostakovítsj"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "Camerarctica",
             "Performers": [
@@ -3100,7 +3100,7 @@
         "Date": "2002-09-22",
         "Pieces": [
           {
-            "Title": "Strengjakvartett d-moll op. 56 (Voces intimae)",
+            "Title": "Strengjakvartett í d-moll op.56",
             "Composer": {
               "Name": "Jean Sibelius"
             },
@@ -3207,7 +3207,7 @@
           {
             "Title": "Strengjakvartett nr. 12 Des-dúr op. 133",
             "Composer": {
-              "Name": "Dmítrí Sjostakovítsj"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "Camerarctica",
             "Performers": [
@@ -3238,7 +3238,7 @@
             ]
           },
           {
-            "Title": "Klarínettukvintett h-moll op. 115",
+            "Title": "Klarínettukvintett í h-moll op. 115",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -3400,7 +3400,7 @@
         "Date": "2003-01-19",
         "Pieces": [
           {
-            "Title": "Strengjakvartett C-dúr op.76 nr. 3 (Keisarakvartettinn)",
+            "Title": "Strengjakvartett C-dúr op. 76 nr. 3 (Keisarakvartettinn)",
             "Composer": {
               "Name": "Joseph Haydn"
             },
@@ -3466,7 +3466,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett d-moll D. 810 (Dauðinn og stúlkan)",
+            "Title": "Strengjakvartett í d-moll (Dauðinn og stúlkan)",
             "Composer": {
               "Name": "Franz Schubert"
             },
@@ -3507,7 +3507,7 @@
           {
             "Title": "Píanókvintett g-moll op. 57",
             "Composer": {
-              "Name": "Dmítrí Sjostakovítsj"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "Tríó Reykjavíkur",
             "Performers": [
@@ -3918,9 +3918,9 @@
         "Date": "2004-01-25",
         "Pieces": [
           {
-            "Title": "Strengjakvartett nr. 8 c-moll op. 110",
+            "Title": "Strengjakvartett nr. 8 í c-moll op. 110",
             "Composer": {
-              "Name": "Dmítrí Sjostakovítsj"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "Camerarctica",
             "Performers": [
@@ -3953,7 +3953,7 @@
           {
             "Title": "Píanótríó a-moll op. 50",
             "Composer": {
-              "Name": "Pjotr Tsjajkovskí"
+              "Name": "Pyotr Ilyich Tchaikovsky"
             },
             "GroupName": "Camerarctica",
             "Performers": [
@@ -4253,7 +4253,7 @@
         "Date": "2004-10-24",
         "Pieces": [
           {
-            "Title": "Strengjakvartett nr. 12 F-dúr op. 96 (Ameríski kvartettinn)",
+            "Title": "Strengjakvartett nr. 12 í F-dúr „Ameríski kvartettinn“",
             "Composer": {
               "Name": "Antonín Dvořák"
             },
@@ -4360,7 +4360,7 @@
           {
             "Title": "Þættir I, V og VI úr Mensa sonora f. strengjakvartett og fylgibassa",
             "Composer": {
-              "Name": "Heinrich Ignaz Franz von Biber"
+              "Name": "Heinrich Ignaz Franz Biber"
             },
             "GroupName": "Camerarctica",
             "Performers": [
@@ -4397,9 +4397,9 @@
             ]
           },
           {
-            "Title": "Strengjakvartett nr. 7 fis-moll op. 108",
+            "Title": "Strengjakvartett nr. 7 í fís-moll op. 108",
             "Composer": {
-              "Name": "Dmítrí Sjostakovítsj"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "Camerarctica",
             "Performers": [
@@ -4432,7 +4432,7 @@
           {
             "Title": "Strengjakvartett nr. 13 b-moll op. 138",
             "Composer": {
-              "Name": "Dmítrí Sjostakovítsj"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "Camerarctica",
             "Performers": [
@@ -4586,7 +4586,7 @@
         "Date": "2005-02-20",
         "Pieces": [
           {
-            "Title": "Píanótríó B-dúr op. 97 (Erkihertogatríóið)",
+            "Title": "Píanótríó í B-dúr op. 97 (Erkihertogatríóið)",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -4615,7 +4615,7 @@
           {
             "Title": "Píanótríó nr. 2 e-moll op. 67",
             "Composer": {
-              "Name": "Dmítrí Sjostakovítsj"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "Tríó Reykjavíkur",
             "Performers": [
@@ -4651,7 +4651,7 @@
         "Date": "2005-09-18",
         "Pieces": [
           {
-            "Title": "Strengjakvintett C-dúr D. 956",
+            "Title": "Sellókvintett í C-dúr D.956 (op. posth. 163)",
             "Composer": { "Name": "Franz Schubert" },
             "GroupName": "",
             "Performers": [
@@ -4690,7 +4690,7 @@
             ]
           },
           {
-            "Title": "Strengjakvintett Es-dúr op. 97",
+            "Title": "Strengjakvintett í Es-dúr B180 (op. 97)",
             "Composer": { "Name": "Antonín Dvořák" },
             "GroupName": "",
             "Performers": [
@@ -4947,7 +4947,7 @@
           },
           {
             "Title": "Strengjakvartett nr. 2 A-dúr op. 68",
-            "Composer": { "Name": "Dmítrí Sjostakovítsj" },
+            "Composer": { "Name": "Dmitri Dmitriyevich Shostakovich" },
             "GroupName": "Camerarctica",
             "Performers": [
               {

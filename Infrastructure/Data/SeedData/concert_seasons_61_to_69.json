@@ -111,7 +111,7 @@
         "Date": "2016-10-23",
         "Pieces": [
           {
-            "Title": "Píanótríó í g-moll B 104 (op. 15)",
+            "Title": "Píanótríó í g-moll op. 15",
             "Composer": { "Name": "Bedřich Smetana" },
             "GroupName": "",
             "Performers": [
@@ -128,7 +128,7 @@
           },
           {
             "Title": "Píanótríó í a-moll op. 50",
-            "Composer": { "Name": "Pjotr Tchaikovsky" },
+            "Composer": { "Name": "Pyotr Ilyich Tchaikovsky" },
             "GroupName": "",
             "Performers": [
               {
@@ -260,7 +260,7 @@
         "Pieces": [
           {
             "Title": "Strengjakvintett nr. 1 í B-dúr, K.174",
-            "Composer": { "Name": "W.A. Mozart" },
+            "Composer": { "Name": "Wolfgang Amadeus Mozart" },
             "GroupName": "Auryn-quartett",
             "Performers": [
               {
@@ -278,7 +278,7 @@
           },
           {
             "Title": "Strengjakvintett nr. 5 í D-dúr, K.593",
-            "Composer": { "Name": "W.A. Mozart" },
+            "Composer": { "Name": "Wolfgang Amadeus Mozart" },
             "GroupName": "Auryn-quartett",
             "Performers": [
               {
@@ -296,7 +296,7 @@
           },
           {
             "Title": "Strengjakvintett nr. 3 í g-moll, K.516",
-            "Composer": { "Name": "W.A. Mozart" },
+            "Composer": { "Name": "Wolfgang Amadeus Mozart" },
             "GroupName": "Auryn-quartett",
             "Performers": [
               {
@@ -320,7 +320,7 @@
         "Pieces": [
           {
             "Title": "Strengjakvintett nr. 4 í c-moll, K.406 (516b)",
-            "Composer": { "Name": "W.A. Mozart" },
+            "Composer": { "Name": "Wolfgang Amadeus Mozart" },
             "GroupName": "Auryn-quartett",
             "Performers": [
               {
@@ -338,7 +338,7 @@
           },
           {
             "Title": "Strengjakvintett nr. 6 í Es-dúr, K.614",
-            "Composer": { "Name": "W.A. Mozart" },
+            "Composer": { "Name": "Wolfgang Amadeus Mozart" },
             "GroupName": "Auryn-quartett",
             "Performers": [
               {
@@ -356,7 +356,7 @@
           },
           {
             "Title": "Strengjakvintett nr. 2 í C-dúr, K.515",
-            "Composer": { "Name": "W.A. Mozart" },
+            "Composer": { "Name": "Wolfgang Amadeus Mozart" },
             "GroupName": "Auryn-quartett",
             "Performers": [
               {
@@ -525,7 +525,7 @@
         "Pieces": [
           {
             "Title": "Grande Sérénade en Potpourri í G-dúr op. 63",
-            "Composer": { "Name": "J. N. Hummel" },
+            "Composer": { "Name": "Johann Nepomuk Hummel" },
             "GroupName": "",
             "Performers": [
               {
@@ -586,7 +586,7 @@
           },
           {
             "Title": "Grande Sérénade en Potpourri í C-dúr op. 66",
-            "Composer": { "Name": "J. N. Hummel" },
+            "Composer": { "Name": "Johann Nepomuk Hummel" },
             "GroupName": "",
             "Performers": [
               {
@@ -642,7 +642,7 @@
           },
           {
             "Title": "Strengjakvartett nr. 7 í fís-moll op. 108",
-            "Composer": { "Name": "D. Shostakovich" },
+            "Composer": { "Name": "Dmitri Dmitriyevich Shostakovich" },
             "GroupName": "Strokkvartettinn Siggi",
             "Performers": [
               {
@@ -788,7 +788,7 @@
           },
           {
             "Title": "Píanótríó nr. 2 í e-moll op. 67",
-            "Composer": { "Name": "D. Shostakovich" },
+            "Composer": { "Name": "Dmitri Dmitriyevich Shostakovich" },
             "GroupName": "",
             "Performers": [
               {
@@ -827,7 +827,7 @@
           },
           {
             "Title": "Serenade (Serenata) fyrir 2 fiðlur og víólu op. 12",
-            "Composer": { "Name": "Zoltan Kodaly" },
+            "Composer": { "Name": "Zoltán Kodály" },
             "GroupName": "",
             "Performers": [
               { "Name": "Anton Miller", "Instrument": { "Name": "fiðla" } },
@@ -867,7 +867,7 @@
         "Pieces": [
           {
             "Title": "Tríó í G-dúr fyrir flautu, selló og píanó Hob. XV: 15",
-            "Composer": { "Name": "J. Haydn" },
+            "Composer": { "Name": "Franz Joseph Haydn" },
             "GroupName": "",
             "Performers": [
               {
@@ -924,7 +924,7 @@
           },
           {
             "Title": "Tríó fyrir flautu, selló og píanó op. 78",
-            "Composer": { "Name": "J. N. Hummel" },
+            "Composer": { "Name": "Johann Nepomuk Hummel" },
             "GroupName": "",
             "Performers": [
               {
@@ -998,7 +998,7 @@
         "Pieces": [
           {
             "Title": "Arían 'L'amero, saro costante' úr Il re pastore",
-            "Composer": { "Name": "W. A. Mozart" },
+            "Composer": { "Name": "Wolfgang Amadeus Mozart" },
             "GroupName": "",
             "Performers": [
               {
@@ -1054,7 +1054,7 @@
           },
           {
             "Title": "Úts. á skoskum þjóðlögum fyrir sópran og píanótríó",
-            "Composer": { "Name": "L. v. Beethoven" },
+            "Composer": { "Name": "Ludwig van Beethoven" },
             "GroupName": "",
             "Performers": [
               {
@@ -1077,7 +1077,7 @@
         "Pieces": [
           {
             "Title": "Sónata fyrir 2 fiðlur í C-dúr op. 56",
-            "Composer": { "Name": "Sergei Prokofieff" },
+            "Composer": { "Name": "Sergei Prokofiev" },
             "GroupName": "",
             "Performers": [
               {
@@ -1115,7 +1115,7 @@
           },
           {
             "Title": "Tilbrigði við „Eldgamla Ísafold“ op. 38",
-            "Composer": { "Name": "A.-F. Servais" },
+            "Composer": { "Name": "Adrien-François Servais" },
             "GroupName": "",
             "Performers": [
               {
@@ -1223,7 +1223,7 @@
         "Pieces": [
           {
             "Title": "Divertimento í F-dúr, K 138",
-            "Composer": { "Name": "W. A. Mozart" },
+            "Composer": { "Name": "Wolfgang Amadeus Mozart" },
             "GroupName": "Strokkvartettinn Siggi",
             "Performers": [
               {
@@ -1246,7 +1246,7 @@
           },
           {
             "Title": "Langsamer Satz í Es-dúr",
-            "Composer": { "Name": "A. Webern" },
+            "Composer": { "Name": "Anton Webern" },
             "GroupName": "Strokkvartettinn Siggi",
             "Performers": [
               {
@@ -1269,7 +1269,7 @@
           },
           {
             "Title": "Three Pieces for String Quartet",
-            "Composer": { "Name": "I. Stravinsky" },
+            "Composer": { "Name": "Igor Stravinsky" },
             "GroupName": "Strokkvartettinn Siggi",
             "Performers": [
               {
@@ -1292,7 +1292,7 @@
           },
           {
             "Title": "Strengjakvartett nr. 13 í B-dúr op. 130",
-            "Composer": { "Name": "L. v. Beethoven" },
+            "Composer": { "Name": "Ludwig van Beethoven" },
             "GroupName": "Strokkvartettinn Siggi",
             "Performers": [
               {
@@ -1463,7 +1463,7 @@
           },
           {
             "Title": "Klarínettutríó í Es-dúr K 498 (Kegelstatt)",
-            "Composer": { "Name": "W. A. Mozart" },
+            "Composer": { "Name": "Wolfgang Amadeus Mozart" },
             "GroupName": "",
             "Performers": [
               {
@@ -1554,7 +1554,7 @@
           },
           {
             "Title": "Trio élégiaque nr. 2 í d-moll op. 9",
-            "Composer": { "Name": "Sergei Rakhmaninov" },
+            "Composer": { "Name": "Sergei Rachmaninoff" },
             "GroupName": "",
             "Performers": [
               { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
@@ -1576,7 +1576,7 @@
         "Pieces": [
           {
             "Title": "Strengjakvartett í c-moll op. 18 nr. 4",
-            "Composer": { "Name": "L. v. Beethoven" },
+            "Composer": { "Name": "Ludwig van Beethoven" },
             "GroupName": "Strokkvartettinn Siggi",
             "Performers": [
               {
@@ -1645,7 +1645,7 @@
           },
           {
             "Title": "Strengjakvartett í f-moll op. 95 \"Serioso\"",
-            "Composer": { "Name": "L. v. Beethoven" },
+            "Composer": { "Name": "Ludwig van Beethoven" },
             "GroupName": "Strokkvartettinn Siggi",
             "Performers": [
               {
@@ -1845,8 +1845,8 @@
         "Date": "2021-03-07",
         "Pieces": [
           {
-            "Title": "Píanótríó í B-dúr op. 97 „Erkihertogatríóið“",
-            "Composer": { "Name": "L. v. Beethoven" },
+            "Title": "Píanótríó í B-dúr op. 97 (Erkihertogatríóið)",
+            "Composer": { "Name": "Ludwig van Beethoven" },
             "GroupName": "",
             "Performers": [
               {
@@ -1964,7 +1964,7 @@
         "Date": "2021-03-21",
         "Pieces": [
           {
-            "Title": "Píanótríó í d-moll op. 49",
+            "Title": "PíanóPíanótríó nr. 1 d-moll op. 49",
             "Composer": { "Name": "Felix Mendelssohn" },
             "GroupName": "",
             "Performers": [
@@ -2325,7 +2325,7 @@
           },
           {
             "Title": "Serenada í D-dúr op. 8",
-            "Composer": { "Name": "L. v. Beethoven" },
+            "Composer": { "Name": "Ludwig van Beethoven" },
             "GroupName": "Ssens-tríóið",
             "Performers": [
               {
@@ -2350,7 +2350,7 @@
         "Pieces": [
           {
             "Title": "Píanótríó í Es-dúr op. 1 nr. 1",
-            "Composer": { "Name": "L. v. Beethoven" },
+            "Composer": { "Name": "Ludwig van Beethoven" },
             "GroupName": "Camerarctica",
             "Performers": [
               {
@@ -2369,7 +2369,7 @@
           },
           {
             "Title": "Píanótríó í G-dúr op. 1 nr. 2",
-            "Composer": { "Name": "L. v. Beethoven" },
+            "Composer": { "Name": "Ludwig van Beethoven" },
             "GroupName": "Camerarctica",
             "Performers": [
               {
@@ -2500,7 +2500,7 @@
         "Pieces": [
           {
             "Title": "Strengjakvintett í A-dúr op. 47b \"Kreutzer\" (umritun á Kreutzer-sónötunni)",
-            "Composer": { "Name": "L. v. Beethoven" },
+            "Composer": { "Name": "Ludwig van Beethoven" },
             "GroupName": "",
             "Performers": [
               { "Name": "Páll Palomares", "Instrument": { "Name": "fiðla" } },
@@ -2624,7 +2624,7 @@
           },
           {
             "Title": "Tilbrigði um dúettinn „Bei Männern welche Liebe fühlen“ úr Töfraflautunni eftir Mozart í Es-dúr WoO 46",
-            "Composer": { "Name": "L. v. Beethoven" },
+            "Composer": { "Name": "Ludwig van Beethoven" },
             "GroupName": "",
             "Performers": [
               {
@@ -2654,7 +2654,7 @@
           },
           {
             "Title": "Vocalise op. 34",
-            "Composer": { "Name": "Sergei Rakhmaninov" },
+            "Composer": { "Name": "Sergei Rachmaninoff" },
             "GroupName": "",
             "Performers": [
               {
@@ -2689,7 +2689,7 @@
         "Date": "2023-01-15",
         "Pieces": [
           {
-            "Title": "Kvartett nr. 1 „Kreutzer Sonata“",
+            "Title": "Strengjakvartett nr. 1 (Kreutzersónatan)",
             "Composer": { "Name": "Leoš Janáček" },
             "GroupName": "KORDO-kvartettinn",
             "Performers": [
@@ -2723,7 +2723,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett nr. 12 „Ameríski kvartettinn“",
+            "Title": "Strengjakvartett nr. 12 í F-dúr „Ameríski kvartettinn““",
             "Composer": { "Name": "Antonín Dvořák" },
             "GroupName": "KORDO-kvartettinn",
             "Performers": [
@@ -2747,7 +2747,7 @@
         "Pieces": [
           {
             "Title": "Strengjakvartett nr. 6 í B-dúr op. 18 nr. 6",
-            "Composer": { "Name": "L. v. Beethoven" },
+            "Composer": { "Name": "Ludwig van Beethoven" },
             "GroupName": "Strokkvartettinn SIGGI",
             "Performers": [
               {
@@ -2968,7 +2968,7 @@
             ]
           },
           {
-            "Title": "Sextett fyrir blásarakvintett og píanó",
+            "Title": "Sextett fyrir píanó og blásarakvintett",
             "Composer": { "Name": "Francis Poulenc" },
             "GroupName": "",
             "Performers": [
@@ -3003,7 +3003,7 @@
         "Pieces": [
           {
             "Title": "Strengjakvartett í F-dúr op. 18 nr. 1",
-            "Composer": { "Name": "L. v. Beethoven" },
+            "Composer": { "Name": "Ludwig van Beethoven" },
             "GroupName": "Strokkvartettinn SIGGI",
             "Performers": [
               {
@@ -3317,7 +3317,7 @@
           },
           {
             "Title": "Tríó í Es-dúr op. 3",
-            "Composer": { "Name": "L. v. Beethoven" },
+            "Composer": { "Name": "Ludwig van Beethoven" },
             "GroupName": "Ssens-tríóið",
             "Performers": [
               {
@@ -3342,7 +3342,7 @@
         "Pieces": [
           {
             "Title": "Ganz kleine Nachtmusik (frumflutningur á Íslandi)",
-            "Composer": { "Name": "W. A. Mozart" },
+            "Composer": { "Name": "Wolfgang Amadeus Mozart" },
             "GroupName": "",
             "Performers": [
               {
@@ -3369,7 +3369,7 @@
             ]
           },
           {
-            "Title": "Verklärte Nacht",
+            "Title": "Verklärte Nacht, sextett op. 4",
             "Composer": { "Name": "Arnold Schönberg" },
             "GroupName": "",
             "Performers": [
@@ -3398,7 +3398,7 @@
           },
           {
             "Title": "Souvenir de Florence",
-            "Composer": { "Name": "Pjotr Tchaikovsky" },
+            "Composer": { "Name": "Pyotr Ilyich Tchaikovsky" },
             "GroupName": "",
             "Performers": [
               {
@@ -3432,7 +3432,7 @@
         "Pieces": [
           {
             "Title": "Píanókvartett nr. 1 í g-moll K.478",
-            "Composer": { "Name": "W. A. Mozart" },
+            "Composer": { "Name": "Wolfgang Amadeus Mozart" },
             "GroupName": "",
             "Performers": [
               {
@@ -3484,7 +3484,7 @@
         "Pieces": [
           {
             "Title": "Píanókvartett í Es-dúr K. 493",
-            "Composer": { "Name": "W. A. Mozart" },
+            "Composer": { "Name": "Wolfgang Amadeus Mozart" },
             "GroupName": "",
             "Performers": [
               {
@@ -3616,8 +3616,8 @@
         "Date": "2025-03-09",
         "Pieces": [
           {
-            "Title": "Strengjakvartett nr. 10 í Es-dúr op. 74 \"Hörpukvartett\"",
-            "Composer": { "Name": "L. v. Beethoven" },
+            "Title": "Strengjakvartett Es-dúr op. 74 (Hörpukvartettinn)",
+            "Composer": { "Name": "Ludwig van Beethoven" },
             "GroupName": "Strokkvartettinn SIGGI",
             "Performers": [
               {
@@ -3686,7 +3686,7 @@
           },
           {
             "Title": "Strengjakvartett nr. 8 í c-moll op. 110",
-            "Composer": { "Name": "Dmitri Shostakovich" },
+            "Composer": { "Name": "Dmitri Dmitriyevich Shostakovich" },
             "GroupName": "Strokkvartettinn SIGGI",
             "Performers": [
               {

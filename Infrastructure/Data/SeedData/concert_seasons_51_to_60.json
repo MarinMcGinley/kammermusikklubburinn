@@ -36,7 +36,7 @@
           {
             "Title": "Tríó í e-moll, op. 67, f. fiðlu, selló og píanó",
             "Composer": {
-              "Name": "Dmitri Shostakovich"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "Tríó Nordica",
             "Performers": [
@@ -302,7 +302,7 @@
           {
             "Title": "Strengjakvartett nr. 4 í D-dúr, op.83",
             "Composer": {
-              "Name": "Dmitri Shostakovich"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "Camerarctica",
             "Performers": [
@@ -467,7 +467,7 @@
           {
             "Title": "Sónata op. 40, f. selló og píanó",
             "Composer": {
-              "Name": "Dmitri Shostakovich"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "",
             "Performers": [
@@ -670,7 +670,7 @@
           {
             "Title": "Strengjakvartett nr. 6 í G-dúr, op.101",
             "Composer": {
-              "Name": "Dmitri Shostakovich"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "Camerarctica",
             "Performers": [
@@ -841,7 +841,7 @@
           {
             "Title": "Trio élégiaque í g-moll",
             "Composer": {
-              "Name": "S. Rachmaninoff"
+              "Name": "Sergei Rachmaninoff"
             },
             "GroupName": "",
             "Performers": [
@@ -878,7 +878,7 @@
             ]
           },
           {
-            "Title": "Píanótríó í g-moll, op. 15",
+            "Title": "Píanótríó í g-moll op. 15",
             "Composer": {
               "Name": "Bedřich Smetana"
             },
@@ -919,7 +919,7 @@
           {
             "Title": "Píanókvintett í g-moll op. 30",
             "Composer": {
-              "Name": "S. I. Taneyev"
+              "Name": "Sergei Taneyev"
             },
             "GroupName": "",
             "Performers": [
@@ -1177,7 +1177,7 @@
           {
             "Title": "15 Talnabandssónötur og Passacaglia",
             "Composer": {
-              "Name": "H. I. F. von Biber"
+              "Name": "Heinrich Ignaz Franz Biber"
             },
             "GroupName": "Biber-tríóið",
             "Performers": [
@@ -1267,7 +1267,7 @@
             ]
           },
           {
-            "Title": "Píanótríó í B-dúr op. 97 (Erkihertogtríóið)",
+            "Title": "Píanótríó í B-dúr op. 97 (Erkihertogatríóið)",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -1368,7 +1368,7 @@
           {
             "Title": "Strengjakvartett nr. 14, Fís-dúr op 142",
             "Composer": {
-              "Name": "Dmitri Shostakovich"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "Camerarctica",
             "Performers": [
@@ -1407,7 +1407,7 @@
           {
             "Title": "Kvintett í e-moll fyrir gítar og strengi",
             "Composer": {
-              "Name": "L. Boccherini"
+              "Name": "Luigi Boccherini"
             },
             "GroupName": "",
             "Performers": [
@@ -1494,7 +1494,7 @@
           {
             "Title": "Cordoba (úr Chants d'Espagne), úts. fyrir víólu og gítar",
             "Composer": {
-              "Name": "I. Albéniz"
+              "Name": "Isaac Albéniz"
             },
             "GroupName": "",
             "Performers": [
@@ -1578,7 +1578,7 @@
           {
             "Title": "Píanótríó í D-dúr op. 22",
             "Composer": {
-              "Name": "S. Taneyev"
+              "Name": "Sergei Taneyev"
             },
             "GroupName": "Tríó Nordica",
             "Performers": [
@@ -1702,7 +1702,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett í e-moll op. 44,2",
+            "Title": "Strengjakvartett nr. 4 í e-moll op. 44 nr. 2",
             "Composer": {
               "Name": "Felix Mendelssohn"
             },
@@ -1830,7 +1830,7 @@
             ]
           },
           {
-            "Title": "Tríó í d-moll op. 49",
+            "Title": "Píanótríó nr. 1 d-moll op. 49",
             "Composer": {
               "Name": "Felix Mendelssohn"
             },
@@ -1863,7 +1863,7 @@
         "Date": "2009-10-18",
         "Pieces": [
           {
-            "Title": "Strengjakvartett, G-dúr Hob III:81 (op. 77 nr. 1) (1799)",
+            "Title": "Strengjakvartett G-dúr op. 77 nr. 1",
             "Composer": {
               "Name": "Joseph Haydn"
             },
@@ -2015,7 +2015,7 @@
           {
             "Title": "Strengjakvartett nr. 11 op.122",
             "Composer": {
-              "Name": "Dmitri Shostakovich"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "Camerarctica",
             "Performers": [
@@ -2268,7 +2268,7 @@
             ]
           },
           {
-            "Title": "Trois piéces bréves",
+            "Title": "Trois pièces brèves fyrir blásarakvintetts",
             "Composer": {
               "Name": "Jacques Ibert"
             },
@@ -2468,7 +2468,7 @@
             ]
           },
           {
-            "Title": "Píanótríó nr. 3 í c-moll, op. 101",
+            "Title": "Píanótríó nr. 3 í c-moll op. 101",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -2501,7 +2501,7 @@
         "Date": "2010-10-17",
         "Pieces": [
           {
-            "Title": "Sónata I í F-dúr fyrir tvö óbó, fagott og basso continuo",
+            "Title": "Sónata nr. 1 í F-dúr fyrir tvö óbó, fagott og basso continuo",
             "Composer": {
               "Name": "Jan Dismas Zelenka"
             },
@@ -2534,7 +2534,7 @@
             ]
           },
           {
-            "Title": "Sónata VI í c-moll fyrir tvö óbó, fagott og basso continuo",
+            "Title": "Sónata nr. 6 í c-moll fyrir tvö óbó, fagott og basso continuo",
             "Composer": {
               "Name": "Jan Dismas Zelenka"
             },
@@ -2722,7 +2722,7 @@
           {
             "Title": "La belle jardniére",
             "Composer": {
-              "Name": "Jónas Tómasson (1946 )"
+              "Name": "Jónas Tómasson"
             },
             "GroupName": "Sírajón",
             "Performers": [
@@ -2774,7 +2774,7 @@
             ]
           },
           {
-            "Title": "L´Histoire du Soldat - Suite",
+            "Title": "L´Histoire du Soldat",
             "Composer": {
               "Name": "Igor Stravinsky"
             },
@@ -2807,7 +2807,7 @@
         "Date": "2011-02-20",
         "Pieces": [
           {
-            "Title": "Strengja-oktett Es-dúr op. 20 (1825)",
+            "Title": "Oktett fyrir strengi í Es-dúr op. 20",
             "Composer": { "Name": "Felix Mendelssohn" },
             "GroupName": "",
             "Performers": [
@@ -2896,7 +2896,7 @@
         "Date": "2011-09-25",
         "Pieces": [
           {
-            "Title": "Verklaerte Nacht, sextett op. 4",
+            "Title": "Verklärte Nacht, sextett op. 4,
             "Composer": {
               "Name": "Arnold Schönberg"
             },
@@ -2994,7 +2994,7 @@
           {
             "Title": "Píanótríó no.1, í c-moll op.8",
             "Composer": {
-              "Name": "Dmitri Shostakovich"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "Trio Nordica",
             "Performers": [
@@ -3046,7 +3046,7 @@
             ]
           },
           {
-            "Title": "Píanótríó no.1, í H-dúr op.8",
+            "Title": "Píanótríó nr. 1 í H-dúr op. 8",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -3291,7 +3291,7 @@
           {
             "Title": "Þrjá aríur úr Níu þýskum aríum fyrir sópran, fiðlu/óbó og fylgirödd:",
             "Composer": {
-              "Name": "Georg Friedrich Handel"
+              "Name": "Georg Friedrich Händel"
             },
             "GroupName": "Camerarctica",
             "Performers": [
@@ -3324,7 +3324,7 @@
           {
             "Title": "Strengjakvartett nr. 4",
             "Composer": {
-              "Name": "Bela Bartók"
+              "Name": "Béla Bartók"
             },
             "GroupName": "Camerarctica",
             "Performers": [
@@ -3407,7 +3407,7 @@
           {
             "Title": "Svíta fyrir fiðlu og kontrabassa",
             "Composer": {
-              "Name": "R. Glière"
+              "Name": "Reinhold Glière"
             },
             "GroupName": "",
             "Performers": [
@@ -3428,7 +3428,7 @@
           {
             "Title": "Kvintett í c-moll",
             "Composer": {
-              "Name": "R. Vaughan-Williams"
+              "Name": "Ralph Vaughan Williams"
             },
             "GroupName": "",
             "Performers": [
@@ -3940,7 +3940,7 @@
           {
             "Title": "Strengjakvartett nr. 2 í A-dúr",
             "Composer": {
-              "Name": "J.C. Arriaga"
+              "Name": "Juan Crisóstomo Arriaga"
             },
             "GroupName": "",
             "Performers": [
@@ -3971,7 +3971,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett nr. 1 í c-moll op. 51,1",
+            "Title": "Strengjakvartett nr. 1 c-moll op. 51",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -4012,9 +4012,9 @@
           {
             "Title": "Tríósónata fyrir fiðlu, flautu og fylgirödd í F-dúr TWV 42:f8",
             "Composer": {
-              "Name": "F-dúr TWV 42"
+              "Name": "Georg Philipp Telemann"
             },
-            "GroupName": "G.P. Telemann",
+            "GroupName": "Camerarctica",
             "Performers": [
               {
                 "Name": "Hallfríður Ólafsdóttir",
@@ -4100,7 +4100,7 @@
             ]
           },
           {
-            "Title": "Klarinettukvartett í Es-dúr WoO 5",
+            "Title": "Klarínettukvartett Es-dúr",
             "Composer": {
               "Name": "Johann Nepomuk Hummel"
             },
@@ -4192,7 +4192,7 @@
           {
             "Title": "Svíta fyrir einleiksselló nr. 1 í G-dúr BWV 1007",
             "Composer": {
-              "Name": "J.S. Bach"
+              "Name": "Johann Sebastian Bach"
             },
             "GroupName": "",
             "Performers": [
@@ -4205,7 +4205,7 @@
           {
             "Title": "Svíta fyrir einleiksselló nr. 2 í d-moll BWV 1008",
             "Composer": {
-              "Name": "J.S. Bach"
+              "Name": "Johann Sebastian Bach"
             },
             "GroupName": "",
             "Performers": [
@@ -4218,7 +4218,7 @@
           {
             "Title": "Svíta fyrir einleiksselló nr. 6 í D-dúr BWV 1012",
             "Composer": {
-              "Name": "J.S. Bach"
+              "Name": "Johann Sebastian Bach"
             },
             "GroupName": "",
             "Performers": [
@@ -4253,7 +4253,7 @@
             ]
           },
           {
-            "Title": "Kvintett fyrir óbó, klarinettu, horn, fagott og píanó í Es-dúr op. 16",
+            "Title": "Kvintett Es-dúr op. 16 (pn, ób, kl, hn, fg)",
             "Composer": { "Name": "Ludwig van Beethoven" },
             "GroupName": "Blásarakvintett Reykjavíkur",
             "Performers": [
@@ -4297,7 +4297,7 @@
             ]
           },
           {
-            "Title": "Sextett fyrir píanó, flautu, óbó, klarinettu, horn og fagott í C-dúr FP 100",
+            "Title": "Sextett fyrir píanó og blásarakvintett",
             "Composer": { "Name": "Francis Poulenc" },
             "GroupName": "Blásarakvintett Reykjavíkur",
             "Performers": [
@@ -4945,7 +4945,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett í g-moll op.10 (1862-1918)",
+            "Title": "Strengjakvartett í g-moll op. 10",
             "Composer": {
               "Name": "Claude Debussy"
             },
@@ -5147,7 +5147,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett nr. 6 BB 119 (Sz 114) (1939)",
+            "Title": "Strengjakvartett nr. 6",
             "Composer": { "Name": "Béla Bartók" },
             "GroupName": "Camerarctica",
             "Performers": [
@@ -5177,7 +5177,7 @@
         "Date": "2016-02-28",
         "Pieces": [
           {
-            "Title": "Píanókvartett í g-moll op.25",
+            "Title": "Píanókvartett nr. 1 í g-moll op. 25",
             "Composer": {
               "Name": "Johannes Brahms"
             },

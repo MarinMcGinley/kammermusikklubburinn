@@ -699,7 +699,7 @@
             ]
           },
           {
-            "Title": "Píanótríó B-dúr op. 97 (Erkihertogatríóið)",
+            "Title": "Píanótríó í B-dúr op. 97 (Erkihertogatríóið)",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -957,7 +957,7 @@
             ]
           },
           {
-            "Title": "Píanókvartett nr. 1 g-moll op. 25",
+            "Title": "Píanókvartett nr. 1 í g-moll op. 25",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -1057,7 +1057,7 @@
           {
             "Title": "Trio élégiaque d-moll op. 9",
             "Composer": {
-              "Name": "Sergei Rakmanínov"
+              "Name": "Sergei Rachmaninoff"
             },
             "GroupName": "Trio Fontenay",
             "Performers": [
@@ -1148,7 +1148,7 @@
             ]
           },
           {
-            "Title": "Klarínettukvintett B-dúr op. 34",
+            "Title": "Klarínettukvintett í B-dúr op. 34",
             "Composer": {
               "Name": "Carl Maria von Weber"
             },
@@ -1530,7 +1530,7 @@
           {
             "Title": "Strengjakvartett nr. 10 As-dúr op. 118",
             "Composer": {
-              "Name": "Dmítrí Sjostakovítsj"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "",
             "Performers": [
@@ -1723,9 +1723,9 @@
         "Date": "1990-02-25",
         "Pieces": [
           {
-            "Title": "Kvartett (fl, va, se, gt) D. AII/2 og D. 96",
+            "Title": "Kvartett (fl, va, se, gt) D. AII/2 og D. 96, (umr. á verki eftir W. Matiegka)",
             "Composer": {
-              "Name": "Franz Schubert (umr. á verki eftir W. Matiegka)"
+              "Name": "Franz Schubert"
             },
             "GroupName": "",
             "Performers": [
@@ -2229,7 +2229,7 @@
             ]
           },
           {
-            "Title": "Sónata f. flautu, víólu og hörpu",
+            "Title": "Sónata fyrir flautu, víólu og hörpu",
             "Composer": {
               "Name": "Claude Debussy"
             },
@@ -2804,7 +2804,7 @@
             ]
           },
           {
-            "Title": "Strengjakvintett C-dúr D. 956",
+            "Title": "Sellókvintett í C-dúr D.956 (op. posth. 163)",
             "Composer": {
               "Name": "Franz Schubert"
             },
@@ -2878,7 +2878,7 @@
           {
             "Title": "Trio élégiaque g-moll op. posth.",
             "Composer": {
-              "Name": "Sergei Rakmanínov"
+              "Name": "Sergei Rachmaninoff"
             },
             "GroupName": "Tríó Reykjavíkur",
             "Performers": [
@@ -2903,7 +2903,7 @@
             ]
           },
           {
-            "Title": "Píanótríó B-dúr op. 97 (Erkihertogatríóið)",
+            "Title": "Píanótríó í B-dúr op. 97 (Erkihertogatríóið)",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -2941,7 +2941,7 @@
         "Date": "1992-10-11",
         "Pieces": [
           {
-            "Title": "Klarínettukvintett B-dúr op. 34",
+            "Title": "Klarínettukvintett í B-dúr op. 34",
             "Composer": {
               "Name": "Carl Maria von Weber"
             },
@@ -3117,7 +3117,7 @@
           {
             "Title": "Strengjakvartett nr. 15 es-moll op. 144",
             "Composer": {
-              "Name": "Dmítrí Sjostakovítsj"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "Reykjavíkurkvartettinn",
             "Performers": [
@@ -3183,7 +3183,7 @@
           {
             "Title": "Píanótríó a-moll op. 50",
             "Composer": {
-              "Name": "Pjotr Tsjajkovskí"
+              "Name": "Pyotr Ilyich Tchaikovsky"
             },
             "GroupName": "Tríó Reykjavíkur",
             "Performers": [
@@ -3259,7 +3259,7 @@
             ]
           },
           {
-            "Title": "Píanókvartett nr. 1 c-moll op. 15",
+            "Title": "Píanókvartett nr.1 c-moll op. 15",
             "Composer": {
               "Name": "Gabriel Fauré"
             },
@@ -3921,7 +3921,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett d-moll D. 810 (Dauðinn og stúlkan)",
+            "Title": "Strengjakvartett í d-moll (Dauðinn og stúlkan)",
             "Composer": {
               "Name": "Franz Schubert"
             },
@@ -4004,7 +4004,7 @@
             ]
           },
           {
-            "Title": "Klarínettukvintett h-moll op. 115",
+            "Title": "Klarínettukvintett í h-moll op. 115",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -4129,7 +4129,7 @@
           {
             "Title": "Píanókvintett g-moll op. 57",
             "Composer": {
-              "Name": "Dmítrí Sjostakovítsj"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "",
             "Performers": [
@@ -4409,9 +4409,9 @@
             ]
           },
           {
-            "Title": "Strengjakvartett nr. 8 c-moll op. 110",
+            "Title": "Strengjakvartett nr. 8 í c-moll op. 110",
             "Composer": {
-              "Name": "Dmítrí Sjostakovítsj"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "Bernardel-kvartettinn",
             "Performers": [
@@ -4618,7 +4618,7 @@
             ]
           },
           {
-            "Title": "Píanótríó g-moll op. 15",
+            "Title": "Píanótríó í g-moll op. 15",
             "Composer": {
               "Name": "Bedřich Smetana"
             },
@@ -4810,9 +4810,9 @@
             ]
           },
           {
-            "Title": "Strengjakvartett nr. 7 fis-moll op. 108",
+            "Title": "Strengjakvartett nr. 7 í fís-moll op. 108",
             "Composer": {
-              "Name": "Dmítrí Sjostakovítsj"
+              "Name": "Dmitri Dmitriyevich Shostakovich"
             },
             "GroupName": "Bernardel-kvartettinn",
             "Performers": [
@@ -4911,7 +4911,7 @@
           {
             "Title": "Píanótríó a-moll op. 50",
             "Composer": {
-              "Name": "Pjotr Tsjajkovskí"
+              "Name": "Pyotr Ilyich Tchaikovsky"
             },
             "GroupName": "Trio Nordica",
             "Performers": [

@@ -13,6 +13,7 @@ public class ComposerSpecification : BaseSpecification<Composer>
         AddInclude("Pieces");
         ApplyPaging(specParams.PageSize * (specParams.PageIndex - 1), specParams.PageSize);
         AddOrderBy(x => x.Name);
+        // TODO: add order by Title for all pieces
     }
 
     public ComposerSpecification(int id) : base(x => x.Id == id)
