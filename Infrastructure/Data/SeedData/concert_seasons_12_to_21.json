@@ -7,7 +7,7 @@
         "Date": "1967-11-13",
         "Pieces": [
           {
-            "Title": "Svíta fyrir einleiksselló nr. 1 í G-dúr BWV 1007",
+            "Title": "Svíta fyrir einleiksselló nr. 1 G-dúr BWV 1007",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -18,7 +18,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 2 í d-moll BWV 1008",
+            "Title": "Svíta fyrir einleiksselló nr. 2 d-moll BWV 1008",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -29,7 +29,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 3 í C-dúr BWV 1009",
+            "Title": "Svíta fyrir einleiksselló nr. 3 C-dúr BWV 1009",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -46,7 +46,7 @@
         "Date": "1967-11-14",
         "Pieces": [
           {
-            "Title": "Svíta fyrir einleiksselló nr. 4 í Es-dúr BWV 1010",
+            "Title": "Svíta fyrir einleiksselló nr. 4 Es-dúr BWV 1010",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -57,7 +57,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 5 í c-moll BWV 1011",
+            "Title": "Svíta fyrir einleiksselló nr. 5 c-moll BWV 1011",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -68,7 +68,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 6 í D-dúr BWV 1012",
+            "Title": "Svíta fyrir einleiksselló nr. 6 D-dúr BWV 1012",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -85,7 +85,7 @@
         "Date": "1968-05-27",
         "Pieces": [
           {
-            "Title": "Strengjatríó (Divertimento) Es-dúr K. 563*",
+            "Title": "Strengjatríó (Divertimento) Es-dúr K. 563",
             "Composer": {
               "Name": "Wolfgang Amadeus Mozart"
             },
@@ -257,7 +257,7 @@
         "Date": "1968-11-15",
         "Pieces": [
           {
-            "Title": "Sónata f. flautu og fylgibassa G-dúr",
+            "Title": "Sónata fyrir flautu og fylgibassa G-dúr",
             "Composer": {
               "Name": "Carl Philipp Emanuel Bach"
             },
@@ -290,7 +290,7 @@
             ]
           },
           {
-            "Title": "Sónata f. selló og sembal a-moll",
+            "Title": "Sónata fyrir selló og sembal a-moll",
             "Composer": {
               "Name": "Antonio Vivaldi"
             },
@@ -311,7 +311,7 @@
             ]
           },
           {
-            "Title": "Tríósónata f. flautu, óbó og fylgibassa c-moll",
+            "Title": "Tríósónata fyrir flautu, óbó og fylgibassa c-moll",
             "Composer": {
               "Name": "Johann Joachim Quantz"
             },
@@ -605,7 +605,7 @@
         "Date": "1969-04-28",
         "Pieces": [
           {
-            "Title": "Kvintett Es-dúr K. 452 (pn, ób, kl, hn, fg)",
+            "Title": "Kvintett Es-dúr K. 452 (píanó, óbó, klarínetta, horn, fagott)",
             "Composer": {
               "Name": "Wolfgang Amadeus Mozart"
             },
@@ -847,7 +847,7 @@
             ]
           },
           {
-            "Title": "Svíta f. einleiksvíólu",
+            "Title": "Svíta fyrir einleiksvíólu",
             "Composer": {
               "Name": "Quincy Porter"
             },
@@ -1020,7 +1020,7 @@
         "Date": "1971-04-02",
         "Pieces": [
           {
-            "Title": "Dúó (sónata) f. fiðlu og píanó A-dúr D. 574",
+            "Title": "Dúó (sónata) fyrir fiðlu og píanó A-dúr D. 574",
             "Composer": {
               "Name": "Franz Schubert"
             },
@@ -1185,7 +1185,7 @@
             ]
           },
           {
-            "Title": "Sónata f. víólu og píanó",
+            "Title": "Sónata fyrir víólu og píanó",
             "Composer": {
               "Name": "Jón Þórarinsson"
             },
@@ -1366,7 +1366,7 @@
             ]
           },
           {
-            "Title": "Með gleðiraust og helgum hljóm f. selló og píanó (frumflutningur)",
+            "Title": "Með gleðiraust og helgum hljóm fyrir selló og píanó (frumflutningur)",
             "Composer": {
               "Name": "Hafliði Hallgrímsson"
             },
@@ -1387,7 +1387,7 @@
             ]
           },
           {
-            "Title": "Sónatína f. selló og píanó",
+            "Title": "Sónatína fyrir selló og píanó",
             "Composer": {
               "Name": "Zoltán Kodály"
             },
@@ -1408,7 +1408,7 @@
             ]
           },
           {
-            "Title": "Sónatína f. selló og píanó",
+            "Title": "Sónatína fyrir selló og píanó",
             "Composer": {
               "Name": "Nikos Skalkottas"
             },
@@ -1489,7 +1489,7 @@
             ]
           },
           {
-            "Title": "Brandenborgarkonsert nr. 5 D-dúr BWV 1050∞",
+            "Title": "Brandenborgarkonsert nr. 5 D-dúr BWV 1050",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -1528,7 +1528,7 @@
         "Date": "1973-04-18",
         "Pieces": [
           {
-            "Title": "Kvintett f. blásara",
+            "Title": "Kvintett fyrir blásara",
             "Composer": {
               "Name": "Jón Ásgeirsson"
             },
@@ -1567,7 +1567,7 @@
             ]
           },
           {
-            "Title": "Kvintett Es-dúr K. 452 (pn, ób, kl, hn, fg)",
+            "Title": "Kvintett Es-dúr K. 452 (píanó, óbó, klarínetta, horn, fagott)",
             "Composer": {
               "Name": "Wolfgang Amadeus Mozart"
             },
@@ -1788,7 +1788,7 @@
         "Date": "1973-09-29",
         "Pieces": [
           {
-            "Title": "Svíta fyrir einleiksselló nr. 1 í G-dúr BWV 1007",
+            "Title": "Svíta fyrir einleiksselló nr. 1 G-dúr BWV 1007",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -1799,7 +1799,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 2 í d-moll BWV 1008",
+            "Title": "Svíta fyrir einleiksselló nr. 2 d-moll BWV 1008",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -1810,7 +1810,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 3 í C-dúr BWV 1009",
+            "Title": "Svíta fyrir einleiksselló nr. 3 C-dúr BWV 1009",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -1827,7 +1827,7 @@
         "Date": "1973-09-30",
         "Pieces": [
           {
-            "Title": "Svíta fyrir einleiksselló nr. 4 í Es-dúr BWV 1010",
+            "Title": "Svíta fyrir einleiksselló nr. 4 Es-dúr BWV 1010",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -1838,7 +1838,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 5 í c-moll BWV 1011",
+            "Title": "Svíta fyrir einleiksselló nr. 5 c-moll BWV 1011",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -1849,7 +1849,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 6 í D-dúr BWV 1012",
+            "Title": "Svíta fyrir einleiksselló nr. 6 D-dúr BWV 1012",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -2141,7 +2141,7 @@
             ]
           },
           {
-            "Title": "Píanókvartett nr. 1 í g-moll op. 25",
+            "Title": "Píanókvartett nr. 1 g-moll op. 25",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -2180,7 +2180,7 @@
         "Date": "1974-11-24",
         "Pieces": [
           {
-            "Title": "Fagottkvartett B-dúr op.40",
+            "Title": "Fagottkvartett B-dúr op. 40",
             "Composer": {
               "Name": "Franz Danzi"
             },
@@ -2211,7 +2211,7 @@
                 }
               },
               {
-                "Name": "Ásdís Þorsteinsdóttir Stross",
+                "Name": "Ásdís Þ. Stross",
                 "Instrument": {
                   "Name": "fiðla"
                 }
@@ -2243,7 +2243,7 @@
             ]
           },
           {
-            "Title": "Klarínettukvintett í B-dúr op. 34",
+            "Title": "Klarínettukvintett B-dúr op. 34",
             "Composer": {
               "Name": "Carl Maria von Weber"
             },
@@ -2274,7 +2274,7 @@
                 }
               },
               {
-                "Name": "Ásdís Þorsteinsdóttir Stross",
+                "Name": "Ásdís Þ. Stross",
                 "Instrument": {
                   "Name": "fiðla"
                 }
@@ -2337,7 +2337,7 @@
                 }
               },
               {
-                "Name": "Ásdís Þorsteinsdóttir Stross",
+                "Name": "Ásdís Þ. Stross",
                 "Instrument": {
                   "Name": "fiðla"
                 }
@@ -2382,7 +2382,7 @@
                 }
               },
               {
-                "Name": "Ásdís Þorsteinsdóttir Stross",
+                "Name": "Ásdís Þ. Stross",
                 "Instrument": {
                   "Name": "fiðla"
                 }
@@ -2783,7 +2783,7 @@
             ]
           },
           {
-            "Title": "Tríó (pn, fl, se)",
+            "Title": "Tríó (fl, se, pn)",
             "Composer": {
               "Name": "Bohuslav Martinů"
             },
@@ -2992,7 +2992,7 @@
         "Date": "1975-11-16",
         "Pieces": [
           {
-            "Title": "Sónata f. flautu og fylgibassa E-dúr BWV 1035",
+            "Title": "Sónata fyrir flautu og fylgibassa E-dúr BWV 1035",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -3019,7 +3019,7 @@
             ]
           },
           {
-            "Title": "Partíta f. einleiksflautu a-moll BWV 1013",
+            "Title": "Partíta fyrir einleiksflautu a-moll BWV 1013",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -3034,7 +3034,7 @@
             ]
           },
           {
-            "Title": "Sónata f. flautu og fylgibassa e-moll BWV 1034",
+            "Title": "Sónata fyrir flautu og fylgibassa e-moll BWV 1034",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -3115,7 +3115,7 @@
             ]
           },
           {
-            "Title": "Tríó a-moll op. 114 (pn, kl, se)",
+            "Title": "Tríó a-moll, op. 114, fyrir klarínettu, selló og píanó",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -3148,7 +3148,7 @@
         "Date": "1976-02-19",
         "Pieces": [
           {
-            "Title": "Sónata f. flautu og fylgibassa C-dúr BWV 1033",
+            "Title": "Sónata fyrir flautu og fylgibassa C-dúr BWV 1033",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -3175,7 +3175,7 @@
             ]
           },
           {
-            "Title": "Sónata f. flautu og sembal Es-dúr BWV 1031",
+            "Title": "Sónata fyrir flautu og sembal Es-dúr BWV 1031",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -3196,7 +3196,7 @@
             ]
           },
           {
-            "Title": "Sónata f. flautu og sembal A-dúr BWV 1032",
+            "Title": "Sónata fyrir flautu og sembal A-dúr BWV 1032",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -3217,7 +3217,7 @@
             ]
           },
           {
-            "Title": "Sónata f. flautu og sembal h-moll BWV 1030",
+            "Title": "Sónata fyrir flautu og sembal h-moll BWV 1030",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -3240,7 +3240,7 @@
         ]
       },
       {
-        "Description": "Tónleikar á Listahátíð í Reykjavík",
+        "Description": "Tónleikar á Listahátíð Reykjavík",
         "Date": "1976-06-05",
         "Pieces": [
           {
@@ -3345,7 +3345,7 @@
         ]
       },
       {
-        "Description": "Tónleikar á Listahátíð í Reykjavík",
+        "Description": "Tónleikar á Listahátíð Reykjavík",
         "Date": "1976-06-07",
         "Pieces": [
           {
@@ -3459,7 +3459,7 @@
         "Date": "1976-10-17",
         "Pieces": [
           {
-            "Title": "Svíta fyrir einleiksselló nr. 1 í G-dúr BWV 1007",
+            "Title": "Svíta fyrir einleiksselló nr. 1 G-dúr BWV 1007",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -3470,7 +3470,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 2 í d-moll BWV 1008",
+            "Title": "Svíta fyrir einleiksselló nr. 2 d-moll BWV 1008",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -3481,7 +3481,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 3 í C-dúr BWV 1009",
+            "Title": "Svíta fyrir einleiksselló nr. 3 C-dúr BWV 1009",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -3498,7 +3498,7 @@
         "Date": "1976-10-19",
         "Pieces": [
           {
-            "Title": "Svíta fyrir einleiksselló nr. 4 í Es-dúr BWV 1010",
+            "Title": "Svíta fyrir einleiksselló nr. 4 Es-dúr BWV 1010",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -3509,7 +3509,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 5 í c-moll BWV 1011",
+            "Title": "Svíta fyrir einleiksselló nr. 5 c-moll BWV 1011",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -3520,7 +3520,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 6 í D-dúr BWV 1012",
+            "Title": "Svíta fyrir einleiksselló nr. 6 D-dúr BWV 1012",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -3537,7 +3537,7 @@
         "Date": "1977-03-29",
         "Pieces": [
           {
-            "Title": "Strengjakvartett F-dúr op. 135*",
+            "Title": "Strengjakvartett F-dúr op. 135",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -3642,7 +3642,7 @@
             ]
           },
           {
-            "Title": "Oktett fyrir strengi í Es-dúr op. 20",
+            "Title": "Oktett fyrir strengi Es-dúr op. 20",
             "Composer": {
               "Name": "Felix Mendelssohn"
             },
@@ -3744,7 +3744,7 @@
             ]
           },
           {
-            "Title": "Dúó f. fiðlu og selló op. 7",
+            "Title": "Dúó fyrir fiðlu og selló op. 7",
             "Composer": {
               "Name": "Zoltán Kodály"
             },
@@ -3765,7 +3765,7 @@
             ]
           },
           {
-            "Title": "Klarínettukvintett í h-moll op. 115",
+            "Title": "Klarínettukvintett h-moll op. 115",
             "Composer": {
               "Name": "Johannes Brahms"
             },

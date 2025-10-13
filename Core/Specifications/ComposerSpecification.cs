@@ -10,10 +10,9 @@ public class ComposerSpecification : BaseSpecification<Composer>
             string.IsNullOrWhiteSpace(specParams.Search) || x.Name.ToLower().Contains(specParams.Search)
         )
     {
-        AddInclude("Pieces");
+        AddInclude(x => x.Pieces.OrderBy(p => p.Title));
         ApplyPaging(specParams.PageSize * (specParams.PageIndex - 1), specParams.PageSize);
         AddOrderBy(x => x.Name);
-        // TODO: add order by Title for all pieces
     }
 
     public ComposerSpecification(int id) : base(x => x.Id == id)

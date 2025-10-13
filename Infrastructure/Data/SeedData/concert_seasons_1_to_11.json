@@ -7,7 +7,7 @@
         "Date": "1957-02-07",
         "Pieces": [
           {
-            "Title": "Píanótríó í B-dúr op. 97 (Erkihertogatríóið)",
+            "Title": "Píanótríó B-dúr op. 97 (Erkihertogatríóið)",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -46,7 +46,7 @@
             ]
           },
           {
-            "Title": "Píanókvintett A-dúr D. 667 (Silungskvintettinn)",
+            "Title": "Píanókvintett A-dúr D 667 (Silungskvintettinn)",
             "Composer": {
               "Name": "Franz Schubert"
             },
@@ -211,7 +211,7 @@
             ]
           },
           {
-            "Title": "Fantasiestücke op. 73 (kl, pn)",
+            "Title": "Fantasiestücke op. 73",
             "Composer": {
               "Name": "Robert Schumann"
             },
@@ -232,7 +232,7 @@
             ]
           },
           {
-            "Title": "Tríó a-moll op. 114 (pn, kl, se)",
+            "Title": "Tríó a-moll, op. 114, fyrir klarínettu, selló og píanó",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -390,7 +390,7 @@
         "Date": "1958-01-27",
         "Pieces": [
           {
-            "Title": "Sellókvintett í C-dúr D.956 (op. posth. 163)",
+            "Title": "Sellókvintett C-dúr D.956 (op. posth. 163)",
             "Composer": {
               "Name": "Franz Schubert"
             },
@@ -474,7 +474,7 @@
         "Date": "1958-03-03",
         "Pieces": [
           {
-            "Title": "Kvintett f. blásara",
+            "Title": "Kvintett fyrir blásara",
             "Composer": {
               "Name": "Joseph Haydn"
             },
@@ -732,7 +732,7 @@
         "Date": "1958-06-02",
         "Pieces": [
           {
-            "Title": "Svíta fyrir einleiksselló nr. 6 í D-dúr BWV 1012",
+            "Title": "Svíta fyrir einleiksselló nr. 6 D-dúr BWV 1012",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -747,7 +747,7 @@
             ]
           },
           {
-            "Title": "Sónata f. einleiksselló op. 8",
+            "Title": "Sónata fyrir einleiksselló op. 8",
             "Composer": {
               "Name": "Zoltán Kodály"
             },
@@ -773,7 +773,7 @@
         "Date": "1958-11-16",
         "Pieces": [
           {
-            "Title": "Strengjatríó (Divertimento) Es-dúr K. 563*",
+            "Title": "Strengjatríó (Divertimento) Es-dúr K. 563",
             "Composer": {
               "Name": "Wolfgang Amadeus Mozart"
             },
@@ -1148,7 +1148,7 @@
             ]
           },
           {
-            "Title": "Svíta f. blásarakvintett",
+            "Title": "Svíta fyrir blásarakvintett",
             "Composer": {
               "Name": "Pauline Hall"
             },
@@ -1187,7 +1187,7 @@
             ]
           },
           {
-            "Title": "Svíta f. blásarakvintett",
+            "Title": "Svíta fyrir blásarakvintett",
             "Composer": {
               "Name": "František Bartoš"
             },
@@ -1271,7 +1271,7 @@
         "Date": "1959-06-03",
         "Pieces": [
           {
-            "Title": "Strengjakvartett í d-moll (Dauðinn og stúlkan)",
+            "Title": "Strengjakvartett d-moll (Dauðinn og stúlkan)",
             "Composer": {
               "Name": "Franz Schubert"
             },
@@ -1358,7 +1358,7 @@
             ]
           },
           {
-            "Title": "Tvö armensk þjóðlög útsett f. strengjakvartett",
+            "Title": "Tvö armensk þjóðlög útsett fyrir strengjakvartett",
             "Composer": {
               "Name": "Óþekkt tónskáld"
             },
@@ -1418,7 +1418,7 @@
             ]
           },
           {
-            "Title": "Svíta nr. 5 f. einleiksselló c-moll BWV 1011",
+            "Title": "Svíta fyrir einleiksselló nr. 5 c-moll BWV 1011",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -1699,7 +1699,7 @@
             ]
           },
           {
-            "Title": "Konsert í d-moll op. 3 nr. 11 (úr L’estro armonico)",
+            "Title": "Konsert d-moll op. 3 nr. 11 (úr L’estro armonico)",
             "Composer": {
               "Name": "Antonio Vivaldi"
             },
@@ -1816,7 +1816,7 @@
         "Date": "1960-04-05",
         "Pieces": [
           {
-            "Title": "Divertimento f. blásara (með Choral St. Antoni)",
+            "Title": "Divertimento fyrir blásara (með Choral St. Antoni)",
             "Composer": {
               "Name": "Joseph Haydn"
             },
@@ -2017,7 +2017,7 @@
             ]
           },
           {
-            "Title": "Summer Music f. blásarakvintett op. 31",
+            "Title": "Summer Music fyrir blásarakvintett op. 31",
             "Composer": {
               "Name": "Samuel Barber"
             },
@@ -2056,7 +2056,7 @@
             ]
           },
           {
-            "Title": "Three pieces f. flautu, klarínettu og fagott",
+            "Title": "Three pieces fyrir flautu, klarínettu og fagott",
             "Composer": {
               "Name": "Walter Piston"
             },
@@ -2352,7 +2352,7 @@
             ]
           },
           {
-            "Title": "Svíta f. flautu & strengi a-moll",
+            "Title": "Svíta fyrir flautu & strengi a-moll",
             "Composer": {
               "Name": "Georg Philipp Telemann"
             },
@@ -2412,7 +2412,7 @@
             ]
           },
           {
-            "Title": "Konsert í d-moll op. 3 nr. 11 (úr L’estro armonico)",
+            "Title": "Konsert d-moll op. 3 nr. 11 (úr L’estro armonico)",
             "Composer": {
               "Name": "Antonio Vivaldi"
             },
@@ -2612,7 +2612,7 @@
         "Date": "1961-12-03",
         "Pieces": [
           {
-            "Title": "Svíta f. blásarakvintett",
+            "Title": "Svíta fyrir blásarakvintett",
             "Composer": {
               "Name": "František Bartoš"
             },
@@ -2849,7 +2849,7 @@
         "Date": "1962-02-25",
         "Pieces": [
           {
-            "Title": "Svíta nr. 3 f. einleiksselló C-dúr BWV 1009",
+            "Title": "Svíta fyrir einleiksselló nr. 3 C-dúr BWV 1009",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -2969,7 +2969,7 @@
             ]
           },
           {
-            "Title": "Kvintett Es-dúr K. 452 (pn, ób, kl, hn, fg)",
+            "Title": "Kvintett Es-dúr K. 452 (píanó, óbó, klarínetta, horn, fagott)",
             "Composer": {
               "Name": "Wolfgang Amadeus Mozart"
             },
@@ -3328,7 +3328,7 @@
         "Date": "1962-11-29",
         "Pieces": [
           {
-            "Title": "Svíta f. blásarakvintett op. 57",
+            "Title": "Svíta fyrir blásarakvintett op. 57",
             "Composer": {
               "Name": "Charles-Édouard Lefebvre"
             },
@@ -3367,7 +3367,7 @@
             ]
           },
           {
-            "Title": "Three Shanties f. blásarakvintett",
+            "Title": "Three Shanties fyrir blásarakvintett",
             "Composer": {
               "Name": "Malcolm Arnold"
             },
@@ -3433,7 +3433,7 @@
             ]
           },
           {
-            "Title": "Kleine Kammermusik f. blásarakvintett op. 24 nr. 2",
+            "Title": "Kleine Kammermusik fyrir blásarakvintett op. 24 nr. 2",
             "Composer": {
               "Name": "Paul Hindemith"
             },
@@ -3555,7 +3555,7 @@
         "Date": "1963-11-24",
         "Pieces": [
           {
-            "Title": "Concerto grosso í d-moll op. 3 nr. 4",
+            "Title": "Concerto grosso d-moll op. 3 nr. 4",
             "Composer": { "Name": "Francesco Geminiani" },
             "GroupName": "I Solisti Veneti",
             "Performers": [
@@ -3570,7 +3570,7 @@
             ]
           },
           {
-            "Title": "Konsert í d-moll op. 3 nr. 11 (úr L’estro armonico)",
+            "Title": "Konsert d-moll op. 3 nr. 11 (úr L’estro armonico)",
             "Composer": { "Name": "Antonio Vivaldi" },
             "GroupName": "I Solisti Veneti",
             "Performers": [
@@ -3585,7 +3585,7 @@
             ]
           },
           {
-            "Title": "Fiðlukonsert í C-dúr RV 581 (Per la SS Assontione di Maria Vergine)",
+            "Title": "Fiðlukonsert C-dúr RV 581 (Per la SS Assontione di Maria Vergine)",
             "Composer": { "Name": "Antonio Vivaldi" },
             "GroupName": "I Solisti Veneti",
             "Performers": [
@@ -3655,7 +3655,7 @@
         "Date": "1964-04-29",
         "Pieces": [
           {
-            "Title": "Tríó Es-dúr K. 498 (pn, kl, va) (Kegelstatt-tríóið)",
+            "Title": "Tríó Es-dúr K. 498 (Kegelstatt-tríóið)",
             "Composer": {
               "Name": "Wolfgang Amadeus Mozart"
             },
@@ -3795,7 +3795,7 @@
             ]
           },
           {
-            "Title": "Tríó a-moll op. 114 (pn, kl, se)",
+            "Title": "Tríó a-moll, op. 114, fyrir klarínettu, selló og píanó",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -3870,7 +3870,7 @@
             ]
           },
           {
-            "Title": "Fiðlusónata op. 94bis",
+            "Title": "Fiðlusónata op. 94",
             "Composer": {
               "Name": "Sergei Prokofiev"
             },
@@ -4022,7 +4022,7 @@
         "Date": "1965-10-22",
         "Pieces": [
           {
-            "Title": "Sónata A-dúr op. 69",
+            "Title": "SellóSónata A-dúr op. 69",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -4085,7 +4085,7 @@
             ]
           },
           {
-            "Title": "Sónata D-dúr op. 102 nr. 2",
+            "Title": "Sellósónata D-dúr op. 102 nr. 2",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -4120,7 +4120,7 @@
             "Performers": []
           },
           {
-            "Title": "Konsert í d-moll op. 3 nr. 11 (úr L’estro armonico)",
+            "Title": "Konsert d-moll op. 3 nr. 11 (úr L’estro armonico)",
             "Composer": {
               "Name": "Antonio Vivaldi"
             },
@@ -4150,7 +4150,7 @@
         "Date": "1966-06-02",
         "Pieces": [
           {
-            "Title": "Píanótríó í C-dúr Hob.XV:21 (op.71 nr.1)",
+            "Title": "Píanótríó C-dúr Hob.XV:21 (op. 71 nr.1)",
             "Composer": {
               "Name": "Joseph Haydn"
             },
@@ -4494,7 +4494,7 @@
         "Date": "1967-04-20",
         "Pieces": [
           {
-            "Title": "Píanótríó í B-dúr op. 97 (Erkihertogatríóið)",
+            "Title": "Píanótríó B-dúr op. 97 (Erkihertogatríóið)",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -4521,7 +4521,7 @@
             ]
           },
           {
-            "Title": "Píanókvintett A-dúr D. 667 (Silungskvintettinn)",
+            "Title": "Píanókvintett A-dúr D 667 (Silungskvintettinn)",
             "Composer": {
               "Name": "Franz Schubert"
             },
@@ -4617,7 +4617,7 @@
             ]
           },
           {
-            "Title": "Klarínettukvintett í h-moll op. 115",
+            "Title": "Klarínettukvintett h-moll op. 115",
             "Composer": {
               "Name": "Johannes Brahms"
             },

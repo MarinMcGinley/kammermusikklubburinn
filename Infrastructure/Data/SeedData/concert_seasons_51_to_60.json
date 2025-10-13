@@ -7,7 +7,7 @@
         "Date": "2006-09-17",
         "Pieces": [
           {
-            "Title": "Tríó í B-dúr, op. 99, f. fiðlu, selló og píanó",
+            "Title": "Tríó B-dúr, op. 99, fyrir fiðlu, selló og píanó",
             "Composer": {
               "Name": "Franz Schubert"
             },
@@ -34,7 +34,7 @@
             ]
           },
           {
-            "Title": "Tríó í e-moll, op. 67, f. fiðlu, selló og píanó",
+            "Title": "Tríó e-moll, op. 67, fyrir fiðlu, selló og píanó",
             "Composer": {
               "Name": "Dmitri Dmitriyevich Shostakovich"
             },
@@ -67,7 +67,7 @@
         "Date": "2006-10-29",
         "Pieces": [
           {
-            "Title": "Fantasiestücke op. 88, f. fiðlu, selló og píanó",
+            "Title": "Fantasiestücke op. 88, fyrir fiðlu, selló og píanó",
             "Composer": {
               "Name": "Robert Schumann"
             },
@@ -100,7 +100,7 @@
             ]
           },
           {
-            "Title": "Píanókvartett í Es-dúr, op. 47",
+            "Title": "Píanókvartett Es-dúr, op. 47",
             "Composer": {
               "Name": "Robert Schumann"
             },
@@ -139,7 +139,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett nr. 3 í A-dúr, op. 41",
+            "Title": "Strengjakvartett nr. 3 A-dúr, op. 41",
             "Composer": {
               "Name": "Robert Schumann"
             },
@@ -178,7 +178,7 @@
         "Date": "2006-11-12",
         "Pieces": [
           {
-            "Title": "Strengjakvartett í d-moll, K 421",
+            "Title": "Strengjakvartett d-moll K. 421",
             "Composer": {
               "Name": "Wolfgang Amadeus Mozart"
             },
@@ -186,7 +186,7 @@
             "Performers": []
           },
           {
-            "Title": "Klarínettukvintett í A-dúr, K 581",
+            "Title": "Klarínettukvintett A-dúr K. 581",
             "Composer": {
               "Name": "Wolfgang Amadeus Mozart"
             },
@@ -201,7 +201,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett í Es-dúr, op. 127",
+            "Title": "Strengjakvartett Es-dúr, op. 127",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -222,7 +222,7 @@
         "Date": "2007-01-14",
         "Pieces": [
           {
-            "Title": "Sónata nr. 3 í B-dúr, f. fiðlu, óbó, fagott og fylgirödd",
+            "Title": "Sónata nr. 3 B-dúr, fyrir fiðlu, óbó, fagott og fylgirödd",
             "Composer": {
               "Name": "Jan Dismas Zelenka"
             },
@@ -241,7 +241,7 @@
                 }
               },
               {
-                "Name": "Eydís Franzdóttir",
+                "Name": "Eydís Lára Franzdóttir",
                 "Instrument": {
                   "Name": "óbó"
                 }
@@ -261,7 +261,7 @@
             ]
           },
           {
-            "Title": "Kvartett í G-dúr, f. flautu, óbó, fiðlu og fylgirödd úr Tafelmusik, Prodution I",
+            "Title": "Kvartett G-dúr, fyrir flautu, óbó, fiðlu og fylgirödd úr Tafelmusik, Prodution I",
             "Composer": {
               "Name": "Georg Philipp Telemann"
             },
@@ -286,7 +286,7 @@
                 }
               },
               {
-                "Name": "Eydís Franzdóttir",
+                "Name": "Eydís Lára Franzdóttir",
                 "Instrument": {
                   "Name": "óbó"
                 }
@@ -300,7 +300,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett nr. 4 í D-dúr, op.83",
+            "Title": "Strengjakvartett nr. 4 D-dúr, op. 83",
             "Composer": {
               "Name": "Dmitri Dmitriyevich Shostakovich"
             },
@@ -319,7 +319,7 @@
                 }
               },
               {
-                "Name": "SvavaBernharðsdóttir",
+                "Name": "Svava Bernharðsdóttir",
                 "Instrument": {
                   "Name": "víóla"
                 }
@@ -339,7 +339,7 @@
         "Date": "2007-02-04",
         "Pieces": [
           {
-            "Title": "Tilbrigði, píanókvintett saminn að beiðni Kammermúsíkklúbbsins í tilefni",
+            "Title": "Tilbrigði, píanókvintett saminn að beiðni Kammermúsíkklúbbsins tilefni",
             "Composer": {
               "Name": "Þorkell Sigurbjörnsson"
             },
@@ -378,7 +378,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett í cís-moll, op. 131",
+            "Title": "Strengjakvartett cís-moll op. 131",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -417,7 +417,7 @@
         "Date": "2007-03-11",
         "Pieces": [
           {
-            "Title": "Sónata í A-dúr, op.69, f. selló og píanó",
+            "Title": "Sellósónata A-dúr op. 69",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -438,7 +438,7 @@
             ]
           },
           {
-            "Title": "Tríó í a-moll, op. 114, f. klarínettu, selló og píanó",
+            "Title": "Tríó a-moll, op. 114, fyrir klarínettu, selló og píanó",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -465,7 +465,7 @@
             ]
           },
           {
-            "Title": "Sónata op. 40, f. selló og píanó",
+            "Title": "Sónata op. 40, fyrir selló og píanó",
             "Composer": {
               "Name": "Dmitri Dmitriyevich Shostakovich"
             },
@@ -497,7 +497,7 @@
         "Date": "2007-09-16",
         "Pieces": [
           {
-            "Title": "Sónata nr. 5 í F-dúr",
+            "Title": "Sónata nr. 5 F-dúr",
             "Composer": {
               "Name": "Jan Dismas Zelenka"
             },
@@ -528,13 +528,13 @@
                 }
               },
               {
-                "Name": "Eydís Franzdóttir",
+                "Name": "Eydís Lára Franzdóttir",
                 "Instrument": {
                   "Name": "óbó"
                 }
               },
               {
-                "Name": "PeterTompkins",
+                "Name": "Peter Tompkins",
                 "Instrument": {
                   "Name": "óbó"
                 }
@@ -554,7 +554,7 @@
             ]
           },
           {
-            "Title": "Fiðlusónata í g-moll op. 5 nr. 5",
+            "Title": "Fiðlusónata g-moll op. 5 nr. 5",
             "Composer": {
               "Name": "Arcangelo Corelli"
             },
@@ -585,13 +585,13 @@
                 }
               },
               {
-                "Name": "Eydís Franzdóttir",
+                "Name": "Eydís Lára Franzdóttir",
                 "Instrument": {
                   "Name": "óbó"
                 }
               },
               {
-                "Name": "PeterTompkins",
+                "Name": "Peter Tompkins",
                 "Instrument": {
                   "Name": "óbó"
                 }
@@ -611,7 +611,7 @@
             ]
           },
           {
-            "Title": "Fiðlusónata í d-moll op. 5 nr. 12 (La Follia)",
+            "Title": "Fiðlusónata d-moll op. 5 nr. 12 (La Follia)",
             "Composer": {
               "Name": "Arcangelo Corelli"
             },
@@ -642,13 +642,13 @@
                 }
               },
               {
-                "Name": "Eydís Franzdóttir",
+                "Name": "Eydís Lára Franzdóttir",
                 "Instrument": {
                   "Name": "óbó"
                 }
               },
               {
-                "Name": "PeterTompkins",
+                "Name": "Peter Tompkins",
                 "Instrument": {
                   "Name": "óbó"
                 }
@@ -668,7 +668,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett nr. 6 í G-dúr, op.101",
+            "Title": "Strengjakvartett nr. 6 G-dúr, op. 101",
             "Composer": {
               "Name": "Dmitri Dmitriyevich Shostakovich"
             },
@@ -707,7 +707,7 @@
         "Date": "2007-10-21",
         "Pieces": [
           {
-            "Title": "Strengjakvartett í d-moll op. 76 nr. 2",
+            "Title": "Strengjakvartett d-moll op. 76 nr. 2",
             "Composer": {
               "Name": "Joseph Haydn"
             },
@@ -732,7 +732,7 @@
                 }
               },
               {
-                "Name": " Bryndís Halla Gylfadóttir",
+                "Name": "Bryndís Halla Gylfadóttir",
                 "Instrument": {
                   "Name": "selló"
                 }
@@ -759,7 +759,7 @@
                 }
               },
               {
-                "Name": " Bryndís Halla Gylfadóttir",
+                "Name": "Bryndís Halla Gylfadóttir",
                 "Instrument": {
                   "Name": "selló"
                 }
@@ -767,7 +767,7 @@
             ]
           },
           {
-            "Title": "Fúga handa Martin Wegelius í a-moll (1888)",
+            "Title": "Fúga handa Martin Wegelius a-moll (1888)",
             "Composer": {
               "Name": "Jean Sibelius"
             },
@@ -792,7 +792,7 @@
                 }
               },
               {
-                "Name": " Bryndís Halla Gylfadóttir",
+                "Name": "Bryndís Halla Gylfadóttir",
                 "Instrument": {
                   "Name": "selló"
                 }
@@ -800,7 +800,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett nr. 1 í D-dúr, op. 1",
+            "Title": "Strengjakvartett nr. 1 D-dúr, op. 1",
             "Composer": {
               "Name": "Pyotr Ilyich Tchaikovsky"
             },
@@ -825,7 +825,7 @@
                 }
               },
               {
-                "Name": " Bryndís Halla Gylfadóttir",
+                "Name": "Bryndís Halla Gylfadóttir",
                 "Instrument": {
                   "Name": "selló"
                 }
@@ -839,7 +839,7 @@
         "Date": "2007-11-25",
         "Pieces": [
           {
-            "Title": "Trio élégiaque í g-moll",
+            "Title": "Trio élégiaque g-moll",
             "Composer": {
               "Name": "Sergei Rachmaninoff"
             },
@@ -878,7 +878,7 @@
             ]
           },
           {
-            "Title": "Píanótríó í g-moll op. 15",
+            "Title": "Píanótríó g-moll op. 15",
             "Composer": {
               "Name": "Bedřich Smetana"
             },
@@ -917,7 +917,7 @@
             ]
           },
           {
-            "Title": "Píanókvintett í g-moll op. 30",
+            "Title": "Píanókvintett g-moll op. 30",
             "Composer": {
               "Name": "Sergei Taneyev"
             },
@@ -962,7 +962,7 @@
         "Date": "2008-01-13",
         "Pieces": [
           {
-            "Title": "Píanókvintett í Es-dúr, op. 44",
+            "Title": "Píanókvintett Es-dúr, op. 44",
             "Composer": {
               "Name": "Robert Schumann"
             },
@@ -1001,7 +1001,7 @@
             ]
           },
           {
-            "Title": "Píanókvintett í f-moll, op. 34",
+            "Title": "Píanókvintett f-moll op. 34",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -1042,11 +1042,11 @@
         ]
       },
       {
-        "Description": "4. tónleikar, endurteknir í Salnum 14. jan. 2008",
+        "Description": "4. tónleikar, endurteknir Salnum 14. jan. 2008",
         "Date": "2008-01-14",
         "Pieces": [
           {
-            "Title": "Píanókvintett í Es-dúr, op. 44",
+            "Title": "Píanókvintett Es-dúr, op. 44",
             "Composer": {
               "Name": "Robert Schumann"
             },
@@ -1124,7 +1124,7 @@
             ]
           },
           {
-            "Title": "Píanókvintett í f-moll, op. 34",
+            "Title": "Píanókvintett f-moll op. 34",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -1213,7 +1213,7 @@
         "Date": "2008-09-21",
         "Pieces": [
           {
-            "Title": "Píanótríó í d-moll op. 32",
+            "Title": "Píanótríó d-moll op. 32",
             "Composer": {
               "Name": "Anton Stepanovich Arensky"
             },
@@ -1267,7 +1267,7 @@
             ]
           },
           {
-            "Title": "Píanótríó í B-dúr op. 97 (Erkihertogatríóið)",
+            "Title": "Píanótríó B-dúr op. 97 (Erkihertogatríóið)",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -1405,7 +1405,7 @@
         "Date": "2008-11-23",
         "Pieces": [
           {
-            "Title": "Kvintett í e-moll fyrir gítar og strengi",
+            "Title": "Kvintett e-moll fyrir gítar og strengi",
             "Composer": {
               "Name": "Luigi Boccherini"
             },
@@ -1576,7 +1576,7 @@
         "Date": "2009-01-18",
         "Pieces": [
           {
-            "Title": "Píanótríó í D-dúr op. 22",
+            "Title": "Píanótríó D-dúr op. 22",
             "Composer": {
               "Name": "Sergei Taneyev"
             },
@@ -1603,7 +1603,7 @@
             ]
           },
           {
-            "Title": "Píanótríó í f-moll op. 65",
+            "Title": "Píanótríó nr. 3 f-moll op. 65",
             "Composer": {
               "Name": "Antonín Dvořák"
             },
@@ -1663,7 +1663,7 @@
         "Date": "2009-02-15",
         "Pieces": [
           {
-            "Title": "Strengjakvartett í f-moll op. 95 (Serioso)",
+            "Title": "Strengjakvartett f-moll op. 95 (Serioso)",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -1702,7 +1702,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett nr. 4 í e-moll op. 44 nr. 2",
+            "Title": "Strengjakvartett nr. 4 e-moll op. 44 nr. 2",
             "Composer": {
               "Name": "Felix Mendelssohn"
             },
@@ -1741,7 +1741,7 @@
             ]
           },
           {
-            "Title": "Strengjakvintett í Es-dúr K 614",
+            "Title": "Strengjakvintett Es-dúr K 614",
             "Composer": {
               "Name": "Wolfgang Amadeus Mozart"
             },
@@ -1804,7 +1804,7 @@
                 }
               },
               {
-                "Name": "Ástriður Alda Sigurðardóttir",
+                "Name": "Ástríður Alda Sigurðardóttir",
                 "Instrument": {
                   "Name": "píanó"
                 }
@@ -1837,7 +1837,7 @@
             "GroupName": "",
             "Performers": [
               {
-                "Name": "Ástriður Alda Sigurðardóttir",
+                "Name": "Ástríður Alda Sigurðardóttir",
                 "Instrument": {
                   "Name": "píanó"
                 }
@@ -1929,7 +1929,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett, A-dúr op. 18 nr. 5 (1800)",
+            "Title": "Strengjakvartett A-dúr op. 18 nr. 5",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -1968,7 +1968,7 @@
         "Date": "2009-11-22",
         "Pieces": [
           {
-            "Title": "Tríósónata í G dúr BuxWV 271",
+            "Title": "Tríósónata G dúr BuxWV 271",
             "Composer": {
               "Name": "Dietrich Buxtehude"
             },
@@ -2013,7 +2013,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett nr. 11 op.122",
+            "Title": "Strengjakvartett nr. 11 op. 122",
             "Composer": {
               "Name": "Dmitri Dmitriyevich Shostakovich"
             },
@@ -2046,7 +2046,7 @@
             ]
           },
           {
-            "Title": "Klarinettukvintett í h-moll op.115",
+            "Title": "Klarínettukvintett h-moll op. 115",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -2091,7 +2091,7 @@
         "Date": "2010-02-21",
         "Pieces": [
           {
-            "Title": "Píanótríó í C-dúr Hob.XV:21 (op.71 nr.1)",
+            "Title": "Píanótríó C-dúr Hob.XV:21 (op. 71 nr.1)",
             "Composer": { "Name": "Joseph Haydn" },
             "GroupName": "Tríó Nordica",
             "Performers": [
@@ -2123,7 +2123,7 @@
             ]
           },
           {
-            "Title": "Píanótríó í a-moll op.50",
+            "Title": "Píanótríó a-moll op. 50",
             "Composer": { "Name": "Pyotr Ilyich Tchaikovsky" },
             "GroupName": "Tríó Nordica",
             "Performers": [
@@ -2145,7 +2145,7 @@
         "Date": "2010-03-20",
         "Pieces": [
           {
-            "Title": "Kleine Kammermusik für fünf Bläser op. 24 Nr. 2",
+            "Title": "Kleine Kammermusik fyrir blásarakvintett op. 24 nr. 2",
             "Composer": {
               "Name": "Paul Hindemith"
             },
@@ -2184,7 +2184,7 @@
             ]
           },
           {
-            "Title": "Kvintett í g-moll op. 56 Nr. 2",
+            "Title": "Kvintett g-moll op. 56 Nr. 2",
             "Composer": {
               "Name": "Franz Danzi"
             },
@@ -2268,7 +2268,7 @@
             ]
           },
           {
-            "Title": "Trois pièces brèves fyrir blásarakvintetts",
+            "Title": "Trois pièces brèves fyrir blásarakvintett",
             "Composer": {
               "Name": "Jacques Ibert"
             },
@@ -2313,7 +2313,7 @@
             ]
           },
           {
-            "Title": "Adagio í B-dúr K.V. 411",
+            "Title": "Adagio B-dúr K.V. 411",
             "Composer": {
               "Name": "Wolfgang Amadeus Mozart"
             },
@@ -2414,7 +2414,7 @@
         "Date": "2010-09-26",
         "Pieces": [
           {
-            "Title": "Píanótríó nr. 1 í d-moll, op. 63",
+            "Title": "Píanótríó nr. 1 d-moll, op. 63",
             "Composer": {
               "Name": "Robert Schumann"
             },
@@ -2468,7 +2468,7 @@
             ]
           },
           {
-            "Title": "Píanótríó nr. 3 í c-moll op. 101",
+            "Title": "Píanótríó nr. 3 c-moll op. 101",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -2501,14 +2501,14 @@
         "Date": "2010-10-17",
         "Pieces": [
           {
-            "Title": "Sónata nr. 1 í F-dúr fyrir tvö óbó, fagott og basso continuo",
+            "Title": "Sónata nr. 1 F-dúr fyrir tvö óbó, fagott og basso continuo",
             "Composer": {
               "Name": "Jan Dismas Zelenka"
             },
             "GroupName": "Camerarctica",
             "Performers": [
               {
-                "Name": "Eydís Franzdóttir",
+                "Name": "Eydís Lára Franzdóttir",
                 "Instrument": {
                   "Name": "óbó"
                 }
@@ -2534,14 +2534,14 @@
             ]
           },
           {
-            "Title": "Sónata nr. 6 í c-moll fyrir tvö óbó, fagott og basso continuo",
+            "Title": "Sónata nr. 6 c-moll fyrir tvö óbó, fagott og basso continuo",
             "Composer": {
               "Name": "Jan Dismas Zelenka"
             },
             "GroupName": "Camerarctica",
             "Performers": [
               {
-                "Name": "Eydís Franzdóttir",
+                "Name": "Eydís Lára Franzdóttir",
                 "Instrument": {
                   "Name": "óbó"
                 }
@@ -2606,7 +2606,7 @@
         "Date": "2010-11-14",
         "Pieces": [
           {
-            "Title": "Strengjatríó op. 9 nr. 3 í c-moll",
+            "Title": "Strengjatríó op. 9 nr. 3 c-moll",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -2666,14 +2666,14 @@
         "Date": "2011-01-23",
         "Pieces": [
           {
-            "Title": "Trio í Es-dúr op 20 no 5",
+            "Title": "Trio Es-dúr op 20 no 5",
             "Composer": {
               "Name": "Jan Vanhal"
             },
             "GroupName": "Sírajón",
             "Performers": [
               {
-                "Name": "Laufley Sigurðardóttir",
+                "Name": "Laufey Sigurðardóttir",
                 "Instrument": {
                   "Name": "fiðla"
                 }
@@ -2700,7 +2700,7 @@
             "GroupName": "Sírajón",
             "Performers": [
               {
-                "Name": "Laufley Sigurðardóttir",
+                "Name": "Laufey Sigurðardóttir",
                 "Instrument": {
                   "Name": "fiðla"
                 }
@@ -2727,7 +2727,7 @@
             "GroupName": "Sírajón",
             "Performers": [
               {
-                "Name": "Laufley Sigurðardóttir",
+                "Name": "Laufey Sigurðardóttir",
                 "Instrument": {
                   "Name": "fiðla"
                 }
@@ -2754,7 +2754,7 @@
             "GroupName": "Sírajón",
             "Performers": [
               {
-                "Name": "Laufley Sigurðardóttir",
+                "Name": "Laufey Sigurðardóttir",
                 "Instrument": {
                   "Name": "fiðla"
                 }
@@ -2781,7 +2781,7 @@
             "GroupName": "Sírajón",
             "Performers": [
               {
-                "Name": "Laufley Sigurðardóttir",
+                "Name": "Laufey Sigurðardóttir",
                 "Instrument": {
                   "Name": "fiðla"
                 }
@@ -2807,7 +2807,7 @@
         "Date": "2011-02-20",
         "Pieces": [
           {
-            "Title": "Oktett fyrir strengi í Es-dúr op. 20",
+            "Title": "Oktett fyrir strengi Es-dúr op. 20",
             "Composer": { "Name": "Felix Mendelssohn" },
             "GroupName": "",
             "Performers": [
@@ -2896,7 +2896,7 @@
         "Date": "2011-09-25",
         "Pieces": [
           {
-            "Title": "Verklärte Nacht, sextett op. 4,
+            "Title": "Verklärte Nacht, sextett op. 4",
             "Composer": {
               "Name": "Arnold Schönberg"
             },
@@ -2992,7 +2992,7 @@
         "Date": "2011-10-23",
         "Pieces": [
           {
-            "Title": "Píanótríó no.1, í c-moll op.8",
+            "Title": "Píanótríó no.1 c-moll op. 8",
             "Composer": {
               "Name": "Dmitri Dmitriyevich Shostakovich"
             },
@@ -3019,7 +3019,7 @@
             ]
           },
           {
-            "Title": "Píanótríó í fís-moll",
+            "Title": "Píanótríó fís-moll",
             "Composer": {
               "Name": "Arno Babadjanian"
             },
@@ -3046,7 +3046,7 @@
             ]
           },
           {
-            "Title": "Píanótríó nr. 1 í H-dúr op. 8",
+            "Title": "Píanótríó nr. 1 H-dúr op. 8",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -3079,7 +3079,7 @@
         "Date": "2011-11-20",
         "Pieces": [
           {
-            "Title": "Strengjakvartett nr. 3 í es-moll op. 30",
+            "Title": "Strengjakvartett nr. 3 es-moll op. 30",
             "Composer": {
               "Name": "Pyotr Ilyich Tchaikovsky"
             },
@@ -3184,7 +3184,7 @@
         "Date": "2012-01-22",
         "Pieces": [
           {
-            "Title": "Strengjakvartett í F-dúr",
+            "Title": "Strengjakvartett F-dúr",
             "Composer": {
               "Name": "Maurice Ravel"
             },
@@ -3217,7 +3217,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett í g-moll op. 10",
+            "Title": "Strengjakvartett g-moll op. 10",
             "Composer": {
               "Name": "Claude Debussy"
             },
@@ -3252,11 +3252,11 @@
         ]
       },
       {
-        "Description": "5. tónleikar, 19. feb. 2012, 55. afmælistónleikar, í Hörpu kl. 19:30",
+        "Description": "5. tónleikar, 19. feb. 2012, 55. afmælistónleikar, Hörpu kl. 19:30",
         "Date": "2012-02-19",
         "Pieces": [
           {
-            "Title": "Sónata nr. 4 í g-moll fyrir tvö óbó, fagott og fylgirödd",
+            "Title": "Sónata nr. 4 g-moll fyrir tvö óbó, fagott og fylgirödd",
             "Composer": {
               "Name": "Jan Dismas Zelenka"
             },
@@ -3366,14 +3366,14 @@
         "Date": "2012-09-30",
         "Pieces": [
           {
-            "Title": "Kvintett í es-moll op.87",
+            "Title": "Kvintett es-moll op. 87",
             "Composer": {
               "Name": "Johann Nepomuk Hummel"
             },
             "GroupName": "",
             "Performers": [
               {
-                "Name": "Greta Guðnadóttir",
+                "Name": "Gréta Guðnadóttir",
                 "Instrument": {
                   "Name": "fiðla"
                 }
@@ -3412,7 +3412,7 @@
             "GroupName": "",
             "Performers": [
               {
-                "Name": "Greta Guðnadóttir",
+                "Name": "Gréta Guðnadóttir",
                 "Instrument": {
                   "Name": "fiðla"
                 }
@@ -3426,14 +3426,14 @@
             ]
           },
           {
-            "Title": "Kvintett í c-moll",
+            "Title": "Kvintett c-moll",
             "Composer": {
               "Name": "Ralph Vaughan Williams"
             },
             "GroupName": "",
             "Performers": [
               {
-                "Name": "Greta Guðnadóttir",
+                "Name": "Gréta Guðnadóttir",
                 "Instrument": {
                   "Name": "fiðla"
                 }
@@ -3471,7 +3471,7 @@
         "Date": "2012-10-21",
         "Pieces": [
           {
-            "Title": "Sellókvintett í C-dúr D.956 (op. posth. 163)",
+            "Title": "Sellókvintett C-dúr D.956 (op. posth. 163)",
             "Composer": {
               "Name": "Franz Schubert"
             },
@@ -3510,7 +3510,7 @@
             ]
           },
           {
-            "Title": "Víólukvintett í G-dúr op. 111",
+            "Title": "Víólukvintett G-dúr op. 111",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -3555,7 +3555,7 @@
         "Date": "2012-11-18",
         "Pieces": [
           {
-            "Title": "Saxófónkvartett í B-dúr op.109",
+            "Title": "Saxófónkvartett B-dúr op. 109",
             "Composer": {
               "Name": "Alexander Glazunov"
             },
@@ -3588,7 +3588,7 @@
             ]
           },
           {
-            "Title": "Quatuor pour Saxophones op.102",
+            "Title": "Quatuor pour Saxophones op. 102",
             "Composer": {
               "Name": "Florent Schmitt"
             },
@@ -3691,7 +3691,7 @@
                 }
               },
               {
-                "Name": "Eydís Franzdóttir",
+                "Name": "Eydís Lára Franzdóttir",
                 "Instrument": {
                   "Name": "óbó"
                 }
@@ -3754,7 +3754,7 @@
                 }
               },
               {
-                "Name": "Eydís Franzdóttir",
+                "Name": "Eydís Lára Franzdóttir",
                 "Instrument": {
                   "Name": "óbó"
                 }
@@ -3817,7 +3817,7 @@
                 }
               },
               {
-                "Name": "Eydís Franzdóttir",
+                "Name": "Eydís Lára Franzdóttir",
                 "Instrument": {
                   "Name": "óbó"
                 }
@@ -3938,7 +3938,7 @@
         "Date": "2013-09-29",
         "Pieces": [
           {
-            "Title": "Strengjakvartett nr. 2 í A-dúr",
+            "Title": "Strengjakvartett nr. 2 A-dúr",
             "Composer": {
               "Name": "Juan Crisóstomo Arriaga"
             },
@@ -4010,7 +4010,7 @@
         "Date": "2013-10-20",
         "Pieces": [
           {
-            "Title": "Tríósónata fyrir fiðlu, flautu og fylgirödd í F-dúr TWV 42:f8",
+            "Title": "Tríósónata fyrir fiðlu, flautu og fylgirödd F-dúr TWV 42:f8",
             "Composer": {
               "Name": "Georg Philipp Telemann"
             },
@@ -4086,7 +4086,7 @@
                 }
               },
               {
-                "Name": "Marta G.Halldórsdóttir",
+                "Name": "Marta Guðrún Halldórsdóttir",
                 "Instrument": {
                   "Name": "sópran"
                 }
@@ -4190,7 +4190,7 @@
         "Date": "2014-01-19",
         "Pieces": [
           {
-            "Title": "Svíta fyrir einleiksselló nr. 1 í G-dúr BWV 1007",
+            "Title": "Svíta fyrir einleiksselló nr. 1 G-dúr BWV 1007",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -4203,7 +4203,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 2 í d-moll BWV 1008",
+            "Title": "Svíta fyrir einleiksselló nr. 2 d-moll BWV 1008",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -4216,7 +4216,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 6 í D-dúr BWV 1012",
+            "Title": "Svíta fyrir einleiksselló nr. 6 D-dúr BWV 1012",
             "Composer": {
               "Name": "Johann Sebastian Bach"
             },
@@ -4235,7 +4235,7 @@
         "Date": "2014-02-23",
         "Pieces": [
           {
-            "Title": "Kvintett fyrir flautu, óbó, klarinettu, horn og fagott í Es-dúr op. 88, nr. 2",
+            "Title": "Kvintett fyrir flautu, óbó, klarinettu, horn og fagott Es-dúr op. 88, nr. 2",
             "Composer": { "Name": "Anton Reicha" },
             "GroupName": "Blásarakvintett Reykjavíkur",
             "Performers": [
@@ -4248,7 +4248,7 @@
                 "Name": "Einar Jóhannesson",
                 "Instrument": { "Name": "Klarinetta" }
               },
-              { "Name": "Jósef Ognibene", "Instrument": { "Name": "Horn" } },
+              { "Name": "Joseph Ognibene", "Instrument": { "Name": "Horn" } },
               { "Name": "Darri Mikaelsson", "Instrument": { "Name": "Fagott" } }
             ]
           },
@@ -4266,7 +4266,7 @@
                 "Name": "Einar Jóhannesson",
                 "Instrument": { "Name": "Klarinetta" }
               },
-              { "Name": "Jósef Ognibene", "Instrument": { "Name": "Horn" } },
+              { "Name": "Joseph Ognibene", "Instrument": { "Name": "Horn" } },
               {
                 "Name": "Darri Mikaelsson",
                 "Instrument": { "Name": "Fagott" }
@@ -4288,7 +4288,7 @@
                 "Name": "Einar Jóhannesson",
                 "Instrument": { "Name": "Klarinetta" }
               },
-              { "Name": "Jósef Ognibene", "Instrument": { "Name": "Horn" } },
+              { "Name": "Joseph Ognibene", "Instrument": { "Name": "Horn" } },
               {
                 "Name": "Darri Mikaelsson",
                 "Instrument": { "Name": "Fagott" }
@@ -4310,7 +4310,7 @@
                 "Name": "Einar Jóhannesson",
                 "Instrument": { "Name": "Klarinetta" }
               },
-              { "Name": "Jósef Ognibene", "Instrument": { "Name": "Horn" } },
+              { "Name": "Joseph Ognibene", "Instrument": { "Name": "Horn" } },
               {
                 "Name": "Darri Mikaelsson",
                 "Instrument": { "Name": "Fagott" }
@@ -4357,7 +4357,7 @@
             ]
           },
           {
-            "Title": "Sónata fyrir flautu og píanó op. 94 (1942–1943)",
+            "Title": "Flautusónata D-dúr op. 94",
             "Composer": { "Name": "Sergei Prokofiev" },
             "GroupName": "Notus-tríó",
             "Performers": [
@@ -4561,7 +4561,7 @@
         "Date": "2014-11-23",
         "Pieces": [
           {
-            "Title": "Konsert í F-dúr f. píanó og strengi K 413",
+            "Title": "Konsert F-dúr fyrir píanó og strengi K 413",
             "Composer": {
               "Name": "Wolfgang Amadeus Mozart"
             },
@@ -4600,7 +4600,7 @@
             ]
           },
           {
-            "Title": "Klarínettukvartett í B-dúr K 378 (úts. J. André)",
+            "Title": "Klarínettukvartett B-dúr K 378 (úts. J. André)",
             "Composer": {
               "Name": "Wolfgang Amadeus Mozart"
             },
@@ -4678,14 +4678,14 @@
         "Date": "2015-01-18",
         "Pieces": [
           {
-            "Title": "Kvintett í A-dúr D 667 (Silungskvintettinn)",
+            "Title": "Píanókvintett A-dúr D 667 (Silungskvintettinn)",
             "Composer": {
               "Name": "Franz Schubert"
             },
             "GroupName": "",
             "Performers": [
               {
-                "Name": "Greta Guðnadóttir",
+                "Name": "Gréta Guðnadóttir",
                 "Instrument": {
                   "Name": "fiðla"
                 }
@@ -4723,7 +4723,7 @@
         "Date": "2015-01-25",
         "Pieces": [
           {
-            "Title": "Svíta fyrir einleiksselló nr. 3 í C-dúr BWV 1009",
+            "Title": "Svíta fyrir einleiksselló nr. 3 C-dúr BWV 1009",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -4734,7 +4734,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 4 í Es-dúr BWV 1010",
+            "Title": "Svíta fyrir einleiksselló nr. 4 Es-dúr BWV 1010",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -4745,7 +4745,7 @@
             ]
           },
           {
-            "Title": "Svíta fyrir einleiksselló nr. 5 í c-moll BWV 1011",
+            "Title": "Svíta fyrir einleiksselló nr. 5 c-moll BWV 1011",
             "Composer": { "Name": "Johann Sebastian Bach" },
             "GroupName": "",
             "Performers": [
@@ -4796,7 +4796,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett í F-dúr op. 135",
+            "Title": "Strengjakvartett F-dúr op. 135",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -4840,7 +4840,7 @@
         "Date": "2015-09-27",
         "Pieces": [
           {
-            "Title": "Strengjakvartett í d-moll op.56",
+            "Title": "Strengjakvartett d-moll op. 56",
             "Composer": {
               "Name": "Jean Sibelius"
             },
@@ -4873,7 +4873,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett nr. 6 í f-moll op.80",
+            "Title": "Strengjakvartett nr. 6 f-moll op. 80",
             "Composer": {
               "Name": "Felix Mendelssohn"
             },
@@ -4945,7 +4945,7 @@
             ]
           },
           {
-            "Title": "Strengjakvartett í g-moll op. 10",
+            "Title": "Strengjakvartett g-moll op. 10",
             "Composer": {
               "Name": "Claude Debussy"
             },
@@ -4984,7 +4984,7 @@
         "Date": "2015-11-22",
         "Pieces": [
           {
-            "Title": "Strengjakvartett í G-dúr op.18-2",
+            "Title": "Strengjakvartett G-dúr op. 18-2",
             "Composer": {
               "Name": "Ludwig van Beethoven"
             },
@@ -5017,7 +5017,7 @@
             ]
           },
           {
-            "Title": "Kvintett f. klarínettu og strengjakvartett í a-moll op.115",
+            "Title": "Kvintett fyrir klarínettu og strengjakvartett a-moll op. 115",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -5062,7 +5062,7 @@
         "Date": "2016-01-24",
         "Pieces": [
           {
-            "Title": "Sónata fyrir fjóra í a-moll",
+            "Title": "Sónata fyrir fjóra a-moll",
             "Composer": { "Name": "František Tůma" },
             "GroupName": "Camerarctica",
             "Performers": [
@@ -5177,7 +5177,7 @@
         "Date": "2016-02-28",
         "Pieces": [
           {
-            "Title": "Píanókvartett nr. 1 í g-moll op. 25",
+            "Title": "Píanókvartett nr. 1 g-moll op. 25",
             "Composer": {
               "Name": "Johannes Brahms"
             },
@@ -5210,7 +5210,7 @@
             ]
           },
           {
-            "Title": "Píanókvartett nr.2 í g-moll op.45",
+            "Title": "Píanókvartett nr.2 g-moll op. 45",
             "Composer": {
               "Name": "Gabriel Fauré"
             },
