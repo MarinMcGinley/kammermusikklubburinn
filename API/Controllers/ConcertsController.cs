@@ -14,7 +14,7 @@ namespace API.Controllers
     {
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<ConcertDto>>> GetConcerts([FromQuery] SpecParams specParams)
+        public async Task<ActionResult<PagedResultDto<ConcertDto>>> GetConcerts([FromQuery] SpecParams specParams)
         {
             var spec = new ConcertSpecification(specParams);
 

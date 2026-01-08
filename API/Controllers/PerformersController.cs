@@ -14,7 +14,7 @@ namespace API.Controllers
     ) : BaseApiController
     {
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<PerformerDto>>> GetPerformers([FromQuery] SpecParams specParams)
+        public async Task<ActionResult<PagedResultDto<PerformerDto>>> GetPerformers([FromQuery] SpecParams specParams)
         {
             var spec = new PerformerSpecification(specParams);
 
@@ -83,7 +83,7 @@ namespace API.Controllers
 
 
         [HttpGet("{id:int}/concerts")]
-        public async Task<ActionResult<IEnumerable<ConcertDto>>> GetConcerts(int id, [FromQuery] SpecParams specParams)
+        public async Task<ActionResult<PagedResultDto<ConcertDto>>> GetConcerts(int id, [FromQuery] SpecParams specParams)
         {
             var spec = new ConcertSpecification(specParams, id, "PerformerId");
 
