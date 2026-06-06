@@ -64,7 +64,12 @@ public class ConcertContextSeed
 
                 foreach (string composer in composers)
                 {
-                    var newComposer = new Composer { Name = composer };
+                    var parts = composer.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+
+                    var firstName = string.Join(" ", parts.Take(parts.Length - 1));
+                    var lastName = parts.Last();
+
+                    var newComposer = new Composer { FirstName = firstName, LastName = lastName, Name = composer };
                     context.Composers.Add(newComposer);
                 }
 
@@ -96,8 +101,12 @@ public class ConcertContextSeed
                     var foundComposer = context.Composers.First(c => c.Name == composer.Composer);
                     if (foundComposer == null)
                     {
+                        var parts = composer.Composer.Split(' ', StringSplitOptions.RemoveEmptyEntries);
 
-                        foundComposer = new Composer { Name = composer.Composer };
+                        var firstName = string.Join(" ", parts.Take(parts.Length - 1));
+                        var lastName = parts.Last();
+
+                        foundComposer = new Composer { FirstName = firstName, LastName = lastName, Name = composer.Composer };
                         context.Composers.Add(foundComposer);
 
                         await context.SaveChangesAsync();
@@ -176,7 +185,13 @@ public class ConcertContextSeed
                     foreach (SeedPiece piece in concert.Pieces)
                     {
                         Composer? newComposer = context.Composers.FirstOrDefault(x => x.Name == piece.Composer.Name);
-                        newComposer ??= new Composer { Name = piece.Composer.Name };
+
+                        var parts = piece.Composer.Name.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+
+                        var firstName = string.Join(" ", parts.Take(parts.Length - 1));
+                        var lastName = parts.Last();
+
+                        newComposer ??= new Composer { Name = piece.Composer.Name, FirstName = firstName, LastName = lastName };
 
                         if (newComposer.Id == 0) // not tracked yet
                         {
