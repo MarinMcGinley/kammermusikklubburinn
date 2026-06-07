@@ -279,26 +279,26 @@ public class ConcertContextSeed
                 await SeedPiecesAsync(context);
                 await SeedInstrumentsAsync(context);
 
-                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_1_to_11.json");
-                _logger.LogInformation("Concert seasons 1 to 11 saved");
+                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_0_to_10.json");
+                _logger.LogInformation("Concert seasons 0 to 10 saved");
+    
+                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_11_to_20.json");
+                _logger.LogInformation("Concert seasons 11 to 20 saved");
 
-                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_12_to_21.json");
-                _logger.LogInformation("Concert seasons 12 to 21 saved");
+                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_21_to_29.json");
+                _logger.LogInformation("Concert seasons 21 to 29 saved");
 
-                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_22_to_30.json");
-                _logger.LogInformation("Concert seasons 22 to 30 saved");
+                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_30_to_39.json");
+                _logger.LogInformation("Concert seasons 30 to 39 saved");
 
-                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_31_to_40.json");
-                _logger.LogInformation("Concert seasons 31 to 40 saved");
+                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_40_to_49.json");
+                _logger.LogInformation("Concert seasons 40 to 49 saved");
 
-                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_41_to_50.json");
-                _logger.LogInformation("Concert seasons 41 to 50 saved");
+                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_50_to_59.json");
+                _logger.LogInformation("Concert seasons 50 to 59 saved");
 
-                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_51_to_60.json");
-                _logger.LogInformation("Concert seasons 51 to 60 saved");
-
-                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_61_to_69.json");
-                _logger.LogInformation("Concert seasons 61 to 69 saved");
+                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_60_to_68.json");
+                _logger.LogInformation("Concert seasons 60 to 68 saved");
 
             }
         }

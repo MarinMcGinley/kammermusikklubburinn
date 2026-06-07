@@ -1,6 +1,6 @@
 [
   {
-    "Title": "1. starfsár",
+    "Title": "0. starfsár",
     "Concerts": [
       {
         "Description": "",
@@ -311,7 +311,7 @@
     ]
   },
   {
-    "Title": "2. starfsár",
+    "Title": "1. starfsár",
     "Concerts": [
       {
         "Description": "",
@@ -766,7 +766,7 @@
     ]
   },
   {
-    "Title": "3. starfsár",
+    "Title": "2. starfsár",
     "Concerts": [
       {
         "Description": "",
@@ -1458,7 +1458,7 @@
     ]
   },
   {
-    "Title": "4. starfsár",
+    "Title": "3. starfsár",
     "Concerts": [
       {
         "Description": "",
@@ -2544,7 +2544,244 @@
     ]
   },
   {
-    "Title": "6. starfsár",
+    "Title": "4. starfsár",
+    "Concerts": [
+      {
+        "Description": "",
+        "Date": "1960-10-21",
+        "Pieces": [
+          {
+            "Title": "Tríó (kl, fi, pn)",
+            "Composer": { "Name": "Aram Katsjatúrían" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Gunnar Egilson",
+                "Instrument": { "Name": "klarínetta" }
+              },
+              {
+                "Name": "Björn Ólafsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Jón Nordal", "Instrument": { "Name": "píanó" } }
+            ]
+          },
+          {
+            "Title": "Sónatína (fi, pn)",
+            "Composer": { "Name": "Jón Nordal" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Gunnar Egilson",
+                "Instrument": { "Name": "klarínetta" }
+              },
+              {
+                "Name": "Björn Ólafsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Jón Nordal", "Instrument": { "Name": "píanó" } }
+            ]
+          },
+          {
+            "Title": "Svíta úr Sögu hermannsins (kl, fi, pn)",
+            "Composer": { "Name": "Igor Stravinsky" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Gunnar Egilson",
+                "Instrument": { "Name": "klarínetta" }
+              },
+              {
+                "Name": "Björn Ólafsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Jón Nordal", "Instrument": { "Name": "píanó" } }
+            ]
+          }
+        ]
+      },
+      {
+        "Description": "",
+        "Date": "1960-11-20",
+        "Pieces": [
+          {
+            "Title": "Strengjakvartett nr. 2 op. 36 (Vita et mors)",
+            "Composer": { "Name": "Jón Leifs" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Björn Ólafsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Josef Felzmann",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Jón Sen", "Instrument": { "Name": "víóla" } },
+              {
+                "Name": "Einar Vigfússon",
+                "Instrument": { "Name": "selló" }
+              }
+            ]
+          },
+          {
+            "Title": "Strengjakvartett Es-dúr op. 127",
+            "Composer": { "Name": "Ludwig van Beethoven" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Björn Ólafsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Josef Felzmann",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Jón Sen", "Instrument": { "Name": "víóla" } },
+              {
+                "Name": "Einar Vigfússon",
+                "Instrument": { "Name": "selló" }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Description": "",
+        "Date": "1961-01-29",
+        "Pieces": [
+          {
+            "Title": "Concerto grosso e-moll op. 3 nr. 3",
+            "Composer": { "Name": "Francesco Geminiani" },
+            "GroupName": "",
+            "Performers": [
+              { "Name": "Peter Ramm", "Instrument": { "Name": "flauta" } },
+              {
+                "Name": "Björn Ólafsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Josef Felzmann",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Sveinn Ólafsson",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Einar Vigfússon",
+                "Instrument": { "Name": "selló" }
+              }
+            ]
+          },
+          {
+            "Title": "Svíta f. flautu & strengi a-moll",
+            "Composer": { "Name": "Georg Philipp Telemann" },
+            "GroupName": "",
+            "Performers": [
+              { "Name": "Peter Ramm", "Instrument": { "Name": "flauta" } },
+              {
+                "Name": "Björn Ólafsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Josef Felzmann",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Sveinn Ólafsson",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Einar Vigfússon",
+                "Instrument": { "Name": "selló" }
+              }
+            ]
+          },
+          {
+            "Title": "Konsert d-moll op. 3 nr. 11 (úr L’estro armonico)",
+            "Composer": { "Name": "Antonio Vivaldi" },
+            "GroupName": "",
+            "Performers": [
+              { "Name": "Peter Ramm", "Instrument": { "Name": "flauta" } },
+              {
+                "Name": "Björn Ólafsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Josef Felzmann",
+                "Instrument": { "Name": "fiðla" }
+              },
+              { "Name": "Jón Sen", "Instrument": { "Name": "fiðla" } },
+              {
+                "Name": "Sveinn Ólafsson",
+                "Instrument": { "Name": "víóla" }
+              },
+              {
+                "Name": "Einar Vigfússon",
+                "Instrument": { "Name": "selló" }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Description": "",
+        "Date": "1961-04-07",
+        "Pieces": [
+          {
+            "Title": "Fiðlusónata c-moll op. 30 nr. 2",
+            "Composer": { "Name": "Ludwig van Beethoven" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Björn Ólafsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Árni Kristjánsson",
+                "Instrument": { "Name": "píanó" }
+              }
+            ]
+          },
+          {
+            "Title": "Fiðlusónata",
+            "Composer": { "Name": "Claude Debussy" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Björn Ólafsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Árni Kristjánsson",
+                "Instrument": { "Name": "píanó" }
+              }
+            ]
+          },
+          {
+            "Title": "Fiðlusónata nr. 3 c-moll op. 45",
+            "Composer": { "Name": "Edvard Grieg" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Björn Ólafsson",
+                "Instrument": { "Name": "fiðla" }
+              },
+              {
+                "Name": "Árni Kristjánsson",
+                "Instrument": { "Name": "píanó" }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Title": "5. starfsár",
     "Concerts": [
       {
         "Description": "",
@@ -3012,7 +3249,7 @@
     ]
   },
   {
-    "Title": "7. starfsár",
+    "Title": "6. starfsár",
     "Concerts": [
       {
         "Description": "",
@@ -3548,7 +3785,7 @@
     ]
   },
   {
-    "Title": "8. starfsár",
+    "Title": "7. starfsár",
     "Concerts": [
       {
         "Description": "Í samvinnu við Pétur Pétursson",
@@ -3761,7 +3998,7 @@
     ]
   },
   {
-    "Title": "9. starfsár",
+    "Title": "8. starfsár",
     "Concerts": [
       {
         "Description": "",
@@ -3925,7 +4162,7 @@
     ]
   },
   {
-    "Title": "10. starfsár",
+    "Title": "9. starfsár",
     "Concerts": [
       {
         "Description": "",
@@ -4250,7 +4487,7 @@
     ]
   },
   {
-    "Title": "11. starfsár",
+    "Title": "10. starfsár",
     "Concerts": [
       {
         "Description": "",
