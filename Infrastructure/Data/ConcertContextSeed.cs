@@ -173,7 +173,7 @@ public class ConcertContextSeed
             foreach (SeedConcertSeason concertSeason in concertSeasons)
             {
                 _logger.LogInformation("Seeding concerts");
-                var newConcertSeason = new ConcertSeason { Title = concertSeason.Title };
+                var newConcertSeason = new ConcertSeason { Title = concertSeason.Title, BeginDate = concertSeason.BeginDate, EndDate = concertSeason.EndDate    };
                 context.ConcertSeasons.Add(newConcertSeason);
 
                 foreach (SeedConcert concert in concertSeason.Concerts)

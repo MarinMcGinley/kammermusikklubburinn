@@ -1,6 +1,8 @@
 [
   {
     "Title": "0. starfsár",
+    "BeginDate": "1957-02-07",
+    "EndDate": "1957-05-09",
     "Concerts": [
       {
         "Description": "",
@@ -312,6 +314,8 @@
   },
   {
     "Title": "1. starfsár",
+    "BeginDate": "1957-11-28",
+    "EndDate": "1958-06-02",
     "Concerts": [
       {
         "Description": "",
@@ -767,6 +771,8 @@
   },
   {
     "Title": "2. starfsár",
+    "BeginDate": "1958-11-16",
+    "EndDate": "1959-07-15",
     "Concerts": [
       {
         "Description": "",
@@ -1459,6 +1465,8 @@
   },
   {
     "Title": "3. starfsár",
+    "BeginDate": "1959-11-08",
+    "EndDate": "1961-04-07",
     "Concerts": [
       {
         "Description": "",
@@ -2545,6 +2553,8 @@
   },
   {
     "Title": "4. starfsár",
+    "BeginDate": "1960-10-21",
+    "EndDate": "1961-04-07",
     "Concerts": [
       {
         "Description": "",
@@ -2782,6 +2792,8 @@
   },
   {
     "Title": "5. starfsár",
+    "BeginDate": "1961-09-27",
+    "EndDate": "1963-04-04",
     "Concerts": [
       {
         "Description": "",
@@ -3250,6 +3262,8 @@
   },
   {
     "Title": "6. starfsár",
+    "BeginDate": "1962-09-27",
+    "EndDate": "1963-04-04",
     "Concerts": [
       {
         "Description": "",
@@ -3786,6 +3800,8 @@
   },
   {
     "Title": "7. starfsár",
+    "BeginDate": "1963-11-24",
+    "EndDate": "1964-04-29",
     "Concerts": [
       {
         "Description": "Í samvinnu við Pétur Pétursson",
@@ -3999,6 +4015,8 @@
   },
   {
     "Title": "8. starfsár",
+    "BeginDate": "1964-11-27",
+    "EndDate": "1965-03-24",
     "Concerts": [
       {
         "Description": "",
@@ -4163,6 +4181,8 @@
   },
   {
     "Title": "9. starfsár",
+    "BeginDate": "1965-10-21",
+    "EndDate": "1966-06-02",
     "Concerts": [
       {
         "Description": "",
@@ -4488,6 +4508,8 @@
   },
   {
     "Title": "10. starfsár",
+    "BeginDate": "1966-12-04",
+    "EndDate": "1967-06-06",
     "Concerts": [
       {
         "Description": "",

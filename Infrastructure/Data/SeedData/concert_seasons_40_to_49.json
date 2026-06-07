@@ -1,6 +1,8 @@
 [
   {
     "Title": "40. starfsár",
+    "BeginDate": "1996-09-15",
+    "EndDate": "1997-03-09",
     "Concerts": [
       {
         "Description": "",
@@ -633,6 +635,8 @@
   },
   {
     "Title": "41. starfsár",
+    "BeginDate": "1997-09-07",
+    "EndDate": "1998-02-22",
     "Concerts": [
       {
         "Description": "Tónleikar helgaðir 200 ára afmæli Schuberts",
@@ -1127,6 +1131,8 @@
   },
   {
     "Title": "42. starfsár",
+    "BeginDate": "1998-09-13",
+    "EndDate": "1999-02-28",
     "Concerts": [
       {
         "Description": "",
@@ -1753,6 +1759,8 @@
   },
   {
     "Title": "43. starfsár",
+    "BeginDate": "1999-09-19",
+    "EndDate": "2000-02-27",
     "Concerts": [
       {
         "Description": "",
@@ -2283,6 +2291,8 @@
   },
   {
     "Title": "44. starfsár",
+    "BeginDate": "2000-10-01",
+    "EndDate": "2001-02-25",
     "Concerts": [
       {
         "Description": "",
@@ -2603,6 +2613,8 @@
   },
   {
     "Title": "45. starfsár",
+    "BeginDate": "2001-09-16",
+    "EndDate": "2002-02-24",
     "Concerts": [
       {
         "Description": "",
@@ -3094,6 +3106,8 @@
   },
   {
     "Title": "46. starfsár",
+    "BeginDate": "2002-09-22",
+    "EndDate": "2003-02-23",
     "Concerts": [
       {
         "Description": "",
@@ -3588,6 +3602,8 @@
   },
   {
     "Title": "47. starfsár",
+    "BeginDate": "2003-09-21",
+    "EndDate": "2004-02-22",
     "Concerts": [
       {
         "Description": "",
@@ -4142,6 +4158,8 @@
   },
   {
     "Title": "48. starfsár",
+    "BeginDate": "2004-09-19",
+    "EndDate": "2005-02-20",
     "Concerts": [
       {
         "Description": "",
@@ -4645,6 +4663,8 @@
   },
   {
     "Title": "49. starfsár",
+    "BeginDate": "2005-09-18",
+    "EndDate": "2006-03-05",
     "Concerts": [
       {
         "Description": "1. tónleikar",

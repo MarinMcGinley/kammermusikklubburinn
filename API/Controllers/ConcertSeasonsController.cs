@@ -37,7 +37,7 @@ public class ConcertSeasonsController(
     [HttpPost]
     public async Task<ActionResult<ConcertSeason>> CreateConcertSeason(CreateConcertSeasonDto concertSeason)
     {
-        var newConcertSeason = new ConcertSeason { Title = concertSeason.Title };
+        var newConcertSeason = new ConcertSeason { Title = concertSeason.Title, BeginDate = concertSeason.BeginDate, EndDate = concertSeason.EndDate };
         concertSeasonRepo.Add(newConcertSeason);
 
         if (await concertSeasonRepo.SaveAllAsync())
@@ -53,7 +53,7 @@ public class ConcertSeasonsController(
     {
         if (concertSeason.Id != id || !ConcertSeasonExists(id)) return NotFound();
 
-        concertSeasonRepo.Update(new ConcertSeason { Id = concertSeason.Id, Title = concertSeason.Title });
+        concertSeasonRepo.Update(new ConcertSeason { Id = concertSeason.Id, Title = concertSeason.Title, BeginDate = concertSeason.BeginDate, EndDate = concertSeason.EndDate   });
 
         if (await concertSeasonRepo.SaveAllAsync())
         {
