@@ -11,7 +11,9 @@ public static class ConcertSeasonMappingExtensions
         return new ConcertSeasonDto
         {
             Id = concertSeason.Id,
-            Title = concertSeason.Title
+            Title = concertSeason.Title,
+            BeginDate = concertSeason.BeginDate,
+            EndDate = concertSeason.EndDate
             // Concerts = concertSeason.Concerts.Select(x => x.ToDto()).ToList()
         };
     }

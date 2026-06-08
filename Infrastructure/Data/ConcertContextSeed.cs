@@ -64,7 +64,12 @@ public class ConcertContextSeed
 
                 foreach (string composer in composers)
                 {
-                    var newComposer = new Composer { Name = composer };
+                    var parts = composer.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+
+                    var firstName = string.Join(" ", parts.Take(parts.Length - 1));
+                    var lastName = parts.Last();
+
+                    var newComposer = new Composer { FirstName = firstName, LastName = lastName, Name = composer };
                     context.Composers.Add(newComposer);
                 }
 
@@ -96,8 +101,12 @@ public class ConcertContextSeed
                     var foundComposer = context.Composers.First(c => c.Name == composer.Composer);
                     if (foundComposer == null)
                     {
+                        var parts = composer.Composer.Split(' ', StringSplitOptions.RemoveEmptyEntries);
 
-                        foundComposer = new Composer { Name = composer.Composer };
+                        var firstName = string.Join(" ", parts.Take(parts.Length - 1));
+                        var lastName = parts.Last();
+
+                        foundComposer = new Composer { FirstName = firstName, LastName = lastName, Name = composer.Composer };
                         context.Composers.Add(foundComposer);
 
                         await context.SaveChangesAsync();
@@ -164,7 +173,7 @@ public class ConcertContextSeed
             foreach (SeedConcertSeason concertSeason in concertSeasons)
             {
                 _logger.LogInformation("Seeding concerts");
-                var newConcertSeason = new ConcertSeason { Title = concertSeason.Title };
+                var newConcertSeason = new ConcertSeason { Title = concertSeason.Title, BeginDate = concertSeason.BeginDate, EndDate = concertSeason.EndDate    };
                 context.ConcertSeasons.Add(newConcertSeason);
 
                 foreach (SeedConcert concert in concertSeason.Concerts)
@@ -176,7 +185,13 @@ public class ConcertContextSeed
                     foreach (SeedPiece piece in concert.Pieces)
                     {
                         Composer? newComposer = context.Composers.FirstOrDefault(x => x.Name == piece.Composer.Name);
-                        newComposer ??= new Composer { Name = piece.Composer.Name };
+
+                        var parts = piece.Composer.Name.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+
+                        var firstName = string.Join(" ", parts.Take(parts.Length - 1));
+                        var lastName = parts.Last();
+
+                        newComposer ??= new Composer { Name = piece.Composer.Name, FirstName = firstName, LastName = lastName };
 
                         if (newComposer.Id == 0) // not tracked yet
                         {
@@ -264,26 +279,26 @@ public class ConcertContextSeed
                 await SeedPiecesAsync(context);
                 await SeedInstrumentsAsync(context);
 
-                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_1_to_11.json");
-                _logger.LogInformation("Concert seasons 1 to 11 saved");
+                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_0_to_10.json");
+                _logger.LogInformation("Concert seasons 0 to 10 saved");
+    
+                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_11_to_20.json");
+                _logger.LogInformation("Concert seasons 11 to 20 saved");
 
-                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_12_to_21.json");
-                _logger.LogInformation("Concert seasons 12 to 21 saved");
+                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_21_to_29.json");
+                _logger.LogInformation("Concert seasons 21 to 29 saved");
 
-                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_22_to_30.json");
-                _logger.LogInformation("Concert seasons 22 to 30 saved");
+                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_30_to_39.json");
+                _logger.LogInformation("Concert seasons 30 to 39 saved");
 
-                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_31_to_40.json");
-                _logger.LogInformation("Concert seasons 31 to 40 saved");
+                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_40_to_49.json");
+                _logger.LogInformation("Concert seasons 40 to 49 saved");
 
-                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_41_to_50.json");
-                _logger.LogInformation("Concert seasons 41 to 50 saved");
+                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_50_to_59.json");
+                _logger.LogInformation("Concert seasons 50 to 59 saved");
 
-                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_51_to_60.json");
-                _logger.LogInformation("Concert seasons 51 to 60 saved");
-
-                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_61_to_69.json");
-                _logger.LogInformation("Concert seasons 61 to 69 saved");
+                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_60_to_68.json");
+                _logger.LogInformation("Concert seasons 60 to 68 saved");
 
             }
         }

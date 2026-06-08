@@ -1,6 +1,8 @@
 [
   {
-    "Title": "51. starfsár",
+    "Title": "50. starfsár",
+    "BeginDate": "2006-09-17",
+    "EndDate": "2007-03-11",
     "Concerts": [
       {
         "Description": "1. tónleikar, 17. sept. 2006",
@@ -490,7 +492,9 @@
     ]
   },
   {
-    "Title": "52. starfsár",
+    "Title": "51. starfsár",
+    "BeginDate": "2007-09-16",
+    "EndDate": "2008-02-10",
     "Concerts": [
       {
         "Description": "1. tónleikar, 16. sept. 2007",
@@ -1206,7 +1210,9 @@
     ]
   },
   {
-    "Title": "53. starfsár",
+    "Title": "52. starfsár",
+    "BeginDate": "2008-09-21",
+    "EndDate": "2009-02-15",
     "Concerts": [
       {
         "Description": "1. tónleikar, 21. sept. 2008",
@@ -1784,7 +1790,9 @@
     ]
   },
   {
-    "Title": "54. starfsár",
+    "Title": "53. starfsár",
+    "BeginDate": "2009-09-20",
+    "EndDate": "2010-03-20",
     "Concerts": [
       {
         "Description": "1. tónleikar, 20. sept. 2009",
@@ -2407,7 +2415,9 @@
     ]
   },
   {
-    "Title": "55. starfsár",
+    "Title": "54. starfsár",
+    "BeginDate": "2010-09-26",
+    "EndDate": "2011-02-20",
     "Concerts": [
       {
         "Description": "1. tónleikar, 26. sept. 2010",
@@ -2889,7 +2899,9 @@
     ]
   },
   {
-    "Title": "56. starfsár",
+    "Title": "55. starfsár",
+    "BeginDate": "2011-09-25",
+    "EndDate": "2012-02-19",
     "Concerts": [
       {
         "Description": "1. tónleikar, 25. sept. 2011",
@@ -3359,7 +3371,9 @@
     ]
   },
   {
-    "Title": "57. starfsár",
+    "Title": "56. starfsár",
+    "BeginDate": "2012-09-30",
+    "EndDate": "2013-03-17",
     "Concerts": [
       {
         "Description": "1. tónleikar, sunnudaginn 30. sept. 2012",
@@ -3478,7 +3492,7 @@
             "GroupName": "",
             "Performers": [
               {
-                "Name": "Ari Þór Vilhjálmsson (Schubert)",
+                "Name": "Ari Þór Vilhjálmsson",
                 "Instrument": {
                   "Name": "fiðla"
                 }
@@ -3931,7 +3945,9 @@
     ]
   },
   {
-    "Title": "58. starfsár",
+    "Title": "57. starfsár",
+    "BeginDate": "2013-09-29",
+    "EndDate": "2014-03-16",
     "Concerts": [
       {
         "Description": "1. tónleikar sunnudag 29. sept. 2013",
@@ -4392,7 +4408,9 @@
     ]
   },
   {
-    "Title": "59. starfsár",
+    "Title": "58. starfsár",
+    "BeginDate": "2014-09-21",
+    "EndDate": "2015-03-01",
     "Concerts": [
       {
         "Description": "1. tónleikar, sunnudaginn 21. sept. 2014",
@@ -4833,7 +4851,9 @@
     ]
   },
   {
-    "Title": "60. starfsár",
+    "Title": "59. starfsár",
+    "BeginDate": "2015-09-27",
+    "EndDate": "2016-02-28",
     "Concerts": [
       {
         "Description": "1. tónleikar 27. sept. 2015",

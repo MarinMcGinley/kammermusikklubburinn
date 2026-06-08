@@ -1,6 +1,8 @@
 [
   {
-    "Title": "61. starfsár",
+    "Title": "60. starfsár",
+    "BeginDate": "2016-09-25",
+    "EndDate": "2017-02-26",
     "Concerts": [
       {
         "Description": "1. tónleikar",
@@ -377,7 +379,9 @@
     ]
   },
   {
-    "Title": "62. starfsár",
+    "Title": "61. starfsár",
+    "BeginDate": "2017-09-24",
+    "EndDate": "2018-02-18",
     "Concerts": [
       {
         "Description": "1. tónleikar",
@@ -810,7 +814,9 @@
     ]
   },
   {
-    "Title": "63. starfsár",
+    "Title": "62. starfsár",
+    "BeginDate": "2018-09-16",
+    "EndDate": "2019-02-24",
     "Concerts": [
       {
         "Description": "1. tónleikar",
@@ -1096,7 +1102,7 @@
             "GroupName": "",
             "Performers": [
               {
-                "Name": "Ari Þór Vilhjálmsson",
+                "Name": "Sigurbjörn Bernharðsson",
                 "Instrument": { "Name": "fiðla" }
               },
               {
@@ -1318,7 +1324,9 @@
     ]
   },
   {
-    "Title": "64. starfsár",
+    "Title": "63. starfsár",
+    "BeginDate": "2019-09-29",
+    "EndDate": "2020-03-08",
     "Concerts": [
       {
         "Description": "1. tónleikar",
@@ -1671,7 +1679,9 @@
     ]
   },
   {
-    "Title": "65. starfsár",
+    "Title": "64. starfsár",
+    "BeginDate": "2020-09-27",
+    "EndDate": "2021-03-21",
     "Concerts": [
       {
         "Description": "1. tónleikar",
@@ -2006,7 +2016,9 @@
     ]
   },
   {
-    "Title": "66. starfsár",
+    "Title": "65. starfsár",
+    "BeginDate": "2021-09-19",
+    "EndDate": "2022-03-16",
     "Concerts": [
       {
         "Description": "1. tónleikar",
@@ -2492,7 +2504,9 @@
     ]
   },
   {
-    "Title": "67. starfsár",
+    "Title": "66. starfsár",
+    "BeginDate": "2022-09-18",
+    "EndDate": "2023-02-12",
     "Concerts": [
       {
         "Description": "1. tónleikar",
@@ -2823,7 +2837,9 @@
     ]
   },
   {
-    "Title": "68. starfsár",
+    "Title": "67. starfsár",
+    "BeginDate": "2023-09-30",
+    "EndDate": "2024-02-04",
     "Concerts": [
       {
         "Description": "1. tónleikar",
@@ -3252,7 +3268,9 @@
     ]
   },
   {
-    "Title": "69. starfsár",
+    "Title": "68. starfsár",
+    "BeginDate": "2024-09-22",
+    "EndDate": "2025-03-09",
     "Concerts": [
       {
         "Description": "1. tónleikar",

@@ -34,7 +34,7 @@ namespace API.Controllers
         {
             if (composer.Id != id || !ComposerExists(id)) return NotFound();
 
-            composerRepo.Update(new Composer { Id = composer.Id, Name = composer.Name });
+            composerRepo.Update(new Composer { Id = composer.Id, Name = composer.FirstName + " " + composer.LastName, FirstName = composer.FirstName, LastName = composer.LastName });
 
             if (await composerRepo.SaveAllAsync())
             {
@@ -66,7 +66,7 @@ namespace API.Controllers
         public async Task<ActionResult<Composer>> CreateComposer(CreateComposerDto composer)
         {
 
-            var newComposer = new Composer { Name = composer.Name };
+            var newComposer = new Composer { Name = composer.FirstName + " " + composer.LastName, FirstName = composer.FirstName, LastName = composer.LastName };
 
             composerRepo.Add(newComposer);
 

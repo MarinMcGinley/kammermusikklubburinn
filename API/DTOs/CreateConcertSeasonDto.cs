@@ -7,6 +7,10 @@ public class CreateConcertSeasonDto
 {
     [Required]
     public string Title { get; set; } = string.Empty;
+    [Required]
+    public DateTime BeginDate { get; set; }
+    [Required]
+    public DateTime EndDate { get; set; }
 
     // Example for double
     // [Range(0.01, double.MaxValue, ErrorMessage = "Prixe must be greater than zero")]

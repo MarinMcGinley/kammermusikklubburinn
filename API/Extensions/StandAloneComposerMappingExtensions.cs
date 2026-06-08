@@ -13,6 +13,8 @@ public static class StandAloneComposerMappingExtensions
         {
             Id = composer.Id,
             Name = composer.Name,
+            LastName = composer.LastName,
+            FirstName = composer.FirstName,
             Pieces = composer.Pieces.Select(x => x.ToComposerPieceDto()).ToList()
         };
     }

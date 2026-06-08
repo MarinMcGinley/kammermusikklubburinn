@@ -1,6 +1,8 @@
 [
   {
-    "Title": "22. starfsár",
+    "Title": "21. starfsár",
+    "BeginDate": "1977-11-26",
+    "EndDate": "1978-04-02",
     "Concerts": [
       {
         "Description": "",
@@ -372,7 +374,9 @@
     ]
   },
   {
-    "Title": "23. starfsár",
+    "Title": "22. starfsár",
+    "BeginDate": "1978-10-05",
+    "EndDate": "1979-04-01",
     "Concerts": [
       {
         "Description": "",
@@ -974,7 +978,9 @@
     ]
   },
   {
-    "Title": "24. starfsár",
+    "Title": "23. starfsár",
+    "BeginDate": "1979-10-23",
+    "EndDate": "1980-03-16",
     "Concerts": [
       {
         "Description": "",
@@ -1327,7 +1333,9 @@
     ]
   },
   {
-    "Title": "25. starfsár",
+    "Title": "24. starfsár",
+    "BeginDate": "1980-09-28",
+    "EndDate": "1981-04-06",
     "Concerts": [
       {
         "Description": "",
@@ -1815,7 +1823,9 @@
     ]
   },
   {
-    "Title": "26. starfsár",
+    "Title": "25. starfsár",
+    "BeginDate": "1981-10-25",
+    "EndDate": "1982-05-23",
     "Concerts": [
       {
         "Description": "",
@@ -2312,7 +2322,9 @@
     ]
   },
   {
-    "Title": "27. starfsár",
+    "Title": "26. starfsár",
+    "BeginDate": "1982-11-25",
+    "EndDate": "1983-03-20",
     "Concerts": [
       {
         "Description": "",
@@ -2722,7 +2734,9 @@
     ]
   },
   {
-    "Title": "28. starfsár",
+    "Title": "27. starfsár",
+    "BeginDate": "1983-10-02",
+    "EndDate": "1984-05-13",
     "Concerts": [
       {
         "Description": "",
@@ -3252,7 +3266,9 @@
     ]
   },
   {
-    "Title": "29. starfsár",
+    "Title": "28. starfsár",
+    "BeginDate": "1984-11-03",
+    "EndDate": "1985-05-05",
     "Concerts": [
       {
         "Description": "",
@@ -3767,7 +3783,9 @@
     ]
   },
   {
-    "Title": "30. starfsár",
+    "Title": "29. starfsár",
+    "BeginDate": "1985-10-26",
+    "EndDate": "1986-04-07",
     "Concerts": [
       {
         "Description": "„Þess er minnst, að liðin eru 300 ár frá því Johann Sebastian Bach fæddist.“",
