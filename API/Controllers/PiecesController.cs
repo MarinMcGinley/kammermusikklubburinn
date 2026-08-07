@@ -35,7 +35,8 @@ namespace API.Controllers
             return Piece.ToDto();
         }
 
-        [HttpPut("{id:int}")]
+        // [HttpPut("{id:int}")]
+        [NonAction]
         public async Task<ActionResult> UpdatePiece(int id, UpdatePieceDto piece)
         {
             if (piece.Id != id || !PieceExists(id)) return NotFound();
@@ -56,7 +57,8 @@ namespace API.Controllers
             return BadRequest("Problem updating the piece");
         }
 
-        [HttpDelete("{id:int}")]
+        // [HttpDelete("{id:int}")]
+        [NonAction]
         public async Task<ActionResult> DeletePiece(int id)
         {
             var Piece = await pieceRepo.GetByIdAsync(id);
@@ -73,7 +75,8 @@ namespace API.Controllers
             return BadRequest("Problem deleting the piece");
         }
 
-        [HttpPost]
+        // [HttpPost]
+        [NonAction]
         public async Task<ActionResult<Piece>> CreatePiece(CreatePieceDto piece)
         {
 

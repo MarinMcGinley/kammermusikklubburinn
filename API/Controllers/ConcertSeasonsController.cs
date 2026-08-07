@@ -34,7 +34,8 @@ public class ConcertSeasonsController(
         return concertSeason.ToDto();
     }
 
-    [HttpPost]
+    // [HttpPost]
+    [NonAction]
     public async Task<ActionResult<ConcertSeason>> CreateConcertSeason(CreateConcertSeasonDto concertSeason)
     {
         var newConcertSeason = new ConcertSeason { Title = concertSeason.Title, BeginDate = concertSeason.BeginDate, EndDate = concertSeason.EndDate };
@@ -48,7 +49,8 @@ public class ConcertSeasonsController(
         return BadRequest("Problem creating concert season");
     }
 
-    [HttpPut("{id:int}")]
+    // [HttpPut("{id:int}")]
+    [NonAction]
     public async Task<ActionResult> UpdateConcertSeason(int id, UpdateConcertSeasonDto concertSeason)
     {
         if (concertSeason.Id != id || !ConcertSeasonExists(id)) return NotFound();
@@ -63,7 +65,8 @@ public class ConcertSeasonsController(
         return BadRequest("Problem updating the concert season");
     }
 
-    [HttpDelete("{id:int}")]
+    // [HttpDelete("{id:int}")]
+    [NonAction]
     public async Task<ActionResult> DeleteConcertSeason(int id)
     {
         var concertSeason = await concertSeasonRepo.GetByIdAsync(id);

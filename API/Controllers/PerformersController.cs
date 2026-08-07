@@ -32,7 +32,8 @@ namespace API.Controllers
             return performer.ToDto();
         }
 
-        [HttpPut("{id:int}")]
+        // [HttpPut("{id:int}")]
+        [NonAction]
         public async Task<ActionResult> UpdatePerformer(int id, UpdatePerformerDto performer)
         {
             if (performer.Id != id || !PerformerExists(id)) return NotFound();
@@ -47,7 +48,8 @@ namespace API.Controllers
             return BadRequest("Problem updating the performer");
         }
 
-        [HttpDelete("{id:int}")]
+        // [HttpDelete("{id:int}")]
+        [NonAction]
         public async Task<ActionResult> DeletePerformer(int id)
         {
             var performer = await performerRepo.GetByIdAsync(id);
@@ -64,7 +66,8 @@ namespace API.Controllers
             return BadRequest("Problem deleting the performer");
         }
 
-        [HttpPost]
+        // [HttpPost]
+        [NonAction]
         public async Task<ActionResult<Performer>> CreatePerformer(CreatePerformerDto performer)
         {
 
