@@ -1470,7 +1470,7 @@
             ]
           },
           {
-            "Title": "Klarínettutríó Es-dúr K 498 (Kegelstatt)",
+            "Title": "Tríó Es-dúr K. 498 (Kegelstatt-tríóið)",
             "Composer": { "Name": "Wolfgang Amadeus Mozart" },
             "GroupName": "",
             "Performers": [
@@ -2523,7 +2523,7 @@
                 "Instrument": { "Name": "fiðla" }
               },
               {
-                "Name": "Þórunn Ósk Marínósdóttir",
+                "Name": "Þórunn Ósk Marinósdóttir",
                 "Instrument": { "Name": "víóla" }
               },
               {
@@ -2547,7 +2547,7 @@
                 "Instrument": { "Name": "fiðla" }
               },
               {
-                "Name": "Þórunn Ósk Marínósdóttir",
+                "Name": "Þórunn Ósk Marinósdóttir",
                 "Instrument": { "Name": "víóla" }
               },
               {
@@ -3722,6 +3722,444 @@
               {
                 "Name": "Sigurður Bjarki Gunnarsson",
                 "Instrument": { "Name": "selló" }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Title": "69. starfsár",
+    "BeginDate": "2025-09-28",
+    "EndDate": "2026-05-03",
+    "Concerts": [
+      {
+        "Description": "Afmælisfögnuður: Pärt og Ravel",
+        "Date": "2025-09-28",
+        "Pieces": [
+          {
+            "Title": "Mozart-Adagio",
+            "Composer": { "Name": "Arvo Pärt" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Ari Þór Vilhjálmsson",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              {
+                "Name": "Sigurgeir Agnarsson",
+                "Instrument": { "Name": "Selló" }
+              },
+              { "Name": "Liam Kaplan", "Instrument": { "Name": "Píanó" } }
+            ]
+          },
+          {
+            "Title": "Spiegel im Spiegel",
+            "Composer": { "Name": "Arvo Pärt" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Sigurgeir Agnarsson",
+                "Instrument": { "Name": "Selló" }
+              },
+              { "Name": "Liam Kaplan", "Instrument": { "Name": "Píanó" } }
+            ]
+          },
+          {
+            "Title": "Sónata nr. 2",
+            "Composer": { "Name": "Maurice Ravel" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Ari Þór Vilhjálmsson",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              { "Name": "Liam Kaplan", "Instrument": { "Name": "Píanó" } }
+            ]
+          },
+          {
+            "Title": "Píanótríó a-moll",
+            "Composer": { "Name": "Maurice Ravel" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Ari Þór Vilhjálmsson",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              {
+                "Name": "Sigurgeier Agnarsson",
+                "Instrument": { "Name": "Selló" }
+              },
+              { "Name": "Liam Kaplan", "Instrument": { "Name": "Píanó" } }
+            ]
+          }
+        ]
+      },
+      {
+        "Description": "Á vit ævintýranna: Frid, Schumann og Mozart",
+        "Date": "2025-11-09",
+        "Pieces": [
+          {
+            "Title": "Sónata nr. 1 op. 62",
+            "Composer": { "Name": "Grigory Frid" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Ásdís Valdimarsdóttir",
+                "Instrument": { "Name": "Víóla" }
+              },
+              { "Name": "Elisaveta Blumina", "Instrument": { "Name": "Píanó" } }
+            ]
+          },
+          {
+            "Title": "Children's Pieces",
+            "Composer": { "Name": "Grigory Frid" },
+            "GroupName": "",
+            "Performers": [
+              { "Name": "Elisaveta Blumina", "Instrument": { "Name": "Píanó" } }
+            ]
+          },
+          {
+            "Title": "Märchenbilder op. 113",
+            "Composer": { "Name": "Robert Schumann" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Ásdís Valdimarsdóttir",
+                "Instrument": { "Name": "Víóla" }
+              },
+              { "Name": "Elisaveta Blumina", "Instrument": { "Name": "Píanó" } }
+            ]
+          },
+          {
+            "Title": "Märchenerzählungen op. 132",
+            "Composer": { "Name": "Robert Schumann" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Grímur Helgason",
+                "Instrument": { "Name": "Klarinett" }
+              },
+              {
+                "Name": "Ásdís Valdimarsdóttir",
+                "Instrument": { "Name": "Víóla" }
+              },
+              { "Name": "Elisaveta Blumina", "Instrument": { "Name": "Píanó" } }
+            ]
+          },
+          {
+            "Title": "Tríó Es-dúr K. 498 (Kegelstatt-tríóið)",
+            "Composer": { "Name": "Wolfgang Amadeus Mozart" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Grímur Helgason",
+                "Instrument": { "Name": "Klarinett" }
+              },
+              {
+                "Name": "Ásdís Valdimarsdóttir",
+                "Instrument": { "Name": "Víóla" }
+              },
+              { "Name": "Elisaveta Blumina", "Instrument": { "Name": "Píanó" } }
+            ]
+          }
+        ]
+      },
+      {
+        "Description": "Kvartettferðalag: Austurríki til Jamaíka",
+        "Date": "2026-01-18",
+        "Pieces": [
+          {
+            "Title": "Strengjakvartett í f-moll, op. 20 nr. 5",
+            "Composer": { "Name": "Joseph Haydn" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Rannveig Marta Sarc",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              {
+                "Name": "Herdís Mjöll Guðmundsdóttir",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              { "Name": "Brian Hong", "Instrument": { "Name": "Víóla" } },
+              {
+                "Name": "Geirþrúður Anna Guðmundsdóttir",
+                "Instrument": { "Name": "Selló" }
+              }
+            ]
+          },
+          {
+            "Title": "Strengjakvartett nr. 2",
+            "Composer": { "Name": "Eleanor Alberga" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Rannveig Marta Sarc",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              {
+                "Name": "Herdís Mjöll Guðmundsdóttir",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              { "Name": "Brian Hong", "Instrument": { "Name": "Víóla" } },
+              {
+                "Name": "Geirþrúður Anna Guðmundsdóttir",
+                "Instrument": { "Name": "Selló" }
+              }
+            ]
+          },
+          {
+            "Title": "Strengjakvartett í f-moll, op. 80 nr. 6",
+            "Composer": { "Name": "Felix Mendelssohn" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Rannveig Marta Sarc",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              {
+                "Name": "Herdís Mjöll Guðmundsdóttir",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              { "Name": "Brian Hong", "Instrument": { "Name": "Víóla" } },
+              {
+                "Name": "Geirþrúður Anna Guðmundsdóttir",
+                "Instrument": { "Name": "Selló" }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Description": "Upphaf og endir: Shostakovich",
+        "Date": "2026-03-15",
+        "Pieces": [
+          {
+            "Title": "Píanótríó nr. 1 í c-moll, op. 8",
+            "Composer": { "Name": "Dmitri Dmitriyevich Shostakovich" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Judith Ingólfsson",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              {
+                "Name": "Bryndís Halla Gylfadóttir",
+                "Instrument": { "Name": "Selló" }
+              },
+              { "Name": "Vladimir Stoupel", "Instrument": { "Name": "Píanó" } }
+            ]
+          },
+          {
+            "Title": "Sónata fyrir fiðlu og píanó í G-dúr, op. 134",
+            "Composer": { "Name": "Dmitri Dmitriyevich Shostakovich" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Judith Ingólfsson",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              { "Name": "Vladimir Stoupel", "Instrument": { "Name": "Píanó" } }
+            ]
+          },
+          {
+            "Title": "Sónata fyrir víólu og píanó, op. 147",
+            "Composer": { "Name": "Dmitri Dmitriyevich Shostakovich" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Judith Ingólfsson",
+                "Instrument": { "Name": "Víóla" }
+              },
+              { "Name": "Vladimir Stoupel", "Instrument": { "Name": "Píanó" } }
+            ]
+          }
+        ]
+      },
+      {
+        "Description": "Fjölskyldutónleikar Hörpu og Kammermúsíkklúbbsins",
+        "Date": "2026-04-12T14:00",
+        "Pieces": [
+          {
+            "Title": "Strengjakvartett í F-dúr, 2. kafli",
+            "Composer": { "Name": "Maurice Ravel" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Björney Aronsdóttir",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              {
+                "Name": "Steinunn Dís Öfjörð Sævarsdóttir",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              {
+                "Name": "Haraldur Áss Liljuson",
+                "Instrument": { "Name": "Víóla" }
+              },
+              {
+                "Name": "Urður Eir Baldursdóttir",
+                "Instrument": { "Name": "Selló" }
+              }
+            ]
+          },
+          {
+            "Title": "Píanótríó í d-moll op. 49, 1. kafli",
+            "Composer": { "Name": "Felix Mendelssohn" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Sveindís Eir Steinunnardóttir",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              {
+                "Name": "Baldur Þórarinsson",
+                "Instrument": { "Name": "Selló" }
+              },
+              { "Name": "Sól Björnsdóttir", "Instrument": { "Name": "Píanó" } }
+            ]
+          },
+          {
+            "Title": "Terzetto í C-dúr, 1. kafli",
+            "Composer": { "Name": "Antonín Dvořák" },
+            "GroupName": "",
+            "Performers": [
+              { "Name": "Rozalia Mietus", "Instrument": { "Name": "Fiðla" } },
+              {
+                "Name": "Hugrún Birna Hjaltadóttir",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              {
+                "Name": "Arndís Ólafía Snorradóttir",
+                "Instrument": { "Name": "Víóla" }
+              }
+            ]
+          },
+          {
+            "Title": "Píanótríó í e-moll op. 67, 4. kafli",
+            "Composer": { "Name": "Dmitri Dmitriyevich Shostakovich" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Þórdís Emiliía Aronsdóttir",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              {
+                "Name": "Anton Ragnar Vigfússon",
+                "Instrument": { "Name": "Selló" }
+              },
+              {
+                "Name": "Jakob Piotr Grybos",
+                "Instrument": { "Name": "Píanó" }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Description": "Lokatónar: Mozart, Brahms, Britten og Vaka",
+        "Date": "2026-05-03",
+        "Pieces": [
+          {
+            "Title": "Flautukvartett í D-dúr, K. 285",
+            "Composer": { "Name": "Wolfgang Amadeus Mozart" },
+            "GroupName": "STROKKKVARTETTINN SIGGI",
+            "Performers": [
+              {
+                "Name": "Emilía Rós Sigfúsdóttir",
+                "Instrument": { "Name": "Flauta" }
+              },
+              {
+                "Name": "Una Sveinbjarnardóttir",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              {
+                "Name": "Sólveig Steinþórsdóttir",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              {
+                "Name": "Þórunn Ósk Marinósdóttir",
+                "Instrument": { "Name": "Víóla" }
+              },
+              {
+                "Name": "Sigurður Bjarki Gunnarsson",
+                "Instrument": { "Name": "Selló" }
+              }
+            ]
+          },
+          {
+            "Title": "ROF",
+            "Composer": { "Name": "Veronique Vaka" },
+            "GroupName": "",
+            "Performers": [
+              {
+                "Name": "Una Sveinbjarnardóttir",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              {
+                "Name": "Sólveig Steinþórsdóttir",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              {
+                "Name": "Þórunn Ósk Marinósdóttir",
+                "Instrument": { "Name": "Víóla" }
+              },
+              {
+                "Name": "Sigurður Bjarki Gunnarsson",
+                "Instrument": { "Name": "Selló" }
+              }
+            ]
+          },
+          {
+            "Title": "Phantasy Quartet op. 2",
+            "Composer": { "Name": "Benjamin Britten" },
+            "GroupName": "STROKKKVARTETTINN SIGGI",
+            "Performers": [
+              { "Name": "Julia Hantschel", "Instrument": { "Name": "Óbó" } },
+              {
+                "Name": "Una Sveinbjarnardóttir",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              {
+                "Name": "Sólveig Steinþórsdóttir",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              {
+                "Name": "Þórunn Ósk Marinósdóttir",
+                "Instrument": { "Name": "Víóla" }
+              },
+              {
+                "Name": "Sigurður Bjarki Gunnarsson",
+                "Instrument": { "Name": "Selló" }
+              }
+            ]
+          },
+          {
+            "Title": "Píanókvintett f-moll op. 34",
+            "Composer": { "Name": "Johannes Brahms" },
+            "GroupName": "STROKKKVARTETTINN SIGGI",
+            "Performers": [
+              {
+                "Name": "Mathias Susaas Halvorsen",
+                "Instrument": { "Name": "Píanó" }
+              },
+              {
+                "Name": "Una Sveinbjarnardóttir",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              {
+                "Name": "Sólveig Steinþórsdóttir",
+                "Instrument": { "Name": "Fiðla" }
+              },
+              {
+                "Name": "Þórunn Ósk Marinósdóttir",
+                "Instrument": { "Name": "Víóla" }
+              },
+              {
+                "Name": "Sigurður Bjarki Gunnarsson",
+                "Instrument": { "Name": "Selló" }
               }
             ]
           }

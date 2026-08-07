@@ -2,6 +2,8 @@
   "ConcertSeasons": [
     {
       "Title": "string",
+      "BeginDate": "2024-09-22",
+      "EndDate": "2025-03-09",
       "Concerts": [
         {
           "Description": "string",
