@@ -1,8 +1,10 @@
 using System.Text.Json.Serialization;
+using System.Threading.RateLimiting;
 using API.Middleware;
 using Core.Entities;
 using Core.Interfaces;
 using Infrastructure.Data;
+using Microsoft.AspNetCore.RateLimiting;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -19,11 +21,42 @@ builder.Services.AddDbContext<ConcertContext>(opt =>
 });
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 builder.Services.AddOpenApi();
-// builder.Services.AddCors();
+
+// ATT! Review as nessesary
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("WebsiteOnly", policy =>
+    {
+        policy
+            .WithOrigins(
+                // "https://yourwebsite.is",
+                // "https://www.yourwebsite.is"
+                "https://localhost:5001",
+                "http://localhost:5000"
+            )
+            .WithMethods("GET")
+            .AllowAnyHeader();
+    });
+});
+
+builder.Services.AddRateLimiter(options =>
+{
+    options.AddPolicy("fixed", httpContext =>
+        RateLimitPartition.GetFixedWindowLimiter(
+            partitionKey: httpContext.Connection.RemoteIpAddress?.ToString(),
+            factory: _ => new FixedWindowRateLimiterOptions
+            {
+                PermitLimit = 100,
+                Window = TimeSpan.FromMinutes(1),
+                QueueLimit = 0
+            }));
+});
 
 var app = builder.Build();
 
 app.UseMiddleware<ExceptionMiddleware>();
+app.UseCors("WebsiteOnly");
+app.UseRateLimiter();
 app.MapOpenApi();
 // app.UseCors(x => x.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:4200", "https://localhost:4200"));
 app.MapControllers();

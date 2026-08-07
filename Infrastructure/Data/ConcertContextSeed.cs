@@ -297,7 +297,7 @@ public class ConcertContextSeed
                 await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_50_to_59.json");
                 _logger.LogInformation("Concert seasons 50 to 59 saved");
 
-                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_60_to_68.json");
+                await SeedConcertSeasons(context, "../Infrastructure/Data/SeedData/concert_seasons_60_to_69.json");
                 _logger.LogInformation("Concert seasons 60 to 68 saved");
 
             }

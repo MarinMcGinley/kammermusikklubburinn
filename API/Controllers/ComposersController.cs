@@ -29,7 +29,8 @@ namespace API.Controllers
             return composer.ToStandAloneComposerDto();
         }
 
-        [HttpPut("{id:int}")]
+        // [HttpPut("{id:int}")]
+        [NonAction]
         public async Task<ActionResult> UpdateComposer(int id, UpdateComposerDto composer)
         {
             if (composer.Id != id || !ComposerExists(id)) return NotFound();
@@ -45,7 +46,8 @@ namespace API.Controllers
         }
 
 
-        [HttpDelete("{id:int}")]
+        // [HttpDelete("{id:int}")]
+        [NonAction]
         public async Task<ActionResult> DeleteComposer(int id)
         {
             var composer = await composerRepo.GetByIdAsync(id);
@@ -62,7 +64,8 @@ namespace API.Controllers
             return BadRequest("Problem deleting the composer");
         }
 
-        [HttpPost]
+        // [HttpPost]
+        [NonAction]
         public async Task<ActionResult<Composer>> CreateComposer(CreateComposerDto composer)
         {
 

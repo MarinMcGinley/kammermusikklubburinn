@@ -33,7 +33,8 @@ namespace API.Controllers
             return concert.ToDto();
         }
 
-        [HttpPut("{id:int}")]
+        // [HttpPut("{id:int}")]
+        [NonAction]
         public async Task<ActionResult> UpdateConcert(int id, UpdateConcertDto concert)
         {
             if (concert.Id != id || !ConcertExists(id)) return NotFound();
@@ -52,7 +53,8 @@ namespace API.Controllers
             return BadRequest("Problem updating the concert");
         }
 
-        [HttpPost]
+        // [HttpPost]
+        [NonAction]
         public async Task<ActionResult<Concert>> CreateConcert(CreateConcertDto concert)
         {
             var concertSeason = await concertSeasonRepo.GetByIdAsync(concert.ConcertSeasonId);
@@ -71,7 +73,8 @@ namespace API.Controllers
             return BadRequest("Problem creating concert");
         }
 
-        [HttpDelete("{id:int}")]
+        // [HttpDelete("{id:int}")]
+        [NonAction]
         public async Task<ActionResult> DeleteConcert(int id)
         {
             var concert = await concertRepo.GetByIdAsync(id);
